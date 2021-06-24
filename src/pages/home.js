@@ -1,5 +1,4 @@
 import React from 'react';
-import 'bootstrap/scss/bootstrap';
 
 export default function Home() {
   return (
