@@ -5,6 +5,7 @@ import Menu from './components/menu';
 
 import Home from './pages/home';
 import Laura from './pages/laura';
+import Prueba from './pages/prueba';
 
 import Presentacion from './pages/Presentacion';
 import { BrowserRouter as Router, Switch, Redirect } from 'react-router-dom';
@@ -30,6 +31,11 @@ export default function App() {
             <Router exact path="/laura">
               <Laura />
             </Router>
+
+            <Router exact path="/prueba">
+              <Prueba />
+            </Router>
+
           </Switch>
         </div>
       </Router>
