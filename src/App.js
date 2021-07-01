@@ -1,7 +1,11 @@
 import React from 'react';
 import Header from './components/Header';
 import Footer from './components/Footer';
+import Menu from './components/menu';
+
 import Home from './pages/home';
+import Laura from './pages/laura';
+
 import Presentacion from './pages/Presentacion';
 import { BrowserRouter as Router, Switch, Redirect } from 'react-router-dom';
 
@@ -12,6 +16,7 @@ export default function App() {
     <div>
       <Header />
       <Router>
+        <Menu />
         <div>
           <Switch>
             <Router exact path="/">
@@ -20,6 +25,10 @@ export default function App() {
 
             <Router exact path="/presentacion">
               <Presentacion />
+            </Router>
+
+            <Router exact path="/laura">
+              <Laura />
             </Router>
           </Switch>
         </div>
