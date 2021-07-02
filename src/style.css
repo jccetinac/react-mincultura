@@ -1,3 +1,7 @@
 h1, p {
   font-family: Lato;
 }
+.p-5 {padding:10%;}
+
+b {color:black;}
+.menu li{color:gray;}

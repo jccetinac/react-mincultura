@@ -3,6 +3,8 @@ import Header from './components/Header';
 import Footer from './components/Footer';
 import Menu from './components/menu';
 
+
+
 import Home from './pages/home';
 import Laura from './pages/laura';
 import Prueba from './pages/prueba';
@@ -11,15 +13,20 @@ import Presentacion from './pages/Presentacion';
 import { BrowserRouter as Router, Switch, Redirect } from 'react-router-dom';
 
 import './style.css';
-
 export default function App() {
   return (
+    
     <div>
       <Header />
-      <Router>
-        <Menu />
+      <div className="row">
+      <div className=" p-5 col-md-3 ">
+      <Menu/>
+    </div>
+      <div className="col-md-9">
+        contenido
+        <Router>
         <div>
-          <Switch>
+           <Switch>
             <Router exact path="/">
               <Home />
             </Router>
@@ -39,7 +46,9 @@ export default function App() {
           </Switch>
         </div>
       </Router>
-      <Footer />
+      </div>
+      </div>
+     <Footer />
     </div>
   );
 }
