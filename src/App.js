@@ -23,7 +23,6 @@ export default function App() {
       <Menu/>
     </div>
       <div className="col-md-9">
-        contenido
         <Router>
         <div>
            <Switch>

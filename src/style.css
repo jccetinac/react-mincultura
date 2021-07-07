@@ -3,5 +3,29 @@ h1, p {
 }
 .p-5 {padding:10%;}
 
-b {color:black;}
-.menu li{color:gray;}
+b {color:black;} /*MAL*/
+
+.negrita  {color:black;}  /* bien y se usa asi: <p  className="negrita" >      */ 
+.menu li{color:gray;}   
+
+.titulorojo{color: red;}
+.cursiva{color: green;}
+.subtituloazul{color: blue;}
+
+.parrafo{
+  color:#333333;
+  width: 80%;
+  text-align: justify;
+  display: block;
+  margin: auto;
+  margin-bottom: 15px;
+}
+
+
+.page{
+    padding-top: 100px; 
+    text-align:center;
+    margin-top: 50px;
+    padding-bottom: 100px;
+  
+  }

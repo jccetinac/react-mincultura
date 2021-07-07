@@ -7,7 +7,7 @@ export default function Menu() {
       
       <p><b>Presentacion</b></p>
       <p><b>Introduccion</b></p>        
-      <p><b>Elementos que configuran las pedagogías de las músicas de tradición oral</b></p>
+      <p><b className="negrita">Elementos que configuran las pedagogías de las músicas de tradición oral</b></p>
       <p>1. Dimensiones</p>  
         <ul>
           <li>
