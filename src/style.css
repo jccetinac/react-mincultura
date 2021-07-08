@@ -21,7 +21,6 @@ b {color:black;} /*MAL*/
   margin-bottom: 15px;
 }
 
-
 .page{
     padding-top: 100px; 
     text-align:center;
@@ -29,3 +28,49 @@ b {color:black;} /*MAL*/
     padding-bottom: 100px;
   
   }
+
+  .imagenmin{
+    width:80% ;
+    max-width: 500px;
+    display: block;
+    margin: auto;
+    margin-top: 35px;
+    margin-bottom: 35px;
+  }
+  
+  .tablamin{
+    width:90% ;
+    max-width:800px;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom:30px ;
+  }
+
+
+  .tablamin td {
+  border-collapse: collapse;
+  border: 1px solid red;
+  text-align: left;
+  padding:5px;
+ }
+
+ .tablamin th {
+  border-collapse: collapse;
+  border: 1px solid white;
+  color:white;
+  background-color: red;
+  text-align: center;
+  padding:5px;
+}
+
+
+ .videomin{
+  width:80%;
+  max-width:600px ;
+  height:315px;
+  margin: auto;
+  margin-top: 30px;
+  margin-bottom:30px ;
+  }
+
+
