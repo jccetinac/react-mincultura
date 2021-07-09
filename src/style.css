@@ -73,4 +73,12 @@ b {color:black;} /*MAL*/
   margin-bottom:30px ;
   }
 
+  a {
+    color:red ;
+    text-decoration: none;
+  }
+  a:hover {
+    color: blueviolet;
+  }
+
 
