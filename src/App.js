@@ -23,25 +23,28 @@ export default function App() {
   return (
     
     <div>
-      <Header />
+      <Header/>
       <div className="row">
-      <div className=" p-5 col-md-3 ">
-      <Menu/>
-    </div>
+  
       <div className="col-md-9">
         <Router>
-        <div>
+         
+          <Menu/>
+          
+          <div>
            <Switch>
             <Router exact path="/" component={Home} />
             <Route exact path="/laura" component={Laura} />
             <Route exact path="/presentacion" component={Presentacion} />
             <Route exact path="/prueba" component={Prueba} />
-            </Switch>
-        </div>
+          </Switch>
+            </div>
+            
       </Router>
       </div>
       </div>
      <Footer />
     </div>
+    
   );
 }

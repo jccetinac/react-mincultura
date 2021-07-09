@@ -3,10 +3,8 @@ h1, p {
 }
 .p-5 {padding:10%;}
 
-b {color:black;} /*MAL*/
-
 .negrita  {color:black;}  /* bien y se usa asi: <p  className="negrita" >      */ 
-.menu li{color:gray;}   
+.menu li{color:blue;}   
 
 .titulorojo{color: red;}
 .cursiva{color: green;}
