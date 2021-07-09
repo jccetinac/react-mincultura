@@ -5,12 +5,18 @@ import Menu from './components/menu';
 
 
 
+
 import Home from './pages/home';
 import Laura from './pages/laura';
 import Prueba from './pages/prueba';
 
 import Presentacion from './pages/Presentacion';
-import { BrowserRouter as Router, Switch, Redirect } from 'react-router-dom';
+import {
+  BrowserRouter as Router,
+  Switch,
+  Redirect,
+  Route
+} from 'react-router-dom';
 
 import './style.css';
 export default function App() {
@@ -26,23 +32,11 @@ export default function App() {
         <Router>
         <div>
            <Switch>
-            <Router exact path="/">
-              <Home />
-            </Router>
-
-            <Router exact path="/presentacion">
-              <Presentacion />
-            </Router>
-
-            <Router exact path="/laura">
-              <Laura />
-            </Router>
-
-            <Router exact path="/prueba">
-              <Prueba />
-            </Router>
-
-          </Switch>
+            <Router exact path="/" component={Home} />
+            <Route exact path="/laura" component={Laura} />
+            <Route exact path="/presentacion" component={Presentacion} />
+            <Route exact path="/prueba" component={Prueba} />
+            </Switch>
         </div>
       </Router>
       </div>

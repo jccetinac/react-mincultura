@@ -48,6 +48,14 @@ export default function Presentacion() {
         <p className="parrafo">Estas cartillas definieron rutas de abordaje a través de niveles
           <Link to="/laura"> Visita</Link>: ritmo percusivo, ritmo armónico, ritmo melódico e improvisatorio, enfocándose en algunas formas de estructuración de estas músicas, pero no en las características de las pedagogías de las mismas. En años posteriores, desde el área de música del Ministerio de Cultura, se han diseñado lineamientos de formación musical en los que se han recogido los aportes pedagógicos de diversas corrientes y procedencias. De esta manera, las cartillas y lineamientos anteriores, se han centrado en las músicas y sus formatos y han propuesto caminos para su abordaje.
          </p>
+
+         <p className="parrafo">Estas cartillas definieron rutas de abordaje a través de niveles
+          <Link to="/prueba"> prueba</Link>: ritmo percusivo, ritmo armónico, ritmo melódico e improvisatorio, enfocándose en algunas formas de estructuración de estas músicas, pero no en las características de las pedagogías de las mismas. En años posteriores, desde el área de música del Ministerio de Cultura, se han diseñado lineamientos de formación musical en los que se han recogido los aportes pedagógicos de diversas corrientes y procedencias. De esta manera, las cartillas y lineamientos anteriores, se han centrado en las músicas y sus formatos y han propuesto caminos para su abordaje.
+         </p>
+
+         <p className="parrafo">Estas cartillas definieron rutas de abordaje a través de niveles
+          <Link to="/"> home</Link>: ritmo percusivo, ritmo armónico, ritmo melódico e improvisatorio, enfocándose en algunas formas de estructuración de estas músicas, pero no en las características de las pedagogías de las mismas. En años posteriores, desde el área de música del Ministerio de Cultura, se han diseñado lineamientos de formación musical en los que se han recogido los aportes pedagógicos de diversas corrientes y procedencias. De esta manera, las cartillas y lineamientos anteriores, se han centrado en las músicas y sus formatos y han propuesto caminos para su abordaje.
+         </p>
     
     </div>
   );

@@ -1,11 +1,22 @@
 import React from 'react';
 import Presentacion from '../pages/Presentacion';
+import { Link } from 'react-router-dom';
+import {
+  BrowserRouter as Router,
+  Switch,
+  Redirect,
+  Route
+} from 'react-router-dom';
+
 
 export default function Menu() {
   return (
     <div className="card p-4 menu">
       
-      <p><b>Presentacion</b></p>
+     <Router>
+     <Link to="/presentacion">Presentacion</Link>
+     </Router>
+
       <p><b>Introduccion</b></p>        
       <p><b className="negrita">Elementos que configuran las pedagogías de las músicas de tradición oral</b></p>
       <p>1. Dimensiones</p>  
