@@ -21,30 +21,24 @@ import {
 import './style.css';
 export default function App() {
   return (
-    
     <div>
-      <Header/>
-      <div className="row">
-  
-      <div className="col-md-9">
-        <Router>
-         
-          <Menu/>
-          
-          <div>
-           <Switch>
-            <Router exact path="/" component={Home} />
-            <Route exact path="/laura" component={Laura} />
-            <Route exact path="/presentacion" component={Presentacion} />
-            <Route exact path="/prueba" component={Prueba} />
-          </Switch>
-            </div>
-            
+      <Header />
+      <Router>
+        <div className="row">
+          <div className="col-md-3">
+            <Menu />
+          </div>
+          <div className="col-md-9">
+            <Switch>
+              <Router exact path="/" component={Home} />
+              <Route exact path="/laura" component={Laura} />
+              <Route exact path="/presentacion" component={Presentacion} />
+              <Route exact path="/prueba" component={Prueba} />
+            </Switch>
+          </div>
+        </div>
       </Router>
-      </div>
-      </div>
-     <Footer />
+      <Footer />
     </div>
-    
   );
 }

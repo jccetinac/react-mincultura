@@ -3,8 +3,12 @@ h1, p {
 }
 .p-5 {padding:10%;}
 
-.negrita  {color:black;}  /* bien y se usa asi: <p  className="negrita" >      */ 
-.menu li{color:blue;}   
+.negrita  {color:black;}
+
+.menu{margin-top: 50px}
+.menu a{color: #333333;}
+.menu a:hover{color:red;}
+.menu li{color:red;}   
 
 .titulorojo{color: red;}
 .cursiva{color: green;}

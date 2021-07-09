@@ -8,73 +8,76 @@ export default function Menu() {
     <div className="card p-4 menu">
       
      
-     <Link to="/laura">Presentacion</Link>
-     <Link to="/presentacion">Introduccion</Link>
-     <Link to="/laura">Elementos que configuran las pedagogías de las músicas de tradición oral</Link>
+     <p><Link to="/laura">Presentacion</Link></p>
+     <p><Link to="/presentacion">Introduccion</Link></p>
+     <p>
+       <Link to="/laura">Elementos que configuran las pedagogías de las músicas de tradición oral</Link>
+      </p>
 
-     <Link to="/presentacion">1. Dimensiones</Link>
+     <p><Link to="/presentacion">1. Dimensiones</Link></p>
         <ul>
           <li>
-          <Link to="/laura"> 1.1.Oralidad</Link>
+          <Link to="/laura"> 1.1. Oralidad</Link>
           </li>
           <li>
-          1.2.Memoria
+          <Link to="/laura"> 1.2. Memoria</Link>
           </li>
           <li>
-          1.3.Corporalidad
+          <Link to="/laura"> 1.3. Corporalidad</Link>
           </li>
         </ul>
-        <p>2.	Procesos transversales</p>
+        <p><Link to="/laura"> 2. Procesos transversales</Link></p>
         <ul>
           <li>
-          2.1.La observación: “pele el ojo”
+          <Link to="/laura"> 2.1. La observación: “pele el ojo”</Link>
           </li>
           <li>
-          2.2.La Escucha: “pare oreja”
+          <Link to="/laura"> 2.2. La Escucha: “pare oreja”</Link>
           </li>
           <li>
-          2.3.La imitación
+          <Link to="/laura"> 2.3. La imitación</Link>
           </li>
           <li>
-          2.4.La exploración
+          <Link to="/laura"> 2.4. La exploración</Link>
           </li>
           <li>
-          2.5.La creación y la improvisación
+          <Link to="/laura"> 2.5. La creación y la improvisación</Link>
           </li>
         </ul>
-        <p>3.	Líneas pedagógicas</p>
+        <p><Link to="/laura"> 3. Líneas pedagógicas</Link></p>
         <ul>
           <li>
-          3.1.Texto, voz y canto
+          <Link to="/laura"> 3.1. Texto, voz y canto</Link>
           </li>
           <li>
-          3.2.Cuerpo, ritmo y movimiento
+          <Link to="/laura">3.2. Cuerpo, ritmo y movimiento</Link>
           </li>
           <li>
-          3.3.Lo armónico y melódico
+          <Link to="/laura">3.3. Lo armónico y melódico</Link>
           </li>
           <li>
-          3.4.Ensamble y montaje
+          <Link to="/laura">3.4. Ensamble y montaje</Link>
           </li>
         </ul>
-        <p>4.	Pautas de Investigación de las pedagogías de las músicas de tradición oral
+        <p><Link to="/laura">4. Pautas de Investigación de las pedagogías de las músicas de tradición oral</Link>
            </p>
            <ul>
              <li>
-             4.1.¿Por qué investigar las pedagogías de las músicas de tradición oral?
+             <Link to="/laura">4.1. ¿Por qué investigar las pedagogías de las músicas de tradición oral?</Link>
              </li>
              <li>
-             4.2.¿Qué investigar en las pedagogías de las músicas de tradición oral?
+             <Link to="/laura">4.2. ¿Qué investigar en las pedagogías de las músicas de tradición oral?</Link>
              </li>
              <li>
-             4.3.¿Cómo investigar las pedagogías de las músicas de tradición oral desde la escuela?
+             <Link to="/laura">4.3. ¿Cómo investigar las pedagogías de las músicas de tradición oral desde la escuela?</Link>        
              </li>
              <li>
-             4.4.¿Quiénes pueden investigar las pedagogías de las músicas de tradición oral?
-             </li>
-           </ul>
-           <p>5.	Anexos	69</p>
-           <p>6.	Bibliografía</p>
+             <Link to="/laura">4.4. ¿Quiénes pueden investigar las pedagogías de las músicas de tradición oral?</Link>       
+              </li>
+             </ul>
+           <p><Link to="/laura">5. Anexos	69</Link></p>
+           <p><Link to="/laura">6. Bibliografía</Link></p>
+           
       </div>
   );
 }
