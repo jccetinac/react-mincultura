@@ -20,7 +20,7 @@ export default function App() {
   return (
     <>
       <Header />
-      <div className="p-5">
+      <div className="p-5 text-white">
         <Router>
           <div className="row">
             <div className="col-md-3">
