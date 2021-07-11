@@ -2,6 +2,11 @@ h1,
 p {
   font-family: Lato;
 }
+.negrita {
+  color: black;
+}
+
+/* MAGENES*/
 .p-5 {
   padding: 10%;
 }
@@ -9,15 +14,40 @@ p {
   padding: 5%;
 }
 
-.negrita {
-  color: black;
+.pl-5 {
+  padding-left: 10%;
+}
+.pl-3 {
+  padding-left: 5%;
 }
 
+.pl-2 {
+  padding-left: 2%;
+}
+
+.pt-3 {
+  padding-top: 5%;
+}
+
+.pt-5 {
+  padding-top: 10%;
+}
+
+.mt-5 {
+  margin-top: 5%;
+}
+
+.mt-5 {
+  margin-top: 10%;
+}
+
+/* MENU */
 .menu {
-  margin-top: 50px;
+  margin-top: 0px;
 }
 .menu a {
   color: #333333;
+  text-decoration: unset;
 }
 .menu a:hover {
   color: red;
@@ -36,6 +66,7 @@ p {
   color: blue;
 }
 
+/* pagina principal */
 .parrafo {
   color: #333333;
   width: 80%;
@@ -48,10 +79,14 @@ p {
 .page {
   padding-top: 100px;
   text-align: center;
-  margin-top: 50px;
+  margin-top: 0px;
   padding-bottom: 100px;
 }
 
+.page a {
+  color: red;
+  text-decoration: unset;
+}
 .imagenmin {
   width: 80%;
   max-width: 500px;
@@ -100,4 +135,8 @@ a {
 }
 a:hover {
   color: blueviolet;
+}
+
+.logo {
+  height: 50px;
 }
