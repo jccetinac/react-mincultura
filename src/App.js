@@ -3,9 +3,6 @@ import Header from './components/Header';
 import Footer from './components/Footer';
 import Menu from './components/menu';
 
-
-
-
 import Home from './pages/home';
 import Laura from './pages/laura';
 import Prueba from './pages/prueba';
@@ -21,24 +18,26 @@ import {
 import './style.css';
 export default function App() {
   return (
-    <div>
+    <>
       <Header />
-      <Router>
-        <div className="row">
-          <div className="col-md-3">
-            <Menu />
+      <div className="p-5">
+        <Router>
+          <div className="row">
+            <div className="col-md-3">
+              <Menu />
+            </div>
+            <div className="col-md-9">
+              <Switch>
+                <Router exact path="/" component={Home} />
+                <Route exact path="/laura" component={Laura} />
+                <Route exact path="/presentacion" component={Presentacion} />
+                <Route exact path="/prueba" component={Prueba} />
+              </Switch>
+            </div>
           </div>
-          <div className="col-md-9">
-            <Switch>
-              <Router exact path="/" component={Home} />
-              <Route exact path="/laura" component={Laura} />
-              <Route exact path="/presentacion" component={Presentacion} />
-              <Route exact path="/prueba" component={Prueba} />
-            </Switch>
-          </div>
-        </div>
-      </Router>
+        </Router>
+      </div>
       <Footer />
-    </div>
+    </>
   );
 }

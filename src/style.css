@@ -1,21 +1,43 @@
-h1, p {
+h1,
+p {
   font-family: Lato;
 }
-.p-5 {padding:10%;}
+.p-5 {
+  padding: 10%;
+}
+.p-3 {
+  padding: 5%;
+}
 
-.negrita  {color:black;}
+.negrita {
+  color: black;
+}
 
-.menu{margin-top: 50px}
-.menu a{color: #333333;}
-.menu a:hover{color:red;}
-.menu li{color:red;}   
+.menu {
+  margin-top: 50px;
+}
+.menu a {
+  color: #333333;
+}
+.menu a:hover {
+  color: red;
+}
+.menu li {
+  color: red;
+}
 
-.titulorojo{color: red;}
-.cursiva{color: green;}
-.subtituloazul{color: blue;}
+.titulorojo {
+  color: red;
+}
+.cursiva {
+  color: green;
+}
+.subtituloazul {
+  color: blue;
+}
 
-.parrafo{
-  color:#333333;
+.parrafo {
+  color: #333333;
   width: 80%;
   text-align: justify;
   display: block;
@@ -23,64 +45,59 @@ h1, p {
   margin-bottom: 15px;
 }
 
-.page{
-    padding-top: 100px; 
-    text-align:center;
-    margin-top: 50px;
-    padding-bottom: 100px;
-  
-  }
+.page {
+  padding-top: 100px;
+  text-align: center;
+  margin-top: 50px;
+  padding-bottom: 100px;
+}
 
-  .imagenmin{
-    width:80% ;
-    max-width: 500px;
-    display: block;
-    margin: auto;
-    margin-top: 35px;
-    margin-bottom: 35px;
-  }
-  
-  .tablamin{
-    width:90% ;
-    max-width:800px;
-    margin: auto;
-    margin-top: 30px;
-    margin-bottom:30px ;
-  }
+.imagenmin {
+  width: 80%;
+  max-width: 500px;
+  display: block;
+  margin: auto;
+  margin-top: 35px;
+  margin-bottom: 35px;
+}
 
+.tablamin {
+  width: 90%;
+  max-width: 800px;
+  margin: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
 
-  .tablamin td {
+.tablamin td {
   border-collapse: collapse;
   border: 1px solid red;
   text-align: left;
-  padding:5px;
- }
-
- .tablamin th {
-  border-collapse: collapse;
-  border: 1px solid white;
-  color:white;
-  background-color: red;
-  text-align: center;
-  padding:5px;
+  padding: 5px;
 }
 
+.tablamin th {
+  border-collapse: collapse;
+  border: 1px solid white;
+  color: white;
+  background-color: red;
+  text-align: center;
+  padding: 5px;
+}
 
- .videomin{
-  width:80%;
-  max-width:600px ;
-  height:315px;
+.videomin {
+  width: 80%;
+  max-width: 600px;
+  height: 315px;
   margin: auto;
   margin-top: 30px;
-  margin-bottom:30px ;
-  }
+  margin-bottom: 30px;
+}
 
-  a {
-    color:red ;
-    text-decoration: none;
-  }
-  a:hover {
-    color: blueviolet;
-  }
-
-
+a {
+  color: red;
+  text-decoration: none;
+}
+a:hover {
+  color: blueviolet;
+}
