@@ -15,7 +15,7 @@ import {
   Route
 } from 'react-router-dom';
 
-import './style.scss';
+import './style.css';
 export default function App() {
   return (
     <>
