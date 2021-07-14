@@ -13,6 +13,8 @@ import Dimensiones from './pages/1.dimensiones';
 import ProcesosTransversales from './pages/2.ProcesosTransversales';
 import LineasPedagogicas from './pages/3.LineasPedagogicas';
 import PautasDeInvestigacion from './pages/4.PautasDeInvestigacion';
+import Anexos69 from './pages/5.Anexos69';
+import Bibliografia from './pages/6.Bibliografia';
 
 
 import {
@@ -23,6 +25,8 @@ import {
 } from 'react-router-dom';
 
 import './style.css';
+
+
 
 
 export default function App() {
@@ -46,6 +50,8 @@ export default function App() {
                 <Route exact path="/2.ProcesosTransversales" component={ProcesosTransversales} />
                 <Route exact path="/3.LineasPedagogicas" component={LineasPedagogicas} />
                 <Route exact path="/4.PautasDeInvestigacion" component={PautasDeInvestigacion} /> 
+                <Route exact path="/5.Anexos69" component={Anexos69} />
+                <Route exact path="/6.Bibliografia" component={Bibliografia} />
 
               </Switch>
             </div>
