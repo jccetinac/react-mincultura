@@ -8,6 +8,13 @@ import Laura from './pages/laura';
 import Prueba from './pages/prueba';
 
 import Presentacion from './pages/Presentacion';
+import Introduccion from './pages/Introduccion';
+import Dimensiones from './pages/1.dimensiones';
+import ProcesosTransversales from './pages/2.ProcesosTransversales';
+import LineasPedagogicas from './pages/3.LineasPedagogicas';
+import PautasDeInvestigacion from './pages/4.PautasDeInvestigacion';
+
+
 import {
   BrowserRouter as Router,
   Switch,
@@ -16,6 +23,8 @@ import {
 } from 'react-router-dom';
 
 import './style.css';
+
+
 export default function App() {
   return (
     <>
@@ -32,6 +41,12 @@ export default function App() {
                 <Route exact path="/laura" component={Laura} />
                 <Route exact path="/presentacion" component={Presentacion} />
                 <Route exact path="/prueba" component={Prueba} />
+                <Route exact path="/introduccion" component={Introduccion} />
+                <Route exact path="/1.dimensiones" component={Dimensiones} />
+                <Route exact path="/2.ProcesosTransversales" component={ProcesosTransversales} />
+                <Route exact path="/3.LineasPedagogicas" component={LineasPedagogicas} />
+                <Route exact path="/4.PautasDeInvestigacion" component={PautasDeInvestigacion} /> 
+
               </Switch>
             </div>
           </div>

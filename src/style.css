@@ -6,7 +6,7 @@ p {
   color: black;
 }
 
-/* MAGENES*/
+/* IMAGENES*/
 .p-5 {
   padding: 10%;
 }
@@ -40,21 +40,18 @@ p {
 .mt-5 {
   margin-top: 10%;
 }
+.imagenmin {
+  width: 80%;
+  max-width: 500px;
+  display: block;
+  margin: auto;
+  margin-top: 35px;
+  margin-bottom: 35px;
+}
 
-/* MENU */
-.menu {
-  margin-top: 0px;
-}
-.menu a {
-  color: #333333;
-  text-decoration: unset;
-}
-.menu a:hover {
-  color: red;
-}
-.menu li {
-  color: red;
-}
+
+
+/* pagina principal */
 
 .titulorojo {
   color: red;
@@ -66,7 +63,6 @@ p {
   color: blue;
 }
 
-/* pagina principal */
 .parrafo {
   color: #333333;
   width: 80%;
@@ -87,14 +83,9 @@ p {
   color: red;
   text-decoration: unset;
 }
-.imagenmin {
-  width: 80%;
-  max-width: 500px;
-  display: block;
-  margin: auto;
-  margin-top: 35px;
-  margin-bottom: 35px;
-}
+
+
+/*TABLA*/
 
 .tablamin {
   width: 90%;
@@ -129,6 +120,13 @@ p {
   margin-bottom: 30px;
 }
 
+.logo {
+  height: 50px;
+}
+
+
+/*Menu*/
+
 a {
   color: red;
   text-decoration: none;
@@ -137,6 +135,23 @@ a:hover {
   color: blueviolet;
 }
 
-.logo {
-  height: 50px;
+.subitems{
+  font-size: 0.8em;
+  
 }
+
+.menu {
+  margin-top: 0px;
+}
+.menu a {
+  color: #333333;
+  text-decoration: unset;
+}
+.menu a:hover {
+  color: red;
+}
+.menu li {
+  color: red;
+}
+
+
