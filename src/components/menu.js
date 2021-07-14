@@ -11,7 +11,7 @@ export default function Menu() {
      <p><Link to="/presentacion">Presentación</Link></p>
      <p><Link to="/introduccion">Introducción</Link></p>
      <p>
-       <Link to="/laura">Elementos que configuran las pedagogías de las músicas de tradición oral</Link>
+       <Link to="/Elementos">Elementos que configuran las pedagogías de las músicas de tradición oral</Link>
       </p>
 
      <p><Link to="/1.dimensiones">1. Dimensiones</Link></p>

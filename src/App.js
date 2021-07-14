@@ -9,6 +9,7 @@ import Prueba from './pages/prueba';
 
 import Presentacion from './pages/Presentacion';
 import Introduccion from './pages/Introduccion';
+import Elementos from './pages/Elementos';
 import Dimensiones from './pages/1.dimensiones';
 import ProcesosTransversales from './pages/2.ProcesosTransversales';
 import LineasPedagogicas from './pages/3.LineasPedagogicas';
@@ -25,6 +26,7 @@ import {
 } from 'react-router-dom';
 
 import './style.css';
+
 
 
 
@@ -52,6 +54,8 @@ export default function App() {
                 <Route exact path="/4.PautasDeInvestigacion" component={PautasDeInvestigacion} /> 
                 <Route exact path="/5.Anexos69" component={Anexos69} />
                 <Route exact path="/6.Bibliografia" component={Bibliografia} />
+                <Route exact path="/Elementos" component={Elementos} />
+
 
               </Switch>
             </div>
