@@ -2,10 +2,8 @@ import React from 'react';
 import Header from './components/Header';
 import Footer from './components/Footer';
 import Menu from './components/menu';
-
 import Home from './pages/home';
-import Laura from './pages/laura';
-import Prueba from './pages/prueba';
+
 
 import Presentacion from './pages/Presentacion';
 import Introduccion from './pages/Introduccion';
@@ -44,9 +42,7 @@ export default function App() {
             <div className="col-md-9">
               <Switch>
                 <Router exact path="/" component={Home} />
-                <Route exact path="/laura" component={Laura} />
                 <Route exact path="/presentacion" component={Presentacion} />
-                <Route exact path="/prueba" component={Prueba} />
                 <Route exact path="/introduccion" component={Introduccion} />
                 <Route exact path="/1.dimensiones" component={Dimensiones} />
                 <Route exact path="/2.ProcesosTransversales" component={ProcesosTransversales} />

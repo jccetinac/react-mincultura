@@ -1,10 +1,17 @@
-h1,
-p {
-  font-family: Lato;
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400&display=swap');
+
+h1,h2,h3,h4,h5,p,i,b
+{
+    font-family: 'Roboto', sans-serif;
 }
-.negrita {
-  color: black;
+
+h6 {
+color: red;
+text-align: center;
+margin-top: 15px;
+
 }
+
 
 /* IMAGENES*/
 .p-5 {
@@ -53,14 +60,15 @@ p {
 
 /* pagina principal */
 
-.titulorojo {
+.titulo{
   color: red;
+  margin-bottom: 60px;
+
 }
-.cursiva {
-  color: green;
-}
-.subtituloazul {
-  color: blue;
+
+.subtitulo{
+  color:red;
+  margin-bottom: 60px;
 }
 
 .parrafo {
@@ -70,6 +78,7 @@ p {
   display: block;
   margin: auto;
   margin-bottom: 15px;
+  font-family: 'Roboto', sans-serif;
 }
 
 .page {
@@ -88,10 +97,9 @@ p {
 /*TABLA*/
 
 .tablamin {
-  width: 90%;
+  width: 80%;
   max-width: 800px;
   margin: auto;
-  margin-top: 30px;
   margin-bottom: 30px;
 }
 
@@ -99,7 +107,7 @@ p {
   border-collapse: collapse;
   border: 1px solid red;
   text-align: left;
-  padding: 5px;
+  padding: 7px;
 }
 
 .tablamin th {
@@ -108,7 +116,7 @@ p {
   color: white;
   background-color: red;
   text-align: center;
-  padding: 5px;
+  padding: 7px;
 }
 
 .videomin {
@@ -153,5 +161,6 @@ a:hover {
 .menu li {
   color: red;
 }
+
 
 
