@@ -3,14 +3,15 @@
 h1,h2,h3,h4,h5,p,i,b
 {
     font-family: 'Roboto', sans-serif;
+    
 }
 
 h6 {
-color: red;
+color: rgb(214, 42, 42);
 text-align: center;
 margin-top: 15px;
-
 }
+
 
 
 /* IMAGENES*/
@@ -63,12 +64,21 @@ margin-top: 15px;
 .titulo{
   color: red;
   margin-bottom: 60px;
+  font-size: 200%;
 
 }
 
 .subtitulo{
+  color:rgb(248, 70, 70);
+  margin-bottom: 60px;
+  font-size: 180%;
+}
+
+.tituloLargo{
   color:red;
   margin-bottom: 60px;
+  font-size: 130%;
+
 }
 
 .parrafo {
@@ -101,11 +111,12 @@ margin-top: 15px;
   max-width: 800px;
   margin: auto;
   margin-bottom: 30px;
+  font-size: 80%;
 }
 
 .tablamin td {
   border-collapse: collapse;
-  border: 1px solid red;
+  border: 1px solid rgb(204, 110, 110);
   text-align: left;
   padding: 7px;
 }
@@ -114,7 +125,7 @@ margin-top: 15px;
   border-collapse: collapse;
   border: 1px solid white;
   color: white;
-  background-color: red;
+  background-color: rgb(214, 42, 42);
   text-align: center;
   padding: 7px;
 }
