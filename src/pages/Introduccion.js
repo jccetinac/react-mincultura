@@ -119,6 +119,20 @@ export default function Introduccion() {
       <p className="parrafo">
       Estas cartillas definieron rutas de abordaje a través de niveles<sup><a data-toggle="modal" data-target="#notapie1">1</a></sup> : ritmo percusivo, ritmo armónico, ritmo melódico e improvisatorio, enfocándose en algunas formas de estructuración de estas músicas, pero no en las características de las pedagogías de las mismas. En años posteriores, desde el área de música del Ministerio de Cultura, se han diseñado lineamientos de formación musical en los que se han recogido los aportes pedagógicos de diversas corrientes y procedencias. De esta manera, las cartillas y lineamientos anteriores, se han centrado en las músicas y sus formatos y han propuesto caminos para su abordaje.
       </p>
+      <p className="parrafo">
+      A diferencia de los anteriores documentos, este lineamiento tiene como centro las <b>pedagogías de las músicas de tradición oral; </b> aunque encuentra asidero en las músicas mismas, <b>su énfasis son sus pedagogías</b>, es decir los modos en los que se apropian e intervienen las mismas, las formas de construcción de conocimiento musical. 
+      </p>
+      <ul className="bg-dark">
+        <li>
+      	Tiene como base las lógicas de las músicas tradicionales organizadas en ejes, como se señala en el cuadro 1, así como algunos de los repertorios propuestos en las cartillas de músicas tradicionales. 
+        </li>
+      </ul>
+      <p className="parrafo">
+        Este lineamiento de Pedagogías de las músicas de tradición oral, guarda algunas conexiones con los trabajos anteriores:
+      </p>
+      
+    
+
 
 
     </div>
