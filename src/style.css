@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400&display=swap');
 
-h1,h2,h3,h4,h5,p,i,b
+h1,h2,h3,h4,h5,p,i,b,ul,em
 {
     font-family: 'Roboto', sans-serif;
     
@@ -59,27 +59,29 @@ margin-top: 15px;
 
 
 
-/* pagina principal */
+/* paginas*/
 
 .titulo{
   color: red;
-  margin-bottom: 60px;
   font-size: 200%;
+  width: 80%;
+  display: block;
+  margin: auto;
+  margin-bottom: 40px;
+  text-align: center;
 
 }
 
 .subtitulo{
   color:rgb(248, 70, 70);
-  margin-bottom: 60px;
   font-size: 180%;
+  width: 80%;
+  display: block;
+  margin: auto;
+  margin-bottom: 40px;
+  text-align: center;
 }
 
-.tituloLargo{
-  color:red;
-  margin-bottom: 60px;
-  font-size: 130%;
-
-}
 
 .parrafo {
   color: #333333;
@@ -87,7 +89,7 @@ margin-top: 15px;
   text-align: justify;
   display: block;
   margin: auto;
-  margin-bottom: 15px;
+  margin-bottom: 22px;
   font-family: 'Roboto', sans-serif;
 }
 
@@ -104,14 +106,39 @@ margin-top: 15px;
 }
 
 
+ul{
+  color: #333333;
+  width: 80%;
+  text-align: justify;
+  display: block;
+  margin: auto;
+  margin-bottom: 20px;
+  font-family: 'Roboto', sans-serif;
+}
+
+em{
+  color: #333333;
+  width: 60%;
+  text-align: justify;
+  display: block;
+  margin: auto;
+  margin-bottom: 20px;
+  font-family: 'Roboto', sans-serif;
+}
+
+li{
+margin-bottom: 10px;
+}
+
+
 /*TABLA*/
 
 .tablamin {
   width: 80%;
   max-width: 800px;
   margin: auto;
-  margin-bottom: 30px;
   font-size: 80%;
+  margin-bottom:20px;
 }
 
 .tablamin td {
@@ -169,9 +196,21 @@ a:hover {
 .menu a:hover {
   color: red;
 }
+
+.menu a:active {
+  color: blue;}
+
+
 .menu li {
   color: red;
+  margin-bottom: 7px;
 }
 
+.menu ul{
+ 
+  display: block;
+  margin: auto;
+  text-align:left;
+}
 
 
