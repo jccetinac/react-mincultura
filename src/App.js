@@ -9,11 +9,15 @@ import Presentacion from './pages/Presentacion';
 import Introduccion from './pages/Introduccion';
 import Elementos from './pages/Elementos';
 import Dimensiones from './pages/1.dimensiones';
+import Oralidad from './pages/1.1.oralidad';
+import Memoria from './pages/1.2.memoria';
+import Corporalidad from './pages/1.3.corporalidad';
 import ProcesosTransversales from './pages/2.ProcesosTransversales';
 import LineasPedagogicas from './pages/3.LineasPedagogicas';
 import PautasDeInvestigacion from './pages/4.PautasDeInvestigacion';
 import Anexos69 from './pages/5.Anexos69';
 import Bibliografia from './pages/6.Bibliografia';
+
 
 
 import {
@@ -24,6 +28,9 @@ import {
 } from 'react-router-dom';
 
 import './style.css';
+
+
+
 
 
 
@@ -44,13 +51,18 @@ export default function App() {
                 <Router exact path="/" component={Home} />
                 <Route exact path="/presentacion" component={Presentacion} />
                 <Route exact path="/introduccion" component={Introduccion} />
+                <Route exact path="/Elementos" component={Elementos} />
                 <Route exact path="/1.dimensiones" component={Dimensiones} />
+                <Route exact path="/1.1.oralidad" component={Oralidad} />
+                <Route exact path="/1.2.memoria" component={Memoria} />
+                <Route exact path="/1.3.corporalidad" component={Corporalidad} />
                 <Route exact path="/2.ProcesosTransversales" component={ProcesosTransversales} />
                 <Route exact path="/3.LineasPedagogicas" component={LineasPedagogicas} />
                 <Route exact path="/4.PautasDeInvestigacion" component={PautasDeInvestigacion} /> 
                 <Route exact path="/5.Anexos69" component={Anexos69} />
                 <Route exact path="/6.Bibliografia" component={Bibliografia} />
-                <Route exact path="/Elementos" component={Elementos} />
+                
+                
 
 
               </Switch>

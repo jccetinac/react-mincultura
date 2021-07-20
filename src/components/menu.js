@@ -17,13 +17,13 @@ export default function Menu() {
      <p><Link to="/1.dimensiones">1. Dimensiones</Link></p>
         <ul>
           <li className="subitems">
-          <Link to="/presentacion"> 1.1. Oralidad</Link>
+          <Link to="/1.1.oralidad"> 1.1. Oralidad</Link>
           </li>
           <li className="subitems">
-          <Link to="/presentacion"> 1.2. Memoria</Link>
+          <Link to="/1.2.memoria"> 1.2. Memoria</Link>
           </li>
           <li className="subitems">
-          <Link to="/presentacion"> 1.3. Corporalidad</Link>
+          <Link to="/1.3.corporalidad"> 1.3. Corporalidad</Link>
           </li>
         </ul>
         <p><Link to="/2.ProcesosTransversales"> 2. Procesos transversales</Link></p>

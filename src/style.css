@@ -82,6 +82,16 @@ margin-top: 15px;
   text-align: center;
 }
 
+.subcapitulo{
+  color:rgb(243, 22, 22);
+  font-size: 130%;
+  width: 80%;
+  display: block;
+  margin: auto;
+  margin-bottom: 20px;
+  text-align: left;
+}
+
 
 .parrafo {
   color: #333333;
@@ -114,6 +124,7 @@ ul{
   margin: auto;
   margin-bottom: 20px;
   font-family: 'Roboto', sans-serif;
+  
 }
 
 em{
@@ -127,7 +138,8 @@ em{
 }
 
 li{
-margin-bottom: 10px;
+margin-bottom:10px;
+
 }
 
 
