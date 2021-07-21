@@ -213,22 +213,13 @@ export default function Introduccion() {
     Esperamos sea de interés y utilidad, pero, sobre todo, que permita que, desde la música, cultivemos el orgullo de las tradiciones que se han resistido al olvido y hacen parte esencial de lo que somos como colombianos.
     </p>  
     
-
-
-
-    </div>
-  );
-}
-
-
-/*MODALES*/
-
+    
 <div id="notapie1" class="modal fade" role="dialog">
   <div class="modal-dialog">
 
     
     <div class="modal-content">
-      <div class="modal-header"> <button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">1</h4> 
+      <div class="modal-header"> <button type="button" class="closemodal" data-dismiss="modal">&times;</button><h4 class="modal-title numeromodal">1</h4> 
       </div>
       <div class="modal-body">
         <p>
@@ -239,3 +230,12 @@ export default function Introduccion() {
       </div>
       </div>
       </div>
+
+
+
+    </div>
+  );
+}
+
+
+/*MODALES*/

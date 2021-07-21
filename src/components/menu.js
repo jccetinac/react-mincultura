@@ -29,19 +29,19 @@ export default function Menu() {
         <p><Link to="/2.ProcesosTransversales"> 2. Procesos transversales</Link></p>
         <ul>
           <li className="subitems">
-          <Link to="/presentacion"> 2.1. La observación: “pele el ojo”</Link>
+          <Link to="/2.1.laObservacion"> 2.1. La observación: “pele el ojo”</Link>
           </li>
           <li className="subitems">
-          <Link to="/presentacion"> 2.2. La Escucha: “pare oreja”</Link>
+          <Link to="/2.2.laEscucha"> 2.2. La Escucha: “pare oreja”</Link>
           </li>
           <li className="subitems">
-          <Link to="/presentacion"> 2.3. La imitación</Link>
+          <Link to="/2.3.laImitacion"> 2.3. La imitación</Link>
           </li>
           <li className="subitems">
-          <Link to="/presentacion"> 2.4. La exploración</Link>
+          <Link to="/2.4.laExploracion"> 2.4. La exploración</Link>
           </li>
           <li className="subitems">
-          <Link to="/presentacion"> 2.5. La creación y la improvisación</Link>
+          <Link to="/2.5.laCreacion"> 2.5. La creación y la improvisación</Link>
           </li>
         </ul>
         <p><Link to="/3.LineasPedagogicas"> 3. Líneas pedagógicas</Link></p>

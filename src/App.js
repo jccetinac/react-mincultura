@@ -13,6 +13,11 @@ import Oralidad from './pages/1.1.oralidad';
 import Memoria from './pages/1.2.memoria';
 import Corporalidad from './pages/1.3.corporalidad';
 import ProcesosTransversales from './pages/2.ProcesosTransversales';
+import LaObservacion from './pages/2.1.laObservacion';
+import LaEscucha from './pages/2.2.laEscucha';
+import LaImitacion from './pages/2.3.laImitacion';
+import LaExploracion from './pages/2.4.laExploracion';
+import LaCreacion from './pages/2.5.laCreacion';
 import LineasPedagogicas from './pages/3.LineasPedagogicas';
 import PautasDeInvestigacion from './pages/4.PautasDeInvestigacion';
 import Anexos69 from './pages/5.Anexos69';
@@ -28,6 +33,10 @@ import {
 } from 'react-router-dom';
 
 import './style.css';
+
+
+
+
 
 
 
@@ -57,6 +66,11 @@ export default function App() {
                 <Route exact path="/1.2.memoria" component={Memoria} />
                 <Route exact path="/1.3.corporalidad" component={Corporalidad} />
                 <Route exact path="/2.ProcesosTransversales" component={ProcesosTransversales} />
+                <Route exact path="/2.1.laObservacion" component={LaObservacion} />
+                <Route exact path="/2.2.laEscucha" component={LaEscucha} />
+                <Route exact path="/2.3.laImitacion" component={LaImitacion} />
+                <Route exact path="/2.4.laExploracion" component={LaExploracion} />
+                <Route exact path="/2.5.laCreacion" component={LaCreacion} />
                 <Route exact path="/3.LineasPedagogicas" component={LineasPedagogicas} />
                 <Route exact path="/4.PautasDeInvestigacion" component={PautasDeInvestigacion} /> 
                 <Route exact path="/5.Anexos69" component={Anexos69} />

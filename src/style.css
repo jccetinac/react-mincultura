@@ -57,6 +57,17 @@ margin-top: 15px;
   margin-bottom: 35px;
 }
 
+.portada{
+  background-image: url("https://i.pinimg.com/236x/6b/5f/17/6b5f17f45147940b9e3aad2c0dc1d3dd--german-shepherd-husky-shepherd-dogs.jpg");
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+
+}
+
+
 
 
 /* paginas*/
@@ -72,15 +83,18 @@ margin-top: 15px;
 
 }
 
-.subtitulo{
-  color:rgb(248, 70, 70);
+
+.subtitulo {
+  color:rgb(243, 22, 22);
   font-size: 180%;
   width: 80%;
   display: block;
   margin: auto;
-  margin-bottom: 40px;
+  margin-bottom: 30px;
   text-align: center;
 }
+
+
 
 .subcapitulo{
   color:rgb(243, 22, 22);
@@ -129,7 +143,7 @@ ul{
 
 em{
   color: #333333;
-  width: 60%;
+  width: 70%;
   text-align: justify;
   display: block;
   margin: auto;
@@ -140,6 +154,18 @@ em{
 li{
 margin-bottom:10px;
 
+}
+
+.destacados{
+  color:rgb(50, 50, 156);
+  border:solid 2px rgb(241, 69, 69);
+  width: 70%;
+  text-align: justify;
+  display: block;
+  margin: auto;
+  margin-bottom: 22px;
+  font-family: 'Roboto', sans-serif;
+  padding: 20px;
 }
 
 
@@ -225,4 +251,25 @@ a:hover {
   text-align:left;
 }
 
+/*MODALES*/
 
+.modal-content{
+  
+    color: black;
+    text-align: justify;
+    padding-left:25px;
+    padding-right:25px;
+  }
+
+  sup{
+    color: red;
+    cursor:pointer;
+
+  }
+
+  .numeromodal{
+    color: red;
+  }
+  .closemodal{ 
+    color: red;
+  }

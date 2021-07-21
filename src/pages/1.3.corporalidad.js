@@ -16,7 +16,30 @@ export default function Corporalidad() {
       <p className="parrafo">
       En este sentido, todas las experiencias que vivimos desde nuestra infancia construyen nuestra forma de vivir y sentir nuestros cuerpos, nuestras memorias configuran también nuestra corporalidad. Por la misma vía, la corporalidad y la música hacen parte del mismo entramado, no solo porque es precisamente el movimiento de nuestros cuerpos el que permite la producción sonora, sino porque hay una estrecha relación entre las formas específicas de movimiento corporal y las músicas con sus especificidades estilísticas: 
       </p>
+
+      <em>
+      la acción corporal sobre los instrumentos, así como las posibilidades de acción e interacción corporal que los músicos desarrollan con ellos, determinan en gran medida las estructuras, lenguaje y características estilísticas de determinada música. (López Cano, 2005) 
+      </em>
       
+      <p className="parrafo">
+      El vínculo entre el cuerpo, el baile y la música es tan importante que, por ejemplo, en el porro es la mujer la que anima los golpes del tambor: los anima, disminuye su velocidad, detiene la música. Así, la interpretación musical está impregnada de una intención de conquista, de un lenguaje en el que el diálogo se establece con el bailador o bailadora. La música existe gracias a la bailadora y la bailadora gracias a la música. 
+      </p>
+
+      <p className="parrafo">
+      Así, nuestras experiencias vitales, enmarcadas en una cultura específica, se asocian profundamente con nuestra corporalidad y nuestra musicalidad. Esta relación se hace evidente en las pedagogías de las músicas de tradición oral, en las cuales además es explícito que el aprendizaje es posible gracias a los cuerpos y no a pesar de ellos. Tal relación se distancia de los procesos de educación formal en los que, en su mayoría, el cuerpo se aísla y se inmoviliza para posibilitar el aprendizaje.
+      </p>
+
+      <em>
+      Históricamente estas músicas no han privilegiado el ámbito de lo letrado como medio principal de transmisión, sino que han estado ligadas primordialmente a la oralidad y a la presencia física; es decir al cuerpo como ámbito de definición musical, que persiste en la identificación del género (Ochoa A. M., 2003, pág. 12)
+      </em>
+
+      <p className="parrafo">
+      Por esta razón, retomando los legados de las músicas de tradición oral, en este lineamiento el disfrute del cuerpo desde la práctica, la expresión a través del cuerpo, la memoria corporal, la danza, la percusión corporal será central. 
+      </p>
+
+      <em>
+      Y pensar el cuerpo como la base sobre la cual se cimienta el trabajo de formación musical, pues creemos que formar el cuerpo es el fundamento de la expresión y de la relación con otras áreas del conocimiento. Consideramos que el cuerpo es la base de la acción musical. Por eso construir un estado de música es resonar con un cuerpo sensibilidad y movimiento, un cuerpo goce y abierto al disfrute de lo sonoro. Valorar la fuerza de este enunciado quizá́ nos permitiría entender por qué́ de una manera moralizada se considera que las matemáticas o la historia son más importantes que las artes en la escuela. (Sossa J. , 2018)
+      </em>
       
       </div>
   );

@@ -73,18 +73,15 @@ export default function Memoria() {
     Las escuelas de música pueden aportar en la generación de archivos, centros de documentación en los que se recoja y se cuiden las memorias colectivas construidas alrededor y gracias a las músicas de tradición oral. 
     </p>
 
-      </div>
-  );
-}
 
-/*MODALES*/
 
-<div id="notapie3" class="modal fade" role="dialog">
+
+    <div id="notapie3" class="modal fade" role="dialog">
   <div class="modal-dialog">
 
     
     <div class="modal-content">
-      <div class="modal-header"> <button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">3</h4> 
+      <div class="modal-header"> <button type="button" class="closemodal" data-dismiss="modal">&times;</button><h4 class="modal-title numeromodal">3</h4> 
       </div>
       <div class="modal-body">
         <p>
@@ -95,3 +92,8 @@ export default function Memoria() {
       </div>
       </div>
       </div>
+      </div>
+  );
+}
+
+
