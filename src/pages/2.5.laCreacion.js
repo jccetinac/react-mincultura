@@ -44,7 +44,61 @@ export default function LaCreacion() {
      <p className="parrafo">
          <u>En la trova:</u>
      </p>
+
+
+     <ul>
+       <li>
+       Rimar con terminación en ar, on, eo, ando.
+       </li>
+       <li>
+       En el tema describir los que está en una imagen.
+       </li>
+       <li>
+       Describir las características físicas o de vestido de un personaje dado.
+       </li>
+       <li>
+       Utilizar pie forzado (un verso fijo) en el cuarto verso de la cuarteta.
+       </li>
+       <li>
+      	Dar una terminación obligada usando palabras que no pueden volver a usarse hasta quien, al repetir una palabra ya dicha, así esté bien rimada, queda eliminado.
+       </li>
+       <li>
+       Trovar utilizando las diferentes modalidades de trova: paisa, campesina, dobleteada, cinco y seis, con esdrújulas, entre otros.
+       </li>
+     </ul>
      
+     <p className="parrafo">
+      <u> Lo mismo puede suceder en el contrapunteo llanero:</u>
+     </p>
+
+     <ul>
+       <li>
+       Hacerlo en un determinado golpe que pide el jurado: en guacharaca, en periquera, en zumba que zumba o incluso en golpes menos utilizados para este fin y quizá más complejos: Mamonales, San Rafael, Kirpa, Merecure, entre otros.
+       </li>
+       <li>
+       	Exigencia del verso coleao, es decir que un coplero debe iniciar su verso con el último verso dicho por su contrincante.
+       </li>
+       </ul>
+
+       <p className="parrafo">
+       Todas estas habilidades suponen un desarrollo considerable del pensamiento relacional o analógico.
+       </p>
+
+       <p className="parrafo">
+       Por otra parte, en el contexto  de los procesos creativos  de las músicas de tradición oral, la creación y la improvisación están influenciadas por lo que puede denominarse la norma social, es decir, por un contexto dentro del cual se establecen restricciones o criterios preexistentes que deben cumplirse (Laird, 1990, págs. 239 - 252). Cada música o estilo musical posee una forma o estructura que genera unos patrones con unas restricciones técnicas y expresivas propias de sus lógicas y estéticas. Estas restricciones son adaptadas por los individuos desde la formación junto con todos los demás elementos de la cultura y, de esa manera cada ejecutante va generando resultados o propuestas creativas a partir de su mundo subjetivo en relación con ese contexto. Para el caso del joropo, por ejemplo los diferentes y variados “golpes” (como la Guacharaca, el San Rafael, el Zumba que Zumba, el Pajarillo, el Juana Guerrero y muchos otros) estos criterios pueden relacionarse con los sonotipos, es decir representaciones de unas estructuras musicales generadas desde el mismo seno de la cultura y sobre las cuales se desarrollan infinitas propuestas creativas a partir del desempeño de  cada músico mayor, es decir, del músico que tiene como rol realizar melodías que puede crear en el momento de la interpretación. Un músico mayor: arpista o bandolista, puede elegir dentro del marco de un golpe o sonotipo dado, tomando opciones melódicas de las que, como hablante musical del joropo, ha apropiado y que enuncia con competencias dentro de las lógicas musicales de este lenguaje musical. 
+       </p>
+
+       <p className="parrafo">
+       El  repentista —contrapunteador o trovador— debe conocer tonadas, golpes, temas, léxico. Aun sin ser “letrado” en sentido intelectual, debe manejar y conocer a profundidad circunstancias sociales, históricas y culturales relacionadas con las dinámicas de las músicas a partir de las cuales se expresa, y cuyas formas expresivas se han modelado socialmente  para propiciar que pueda expresarse individualmente a través de coplas, redondillas, seguidillas, redondillas, golpes del joropo, piquerias del vallenato.
+       </p>
+
+       <p className="parrafo">
+       En la relación norma social y norma individual, para el caso de los instrumentistas, la exposición de una idea musical propia se expresa de acuerdo con el conocimiento que se tenga del género que se interpreta, del dominio técnico-expresivo que se posea del instrumento, y de la forma como esté integrado el pensamiento relacional o analógico del músico, además de la madurez y experiencia musical que se posea.
+       </p>
+
+       <p className="parrafo">
+       Una de las recomendaciones de este lineamiento es la de invitar a que se conozcan estas formas de versificación que dan acceso a riqueza del habla, fuera de formas convencionales y estandarizadas. Expandir así, el uso de las formas expresivas presentes en músicas de tradición oral. 
+       </p>
       </div>
 
 );

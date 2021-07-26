@@ -47,7 +47,7 @@ export default function Menu() {
         <p><Link to="/3.LineasPedagogicas"> 3. Líneas pedagógicas</Link></p>
         <ul>
           <li className="subitems">
-          <Link to="/presentacion"> 3.1. Texto, voz y canto</Link>
+          <Link to="/3.1.textoVoz"> 3.1. Texto, voz y canto</Link>
           </li>
           <li className="subitems">
           <Link to="/presentacion">3.2. Cuerpo, ritmo y movimiento</Link>

@@ -19,6 +19,7 @@ import LaImitacion from './pages/2.3.laImitacion';
 import LaExploracion from './pages/2.4.laExploracion';
 import LaCreacion from './pages/2.5.laCreacion';
 import LineasPedagogicas from './pages/3.LineasPedagogicas';
+import TextoVoz from './pages/3.1.textoVoz';
 import PautasDeInvestigacion from './pages/4.PautasDeInvestigacion';
 import Anexos69 from './pages/5.Anexos69';
 import Bibliografia from './pages/6.Bibliografia';
@@ -33,6 +34,7 @@ import {
 } from 'react-router-dom';
 
 import './style.css';
+
 
 
 
@@ -72,6 +74,7 @@ export default function App() {
                 <Route exact path="/2.4.laExploracion" component={LaExploracion} />
                 <Route exact path="/2.5.laCreacion" component={LaCreacion} />
                 <Route exact path="/3.LineasPedagogicas" component={LineasPedagogicas} />
+                <Route exact path="/3.1.textoVoz" component={TextoVoz} />
                 <Route exact path="/4.PautasDeInvestigacion" component={PautasDeInvestigacion} /> 
                 <Route exact path="/5.Anexos69" component={Anexos69} />
                 <Route exact path="/6.Bibliografia" component={Bibliografia} />
