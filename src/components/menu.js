@@ -50,29 +50,29 @@ export default function Menu() {
           <Link to="/3.1.textoVoz"> 3.1. Texto, voz y canto</Link>
           </li>
           <li className="subitems">
-          <Link to="/presentacion">3.2. Cuerpo, ritmo y movimiento</Link>
+          <Link to="/3.2.cuerpoYritmo">3.2. Cuerpo, ritmo y movimiento</Link>
           </li>
           <li className="subitems">
-          <Link to="/presentacion">3.3. Lo armónico y melódico</Link>
+          <Link to="/3.3.loArmonico">3.3. Lo armónico y melódico</Link>
           </li>
           <li className="subitems">
-          <Link to="/presentacion">3.4. Ensamble y montaje</Link>
+          <Link to="/3.4.ensambleYmontaje">3.4. Ensamble y montaje</Link>
           </li>
         </ul>
         <p><Link to="/4.PautasDeInvestigacion">4. Pautas de Investigación de las pedagogías de las músicas de tradición oral</Link>
            </p>
            <ul>
              <li className="subitems">
-             <Link to="/presentacion">4.1. ¿Por qué investigar las pedagogías de las músicas de tradición oral?</Link>
+             <Link to="/4.1.porqueInvestigar">4.1. ¿Por qué investigar las pedagogías de las músicas de tradición oral?</Link>
              </li>
              <li className="subitems">
-             <Link to="/presentacion">4.2. ¿Qué investigar en las pedagogías de las músicas de tradición oral?</Link>
+             <Link to="/4.2.queInvestigar">4.2. ¿Qué investigar en las pedagogías de las músicas de tradición oral?</Link>
              </li>
              <li className="subitems">
-             <Link to="/presentacion">4.3. ¿Cómo investigar las pedagogías de las músicas de tradición oral desde la escuela?</Link>        
+             <Link to="/4.3.comoInvestigar">4.3. ¿Cómo investigar las pedagogías de las músicas de tradición oral desde la escuela?</Link>        
              </li>
              <li className="subitems">
-             <Link to="/presentacion">4.4. ¿Quiénes pueden investigar las pedagogías de las músicas de tradición oral?</Link>       
+             <Link to="/4.4.quienesPuedenInvestigar">4.4. ¿Quiénes pueden investigar las pedagogías de las músicas de tradición oral?</Link>       
               </li>
              </ul>
            <p><Link to="/5.Anexos69">5. Anexos	69</Link></p>
