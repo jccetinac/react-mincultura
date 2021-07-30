@@ -219,6 +219,19 @@ margin-bottom:10px;
 }
 
 
+.contenedortabla{
+  width: 80%;
+  display: block;
+  margin: auto;
+}
+
+.contenedortabla .col{
+  margin-bottom: 1px;
+  color: black !important;
+  border: rgb(238, 67, 67) 1px solid;
+}
+
+
 /*Menu*/
 
 a {

@@ -538,6 +538,28 @@ export default function TextoVoz() {
 
        </table>
 
+        <div class="contenedortabla">
+          
+          <div class="row">
+            <div class="col-sm-12 bg-danger">
+              columna dos
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-sm-6 col" >
+              columna uno
+            </div>
+
+            <div class="col-sm-6 col">
+              columna dos
+            </div>
+          </div>
+
+            
+          
+        </div>
+
 
 
 

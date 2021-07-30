@@ -5,6 +5,397 @@ export default function Anexos69() {
     <div className="page card ">
       <h1 className="subtitulo">5. ANEXOS 69</h1>
       
+      <div class="contenedortabla">
+         <div class="row">
+            <div class="col-sm-9 col" >
+              REPERTORIO
+            </div>
+
+            <div class="col-sm-3 col">
+              Nivel de dificultad
+            </div>
+         </div>
+
+          <div class="row">
+            <div class="col-sm-12 bg-danger">
+             Andina Centro-Sur
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-sm-9 col " >
+              <p className="parrafo"><b>Rajaleña</b></p>
+              <p className="parrafo">
+                Los versos (coplas) son una expresión heredada de los españoles; en el Tolima grande se popularizaron a través de la Fiestas del San Juan y el San Pedro, a través de músicas y tonadas de región. En sus comienzos fueron un canto campesino, pero luego se extendieron por todos los pueblos y la ciudad. Con la creación por ordenanza del Festival Típico del Huila, en el año de 1960, se consolidaron los grupos de rajaleñas y se definió su organología, la cual consta de los siguientes instrumentos: Guitarra, Tiple y Requinto de Tiple (de origen Español) Tambor, Marrana, Chucho, Esterilla, Ciempies y Carangano, de origen indígena y mestizo).
+              </p>
+              <p className="parrafo">
+                <b>Las primeras Tonadas del Rajaleña:</b> son estilos sencillos de tocar y cantar. Se cantan en la menor si su intérprete es mujer y en mi menor en caso de ser hombres. En los coros pueden intervenir mujeres y hombres. En las primeras tonadas se expresaba el sentir campesino, y se hacía una alegoría de las tradiciones, del entorno geográfico, del amor y de la cotidianidad.
+              </p>
+              <ul className="estrofa">
+               <li>A mi chata yo le he dicho</li>
+               <li>Que en la puerta no se pare</li>
+               <li>Porque viene un imprudente</li>
+               <li>Y le coge el que ya se sabe.</li>
+               <li>La gallina colorada</li>
+               <li>Me puso el huevo movido</li>
+               <li>De tanto bailar bambuco</li>
+               <li>Con el gallo amanecido.</li>
+              </ul>
+            </div>
+
+            <div class="col-sm-3 col">
+               Básico
+            </div>
+         </div>
+
+         <div class="row">
+            <div class="col-sm-9 col " >
+               <p className="parrafo">
+                  <b>Tonadas de nueva generación</b>
+               </p>
+               <p className="parrafo">
+               Estas Nuevas Tonadas, son para un nivel avanzado, por su mayor complejidad en ejecución de instrumentos (algunos grupos utilizan instrumentos electrónicos) y los matices en las voces y polifonías.
+               </p>
+               <ul className="estrofa">
+                 <li>La mujer del militar</li>
+                 <li>Lo espera de madrugada</li>
+                 <li>Y le revisa bien el arma</li>
+                 <li>Si la trae descargada</li>
+                 <li>En la pasada elección</li>
+                 <li>Muy perplejo les comento</li>
+                 <li>Ganaron los oligarcas</li>
+                 <li>Y los pobres muy contentos</li>
+               </ul>
+            </div>
+
+             <div class="col-sm-3 col">
+              Medio Avanzado
+             </div>    
+         </div>
+
+         <div class="row">
+            <div class="col-sm-9 col " >
+              <p className="parrafo">
+                <b>El sanjuanero huilense</b>
+              </p>
+              <p className="parrafo">
+              Es el ritmo insigne de las fiestas en el Huila, porque es el que interpretan en sus bailes todas las reinas: Populares, Departamentales y Nacionales.  Otros Ritmos característicos de esta región son: Rumbas, Cañas y Pasillos.
+              </p>
+              <p className="parrafo">
+              Todas estas músicas, son para un nivel <b>Medio y Avanzado,</b> por sus complejidades armónicas que hacen más compleja su ejecución y el canto.
+              </p>
+            </div>
+
+            <div class="col-sm-3 col">
+               Medio y Avanzado
+            </div>
+         </div>
+
+         <div class="row">
+            <div class="col-sm-12 bg-danger">
+             Andina Centro-Oriente
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-sm-9 col " >
+              <p className="parrafo">
+                <b><u>Guabina canción</u></b>
+              </p>
+              <p className="parrafo">
+                Para bailar. Efraín Franco.
+              </p>
+              <p className="parrafo">
+                Con base en una adivinanza tradicional se trabaja una melodía y una armonía sencillas que permiten el canto colectivo junto con la interpretación de instrumentos tradicionales como el tiple, la bandola, la guitarra y pequeñas percusiones.
+                El audio de la canción con el acompañamiento instrumental, la pista instrumental y la partitura se pueden conseguir en la Cartilla de iniciación musical “Viva quién toca” en el siguiente link: 
+                <a href="https://mincultura.gov.co/proyectoeditorial/Pages/Cartilla-de-iniciación-musical-Músicas-andina-centro-oriente--viva-quien-toca-.aspx " target="blank"> https://mincultura.gov.co/proyectoeditorial/Pages/Cartilla-de-iniciación-musical-Músicas-andina-centro-oriente--viva-quien-toca-.aspx </a>
+              </p>
+             </div>
+
+             <div class="col-sm-3 col " >
+              Básico
+             </div>
+          </div>   
+
+          <div class="row">
+            <div class="col-sm-9 col " > 
+              <p className="parrafo">
+                <b>Rumba criolla</b>
+              </p>
+              <p className="parrafo">
+                La Nicolasa. Emilio González
+              </p>
+              <p className="parrafo">
+                Es una pieza instrumental creada en este género tradicional regional característico. Muy útil para el estudio del género y la práctica instrumental de tiple requinto, tiple, guitarra y guacharaca.
+                Se puede acceder al audio de la pieza y dos pistas que permiten comprender y estudiar las bases ritmo-armónicas en la Cartilla de iniciación musical “Viva quién toca” en el siguiente link: 
+                <a href="https://mincultura.gov.co/proyectoeditorial/Pages/Cartilla-de-iniciación-musical-Músicas-andina-centro-oriente--viva-quien-toca-.aspx" target="blank"> https://mincultura.gov.co/proyectoeditorial/Pages/Cartilla-de-iniciación-musical-Músicas-andina-centro-oriente--viva-quien-toca-.aspx</a>
+              </p>
+            </div>
+
+            <div class="col-sm-3 col " > 
+              Básico
+            </div>
+          </div>  
+
+          <div class="row">
+            <div class="col-sm-9 col " > 
+              <p className="parrafo">
+                <b><u>Merengue joropeado</u></b>
+              </p>
+              <p className="parrafo">
+              El labrador. Eduardo Villarreal
+              </p>
+              <p className="parrafo">
+                Un bonito tema que habla de la cotidianidad del campesino. Muy útil para el estudio del género y la práctica instrumental de tiple requinto, tiple, guitarra y guacharaca.
+                Se puede acceder al audio de la pieza el cual permite comprender y estudiar las bases ritmo-armónicas en la Cartilla de iniciación musical “Viva quién toca” en el siguiente link:
+                <a href="https://mincultura.gov.co/proyectoeditorial/Pages/Cartilla-de-iniciación-musical-Músicas-andina-centro-oriente--viva-quien-toca-.aspx" target="blank"> https://mincultura.gov.co/proyectoeditorial/Pages/Cartilla-de-iniciación-musical-Músicas-andina-centro-oriente--viva-quien-toca-.aspx</a>
+              </p>
+            </div>
+
+            <div class="col-sm-3 col " > 
+              Avanzado
+            </div>
+          </div>  
+
+          <div class="row">
+            <div class="col-sm-12 bg-danger">
+             Andina Centro-Oriente
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-sm-9 col">
+             <p className="parrafo">
+               <b>Gaván</b>
+             </p>
+             <p className="parrafo">
+             Es un golpe tradicional llanero que está conformado por 4 compases (Im-Im-V7-V7). Se puede hacer de la manera más sencilla llegando a ser trabajado en el nivel inicial.
+             <a href="https://www.youtube.com/watch?v=eCFxrL5A1nM " target="blank"> https://www.youtube.com/watch?v=eCFxrL5A1nM </a>
+             </p>
+   
+            </div>
+
+            <div class="col-sm-3 col">
+              Básico
+            </div>
+          </div>
+
+          
+          <div class="row">
+            <div class="col-sm-9 col">
+             <p className="parrafo">
+               <b>Corrido</b>
+             </p>
+             <p className="parrafo">
+              El “corrido o corrío” como se les conoce es un golpe con la estructura (Im-IVm-V7-V7). Puede ser trabajado desde nivel inicial y se pude ir complejizando hasta un nivel medio. También se puede trabajar en modo mayor.         
+              <a href="https://www.youtube.com/watch?v=tcpjvvkNcgE" target="blank"> https://www.youtube.com/watch?v=tcpjvvkNcgE </a>
+             </p>
+   
+            </div>
+
+            <div class="col-sm-3 col">
+              Básico y Medio
+            </div>
+          </div>
+
+                    
+          <div class="row">
+            <div class="col-sm-9 col">
+             <p className="parrafo">
+               <b>Puerto Miranda</b>
+             </p>
+             <p className="parrafo">
+                Pasaje tradicional con modulación de mayor a menor y con movimiento melódico armónico que permite el desarrollo melódico y armónico del estudiante. 
+                <a href="https://www.youtube.com/watch?v=6SaAsY_IfGc" target="blank"> https://www.youtube.com/watch?v=6SaAsY_IfGc</a>
+             </p>
+   
+            </div>
+
+            <div class="col-sm-3 col">
+              Medio
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-sm-9 col">
+             <p className="parrafo">
+               <b>Chipola</b>
+             </p>
+             <p className="parrafo">
+               Golpe tradicional de alto vuelo técnico y musical modulante 
+               <a href="https://www.youtube.com/watch?v=O3OG_Gr46g0" target="blank"> https://www.youtube.com/watch?v=O3OG_Gr46g0</a>
+             </p>
+   
+            </div>
+
+            <div class="col-sm-3 col">
+              Avanzado
+            </div>
+          </div>
+
+
+          <div class="row">
+            <div class="col-sm-9 col">
+             <p className="parrafo">
+               <b>Pajarillo, seis por derecho, numerao</b>
+             </p>
+             <p className="parrafo">
+               Golpes tradicionales tocados en el sistema por derecho. Alta complejidad rítmico armónica.
+               <a href="https://www.youtube.com/watch?v=eMOnG5dOt1g " target="blank"> https://www.youtube.com/watch?v=eMOnG5dOt1g </a>
+             </p>
+   
+            </div>
+
+            <div class="col-sm-3 col">
+              Avanzado
+            </div>
+          </div>
+
+          
+          <div class="row">
+            <div class="col-sm-12 bg-danger">
+            Músicas de marimba y cantos tradicionales
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-sm-9 col">
+             <p className="parrafo">
+               <b> Canto de Boga</b>
+             </p>
+             <p className="parrafo">
+               Los cantos de boga en el pacifico sur de Colombia, son tonalidades que expresan sentimiento y espiritualidad. Están acompañados de toda una gama de experiencias que se dan entre campo, mar y río, más específicamente, entre pesca y navegación. El canto de boga es una expresión exclusivamente vocal, acompañada por el murmullo del canalete o remo y algún ave que en ese justo momento se desplace haciéndole compañía al campesino. Es más usual entre las mujeres que se divierten “roncando” con sus canaletes (es decir, haciendo sonar sus canaletes en el agua), sentadas en una banqueta, una en la proa, otras en el medio de la canoa y otra en la pilota o popa. Este canto de líneas impredecibles, son melodías en sílabas y vocales muy prolongadas.
+               <a href="https://www.youtube.com/watch?v=8mFUUeoVNm0 " target="blank"> https://www.youtube.com/watch?v=8mFUUeoVNm0 </a>
+             </p>
+   
+            </div>
+
+            <div class="col-sm-3 col">
+              Básico
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-sm-9 col">
+             <p className="parrafo">
+               <b> Bunde</b>
+             </p>
+             <p className="parrafo">
+                El bunde es uno de los aires con mayor reconocimiento en el Pacífico colombiano. Es posible encontrarlo desde el Chocó hasta Tumaco con idénticas características en el baile, los textos, el hecho social, y su composición musical. Los maestros tradicionales reconocen el bunde como el aire tradicional con el que se acompañan los cantos de adoración, chigualos o velorios de angelito, villancicos navideños y rondas infantiles que se realizan en el Pacífico. (Duque, Sánchez, & Tascón, 2009, pág. 21)
+                <a href=" https://www.youtube.com/watch?v=L7JDrUTobUg " target="blank">  https://www.youtube.com/watch?v=L7JDrUTobUg </a>
+             </p>
+   
+            </div>
+
+            <div class="col-sm-3 col">
+              Medio
+            </div>
+          </div>
+
+
+          <div class="row">
+            <div class="col-sm-9 col">
+             <p className="parrafo">
+               <b>Currulao</b>
+             </p>
+             <p className="parrafo">
+              Los músicos tradicionales parecen haber creado una especie de concepto general alrededor de la palabra currulao. Se acostumbra denominar así a cualquier tipo de música que reúna estas características: 1) participa la marimba; 2) participan bombos, cununos y guasas; y 3) está en compás de 6/8.Además de esto, en la marimba existen bordones, requintas y ondeadas particulares. (Duque, Sánchez, & Tascón, 2009, pág. 34)
+             </p>
+   
+            </div>
+
+            <div class="col-sm-3 col">
+              Avanzado
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-sm-12 bg-danger">
+            Músicas de pitos y tambores
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-sm-9 col">
+             <p className="parrafo">
+               <b>El porro</b>
+             </p>
+             <p className="parrafo">
+                Cuando en los primeros moradores de la costa atlántica la alegría se hizo fiestas, no había con qué amenizarlas. Eran los días en que empezaban a confundirse las expresiones culturales de los esclavos traídos del África, de los europeos llegados a América y de los nativos de estas tierras. Entonces, utilizaron los pitos indígenas llamados gaitas, los tambores y ritmos de los esclavos para fusionarlos con las canciones de los mestizos. Así nace en el antiguo Dpto. de Bolívar Grande el porro como ritmo musical característico de estos lugares que después se expandió por toda la región Caribe.
+             </p>
+            
+             <p className="parrafo">
+                El Porro es muy similar al ritmo de gaita en velocidad, a excepción del tambor alegre que  marca una base diferente. La mayoría de porros actualmente son cantados, sin embargo, en un principio  eran instrumentales y les añadieron letras tiempo después de ser compuestos.
+             </p>
+
+             <p className="parrafo">
+               El porro de gaitas Candelaria, narra la historia de un amor pretendido por su autor Antonio (Toño) Fernández que no tuvo un final feliz. Esto sucedió en su tierra natal San Jacinto (Bolívar): 
+               <a href="https://www.youtube.com/watch?v=z3InYT_oa0U" target="blank"> https://www.youtube.com/watch?v=z3InYT_oa0U</a>
+             </p>
+            </div>
+
+            <div class="col-sm-3 col">
+              Medio
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-sm-9 col">
+             <p className="parrafo">
+               <b>La cumbia.</b>
+             </p>
+             <p className="parrafo">
+               La experta en música costeña colombiana, María del Pilar Jiménez González, sitúa su origen alrededor del siglo XVIII, en la costa caribe de Colombia y describe su formación como el resultado de un largo proceso de fusión de tres elementos etno culturales como son los indígenas, los blancos y los africanos, de los que adopta las gaitas, las maracas y los tambores. La raíz de la palabra “cumbia” procede, según diferentes estudios lingüísticos, del vocablo africano "Cumbé" o “Knumbí” que significa jolgorio o fiesta.
+             </p>
+             <p className="parrafo">
+             Es necesario resaltar que el maestro José Barros Palomino fue defensor de la teoría que la cumbia como ritmo musical y baile, nació cerca del Banco (Magdalena) con los indígenas Pocabuyes quienes la utilizaban en las ceremonias funerarias. Es una teoría opuesta a la que sostiene que es un ritmo del litoral Caribe, cercano al mar,  que tuvo sus orígenes en los palenques africanos que en el existían.
+             </p>
+             <ul className="estrofa">
+              <li>EL  ALEGRE  PESCADOR</li>
+              <li>-Cumbia-</li>
+              <li>Autor: José Barros Palomino</li>
+             </ul>
+             <p className="parrafo">
+             Esta cumbia es uno de los temas más populares del maestro Barros. En ella se ve retratada la dura labor de estos hombres y sus vivencias. Está llena de figuras literarias que enseñan el paisaje, los elementos de uso diario para la pesca y sus amores: 
+             <a href="https://www.youtube.com/watch?v=JsTrDVYYWC8" target="blank"> https://www.youtube.com/watch?v=JsTrDVYYWC8</a>
+             </p>
+            </div>
+
+            <div class="col-sm-3 col">
+              Avanzado
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-sm-9 col">
+             <p className="parrafo">
+               <b>La puya.</b>
+             </p>
+             <p className="parrafo">
+               Algunos historiadores musicales afirman que se originó en el departamento del Magdalena. Su nombre posiblemente proviene de la costumbre de empujar a la persona que una pareja de baile lleva adelante, puyándole con la punta de los dedos. Tiene un ritmo complejo y acelerado y  ambiente alegre. En el baile predominan los desplazamientos lineales y movimientos rápidos de piernas y caderas bastante exagerados, lo que hace que resulte vibrante y llamativo debido a la fuerza que se le imprime.             
+             </p>
+            
+             <p className="parrafo">
+               La composición musical llamada ‘Puya Puyará’ de los Gaiteros de San Jacinto es una muestra de este ritmo caribeño tocada con gaitas y tambores. En ella los músicos demuestran sus destrezas con los instrumentos que ejecutan; esto,  sumado al ambiente festivo de una rueda de gaitas, invita a bailar y lanzar gritos de alegría:                
+               <a href=" https://www.youtube.com/watch?v=SsPdjWOPWCE" target="blank">  https://www.youtube.com/watch?v=SsPdjWOPWCE</a>
+             </p>
+            </div>
+
+            <div class="col-sm-3 col">
+              Avanzado
+            </div>
+          </div>
+      </div>
+
+
+
+
+
+
+
+
+
+
     </div>
   );
 }
