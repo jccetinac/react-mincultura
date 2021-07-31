@@ -211,11 +211,28 @@ margin-bottom:10px;
 
 .estrofa li{
   margin: 0%;
-  list-style-type: none; 
+  list-style-type: none;
+  font-size: 80%;
+}
+.estrofaparrafo{
+  font-size: 80%;
+  text-align: justify;
+  width: 80%;
+  display: block;
+  margin: auto;
+  margin-bottom: 22px;
 }
 
-.pestrofa{
-  margin:2px;
+.letratabla5{
+  text-align:left;
+  margin-bottom: 0%;
+  font-size: 80%;
+}
+
+.letratablatitulo{
+  text-align:center;
+  font-size: 80%;
+  padding:2px;
 }
 
 
@@ -223,12 +240,16 @@ margin-bottom:10px;
   width: 80%;
   display: block;
   margin: auto;
+  margin-bottom: 30px;
+  margin-top: 22px;
 }
 
 .contenedortabla .col{
   margin-bottom: 1px;
   color: black !important;
   border: rgb(238, 67, 67) 1px solid;
+  padding-bottom: 7px;
+  
 }
 
 
