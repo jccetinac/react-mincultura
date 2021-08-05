@@ -3,7 +3,7 @@ import React from 'react';
 export default function ProcesosTransversales() {
   return (
     <div className="pagesubtitulos card ">
-      <div className="portada1">
+      <div className="portada2">
       <div className="fondorojo"></div>
         <h1 className="subtitulo">2. PROCESOS TRANSVERSALES</h1>
       </div>

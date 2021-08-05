@@ -3,7 +3,7 @@ import React from 'react';
 export default function PautasDeInvestigacion() {
   return (
     <div className="pagesubtitulos card ">
-      <div className="portada1">
+      <div className="portada4">
       <div className="fondorojo"></div>
       <h1 className="subtitulo">4. PAUTAS DE INVESTIGACIÓN DE LAS PEDAGOGÍAS DE LAS MÚSICAS DE TRADICIÓN ORAL </h1>
       </div>

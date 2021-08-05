@@ -3,7 +3,7 @@ import React from 'react';
 export default function Anexos69() {
   return (
     <div className="pagesubtitulos card ">
-      <div className="portada1">
+      <div className="portada5">
       <div className="fondorojo"></div>
       <h1 className="subtitulo">5. ANEXOS 69</h1>
       </div>

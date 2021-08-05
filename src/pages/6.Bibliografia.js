@@ -3,7 +3,7 @@ import React from 'react';
 export default function Bibliografia() {
   return (
     <div className="pagesubtitulos card ">
-      <div className="portada1">
+      <div className="portada6">
       <div className="fondorojo"></div>
       <h1 className="subtitulo">6. BIBLIOGRAFÍA</h1>
       </div>

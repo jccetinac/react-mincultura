@@ -67,6 +67,60 @@ margin-top: 15px;
   margin-bottom: 25px;
 }
 
+.portada2{
+  background-image: url("https://firebasestorage.googleapis.com/v0/b/mincultura-a4665.appspot.com/o/los-estudiantes-universitarios-corren-mayor-riesgo-de-la-enfermedad-meningococica-del-serogrupo-b-segun-estudio.jpg?alt=media&token=ab8da5ae-80b2-41e2-b357-ec4663b51732");
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  margin-top: 0%;
+  margin-bottom: 25px;
+}
+.portada3{
+  background-image: url("https://firebasestorage.googleapis.com/v0/b/mincultura-a4665.appspot.com/o/portada2.jpg?alt=media&token=141cfc0e-c74d-4aad-830c-3cd10c3b9987");
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  margin-top: 0%;
+  margin-bottom: 25px;
+}
+
+.portada4{
+  background-image: url("https://firebasestorage.googleapis.com/v0/b/mincultura-a4665.appspot.com/o/student-with-an-ipad-itunes-u-100609219-orig.jpg?alt=media&token=2a2000e3-811a-4f42-819b-ac37d9bd4f2e");
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  margin-top: 0%;
+  margin-bottom: 25px;
+}
+
+.portada5{
+  background-image: url("https://firebasestorage.googleapis.com/v0/b/mincultura-a4665.appspot.com/o/estudiar-online-en-casa-para-universitarios-1280x720.jpg?alt=media&token=f52a7f6a-07b8-4664-aef8-98c1253626e4");
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  margin-top: 0%;
+  margin-bottom: 25px;
+}
+
+.portada6{
+  background-image: url("https://firebasestorage.googleapis.com/v0/b/mincultura-a4665.appspot.com/o/books-389392_1920.jpg?alt=media&token=baf8c3bb-59ca-4241-834c-46dfaec2909a");
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  margin-top: 0%;
+  margin-bottom: 25px;
+}
+
 .fondorojo{
   z-index: 1;
   background-color:rgba(168, 11, 11, 0.411);
