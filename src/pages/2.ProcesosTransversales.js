@@ -2,9 +2,10 @@ import React from 'react';
 
 export default function ProcesosTransversales() {
   return (
-    <div className="page card ">
-      <h1 className="subtitulo">2. PROCESOS TRANSVERSALES</h1>
-      
+    <div className="pagesubtitulos card ">
+      <div className="portada1">
+        <h1 className="subtitulo">2. PROCESOS TRANSVERSALES</h1>
+      </div>
       
       <p className="parrafo">
         Como se menciona al iniciar este capítulo, las músicas de tradición oral se caracterizan por la forma en que articulan diferentes dimensiones y procesos. En el apartado anterior se evidenció el vínculo entre oralidad, memoria y cuerpo. En el actual se presentarán los procesos que consideramos centrales para la apropiación de las músicas desde esta perspectiva. 

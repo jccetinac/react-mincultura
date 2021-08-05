@@ -2,8 +2,10 @@ import React from 'react';
 
 export default function Anexos69() {
   return (
-    <div className="page card ">
+    <div className="pagesubtitulos card ">
+      <div className="portada1">
       <h1 className="subtitulo">5. ANEXOS 69</h1>
+      </div>
       
       <div class="contenedortabla">
          <div class="row">

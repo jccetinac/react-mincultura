@@ -2,9 +2,10 @@ import React from 'react';
 
 export default function LineasPedagogicas() {
   return (
-    <div className="page card ">
+    <div className="pagesubtitulos card ">
+         <div className="portada1">
       <h1 className="subtitulo">3. LÍNEAS PEDAGÓGICAS</h1>
-
+         </div>
       <p className="parrafo">
       A continuación, se presenta una ruta a través de la cual se propone abordar las músicas desde los aportes de las pedagogías de la tradición oral. Es una propuesta, por lo cual no pretende ser la única vía valedera para abordar las músicas. Busca, por el contrario, plantear un camino en el que se recogen las dimensiones y procesos señalados en los capítulos anteriores.
       </p>

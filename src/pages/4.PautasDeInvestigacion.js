@@ -2,9 +2,10 @@ import React from 'react';
 
 export default function PautasDeInvestigacion() {
   return (
-    <div className="page card ">
+    <div className="pagesubtitulos card ">
+      <div className="portada1">
       <h1 className="subtitulo">4. PAUTAS DE INVESTIGACIÓN DE LAS PEDAGOGÍAS DE LAS MÚSICAS DE TRADICIÓN ORAL </h1>
-     
+      </div>
      <p className="parrafo">
        Debido a que las pedagogías de las músicas de tradición oral no han sido suficientemente sistematizadas, hay un gran vacío de información sobre ellas y por tanto, un alto riesgo de olvido. 
       </p>  

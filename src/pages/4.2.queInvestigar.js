@@ -8,7 +8,7 @@ export default function QueInvestigar() {
 
       <p className="parrafo">
 
-      Como es mencionado en el aparte de Líneas Pedagógicas, es fundamental que los docentes exploren en la diversidad de músicas para abordarlas con los estudiantes. En este sentido,<b>las músicas </b> son uno de los primeros objetos de investigación. Puede iniciarse por un rastreo de las músicas del país para identificar aspectos como:
+      Como es mencionado en el aparte de Líneas Pedagógicas, es fundamental que los docentes exploren en la diversidad de músicas para abordarlas con los estudiantes. En este sentido,<b> las músicas </b> son uno de los primeros objetos de investigación. Puede iniciarse por un rastreo de las músicas del país para identificar aspectos como:
       </p>
 
       <ul>

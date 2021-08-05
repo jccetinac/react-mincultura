@@ -2,9 +2,10 @@ import React from 'react';
 
 export default function Bibliografia() {
   return (
-    <div className="page card ">
+    <div className="pagesubtitulos card ">
+      <div className="portada1">
       <h1 className="subtitulo">6. BIBLIOGRAFÍA</h1>
-
+      </div>
       <p className="parrafo">
       Arango, A. M. (2009). "Oiga maestro...El que escribe gana". Entre el eurocentrismo y la legitimación de saberes musicales locales. En M. Pardo, Música y sociedad en Colombia. Traslaciones, legitimaciones e identificaciones. Bogotá: Editorial Universidad del Rosario.
       </p>
