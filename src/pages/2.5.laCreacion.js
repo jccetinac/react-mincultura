@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function LaCreacion() {
   return (
-    <div className="pagesubtitulos card ">
+    <div className="page card ">
        
       <h2 className="subcapitulo">2.5.La creación y la improvisación</h2>
 
