@@ -4,6 +4,7 @@ export default function LineasPedagogicas() {
   return (
     <div className="pagesubtitulos card ">
          <div className="portada1">
+         <div className="fondorojo"></div>
       <h1 className="subtitulo">3. LÍNEAS PEDAGÓGICAS</h1>
          </div>
       <p className="parrafo">
