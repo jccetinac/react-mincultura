@@ -3,7 +3,7 @@ import React from 'react';
 export default function LaObservacion() {
   return (
     <div className="page card ">
-      <h2 className="subcapitulo">2.1.La observación:"pele el ojo"</h2>
+      <h2 className="subcapitulo">2.1. La observación:"pele el ojo"</h2>
      
      <p className="parrafo">
     En contextos tradicionales y comunitarios, la observación es una de las primeras formas de acercamiento al quehacer musical de los vecinos, amigos y familiares. Desde la <b>voluntad propia, el interés y el gusto,</b>  los niños observan las prácticas musicales cercanas, en <b>espacios festivos, cotidianos, familiares. </b>

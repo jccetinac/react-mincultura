@@ -5,7 +5,7 @@ export default function Anexos69() {
     <div className="pagesubtitulos card ">
       <div className="portada5">
       <div className="fondorojo"></div>
-      <h1 className="subtitulo">5. ANEXOS 69</h1>
+      <h1 className="subtitulo">5. ANEXOS </h1>
       </div>
       
       <div class="contenedortabla">

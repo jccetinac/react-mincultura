@@ -3,7 +3,7 @@ import React from 'react';
 export default function CuerpoYritmo() {
   return (
     <div className="page card ">
-      <h2 className="subcapitulo">3.2.Cuerpo,ritmo y movimiento</h2>
+      <h2 className="subcapitulo">3.2. Cuerpo,ritmo y movimiento</h2>
 
       <p className="parrafo">
        Cuando escuchamos música, tendemos a percibir afinidades entre el sonido y el movimiento de nuestro cuerpo. Según la teoría motora de la percepción, para percibir algo debemos simular activamente el movimiento asociado a las impresiones sensoriales que estamos tratando de procesar. Es decir, que cuando escuchamos música tendemos a simular mentalmente aquellos movimientos del cuerpo que se precisan para producir el sonido. Por tanto, nuestra experiencia de un sonido implica una imagen mental de un movimiento del cuerpo.  

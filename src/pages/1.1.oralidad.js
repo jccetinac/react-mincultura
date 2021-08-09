@@ -3,7 +3,7 @@ import React from 'react';
 export default function Oralidad() {
   return (
     <div className="page card ">
-      <h2 className="subcapitulo">1.1.Oralidad</h2>
+      <h2 className="subcapitulo">1.1. Oralidad</h2>
 
       <p className="parrafo">
       Tal como lo señala su nombre, la oralidad es una de las vías privilegiadas para su conocimiento, apropiación, transmisión y creación de las músicas que aquí se abordan. La oralidad sin embargo, no solo está presente en la vida musical, sino que es parte fundamental de la vida cultural de las comunidades. Puede imaginarse la transmisión de los elementos verbales y, por extensión, de los elementos musicales como una larga cadena de conversaciones e intercambios colectivos. Así, el conjunto de conocimientos, técnicas, creencias y valores, se ha almacenado en la memoria humana y en algunas manifestaciones como canciones, recursos de la tradición oral (poemas, coplas, romances y relatos, entre tantos otros) así como en la simbología presente en las artes y manifestaciones plásticas de los pueblos. 

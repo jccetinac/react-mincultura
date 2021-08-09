@@ -3,7 +3,7 @@ import React from 'react';
 export default function PorqueInvestigar() {
   return (
     <div className="page card ">
-      <h2 className="subcapitulo">4.1.¿Por qué investigar las pedagogías de las músicas de tradición oral?</h2>
+      <h2 className="subcapitulo">4.1. ¿Por qué investigar las pedagogías de las músicas de tradición oral?</h2>
 
 
      <p className="parrafo">

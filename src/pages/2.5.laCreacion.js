@@ -4,7 +4,7 @@ export default function LaCreacion() {
   return (
     <div className="page card ">
        
-      <h2 className="subcapitulo">2.5.La creación y la improvisación</h2>
+      <h2 className="subcapitulo">2.5. La creación y la improvisación</h2>
 
      <p className="parrafo">
      En los contextos de la oralidad el concepto creación no viene como una decisión, no depende de solo un acto de voluntad como uno creyera. Es decir, no depende solo de decidir “voy a componer” o, “voy a crear una pieza musical”, sino que está asociado a la práctica, la técnica, la interpretación, el análisis o la reflexión y el universo social. 

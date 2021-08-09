@@ -3,7 +3,7 @@ import React from 'react';
 export default function LaImitacion() {
   return (
     <div className="page card ">
-      <h2 className="subcapitulo">2.3.La imitacion</h2>
+      <h2 className="subcapitulo">2.3. La imitacion</h2>
 
       
     <p className="parrafo">

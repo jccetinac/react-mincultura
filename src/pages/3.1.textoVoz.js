@@ -3,7 +3,7 @@ import React from 'react';
 export default function TextoVoz() {
   return (
     <div className="page card ">
-      <h2 className="subcapitulo">3.1.Texto, voz y canto</h2>
+      <h2 className="subcapitulo">3.1. Texto, voz y canto</h2>
 
       <p className="parrafo">
       Esta línea pedagógica, que se plantea como un momento inicial del proceso, se relaciona de manera directa con la oralidad y con las oralituras, es decir, con el legado de historias, poéticas, narrativas y relatos propios de la tradición oral. Se reconoce así que en el texto y las diferentes formas de versificación, por ejemplo, se encuentra una enorme riqueza que permite acercarse, a través de las músicas, a la realidad de una cultura dada. Mediante esta línea pedagógica se invita entonces a los docentes de las escuelas municipales de música a reconocer en la tradición oral presente en las músicas, una forma privilegiada de conocimiento musical y cultural del país, así como una fuente valiosa para la creación.

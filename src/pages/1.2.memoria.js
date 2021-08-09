@@ -3,7 +3,7 @@ import React from 'react';
 export default function Memoria() {
   return (
     <div className="page card ">
-      <h2 className="subcapitulo">1.2.Memoria</h2>
+      <h2 className="subcapitulo">1.2. Memoria</h2>
       
       <p className="parrafo">
       La memoria es más que un recipiente de recuerdos. Para los diferentes grupos humanos la memoria colectiva es el sustento de las identidades y la historia de los pueblos. La memoria colectiva (siempre dinámica y cambiante), permite a las sociedades explicar su lugar en el mundo, sus transformaciones y sus propósitos futuros como colectivo. 

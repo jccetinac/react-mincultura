@@ -3,7 +3,7 @@ import React from 'react';
 export default function LaEscucha() {
   return (
     <div className="page card ">
-      <h2 className="subcapitulo">2.2.La escucha:"pare oreja"</h2>
+      <h2 className="subcapitulo">2.2. La escucha:"pare oreja"</h2>
      
 
     <p className="parrafo">

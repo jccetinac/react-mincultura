@@ -3,7 +3,7 @@ import React from 'react';
 export default function LaExploracion() {
   return (
     <div className="page card ">
-      <h2 className="subcapitulo">2.4.La exploración</h2>
+      <h2 className="subcapitulo">2.4. La exploración</h2>
 
       <p className="parrafo">
       La exploración hace parte del conjunto de procesos a través de los cuales, desde las músicas de tradición oral se aprende y apropian las músicas. La exploración tiene como base la observación, la escucha y la imitación, se alimenta de la curiosidad, de la memoria y de la decisión por buscar respuestas a las inquietudes. Así, la exploración está movida por una o muchas preguntas e inquietudes o por el interés de conocer, de ir un poco más allá de lo aparente, “probar qué sucede si...toco, muevo, soplo, cambio, subo o bajo, golpeo así, o de esta manera” etc. Podemos decir por ello que <u>la exploración implica curiosear </u> y que hace parte del ámbito de la acción: supone una actitud de búsqueda, invita a estar dispuesto a la aventura y a la pesquisa.

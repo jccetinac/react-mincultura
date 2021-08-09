@@ -3,7 +3,7 @@ import React from 'react';
 export default function EnsambleYMontaje() {
   return (
     <div className="page card ">
-      <h2 className="subcapitulo">3.4.Ensamble y montanje</h2>
+      <h2 className="subcapitulo">3.4. Ensamble y montanje</h2>
 
       <p className="parrafo">
       En la música tradicional la participación y la creatividad están en estrecha relación con la práctica musical porque esta constituye una de las principales formas de participación en contextos artísticos, sociales y rituales. La música permite el poder ser a través de la sonoridad. Por tanto, la participación no debe pensarse solamente como el hacer música, componerla o tocarla, también se participa escuchándola, bailándola, participando de los rituales, de los parrandos, dejándose afectar por ella y expresándola de diversas maneras. Entonces, es necesario reiterar aquí que, mientras lo académico está asociado de manera fuerte con la escritura, lo oral está relacionado más con la participación y con los saberes asociados a las identidades que se expresan musicalmente. La participación es por tanto una de las características más importantes de la oralidad. No determina, no delimita o constriñe como lo hace el lenguaje escrito, por el contrario, libera y transforma, generando procesos creativos desde la práctica, la participación y la relación constante con el contexto y sus pares.  

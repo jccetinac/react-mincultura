@@ -121,6 +121,17 @@ margin-top: 15px;
   margin-bottom: 25px;
 }
 
+.portadaP{
+  background-image: url("https://firebasestorage.googleapis.com/v0/b/mincultura-a4665.appspot.com/o/Kids.jpg?alt=media&token=080c6b97-3c62-46c2-914d-a2aa7a44e51a");
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  margin-top: 0%;
+  margin-bottom: 25px;
+}
+
 .fondorojo{
   z-index: 1;
   background-color:rgba(168, 11, 11, 0.411);
@@ -152,6 +163,7 @@ margin-top: 15px;
   z-index:10;
   color:white;
   font-size: 180%;
+  font-weight:bold;
   width: 100%;
   display: block;
   margin: auto;
@@ -215,7 +227,7 @@ ul,ol{
 }
 
 em{
-  color: #333333;
+  color: #333333d0;
   width: 70%;
   text-align: justify;
   display: block;
@@ -230,8 +242,8 @@ margin-bottom:10px;
 }
 
 .destacados{
-  color:rgb(50, 50, 156);
-  border:solid 2px rgb(241, 69, 69);
+  color: #333333d0;
+  border:solid 1px rgb(241, 69, 69);
   width: 70%;
   text-align: justify;
   display: block;
@@ -258,6 +270,7 @@ margin-bottom:10px;
   border: 1px solid rgb(204, 110, 110);
   text-align: left;
   padding: 7px;
+  color: #333333;
 }
 
 .tablamin th {
@@ -319,7 +332,7 @@ margin-bottom:10px;
 
 .contenedortabla .col{
   margin-bottom: 1px;
-  color: black !important;
+  color: black;
   border: rgb(238, 67, 67) 1px solid;
   padding-bottom: 7px;
   
@@ -376,6 +389,7 @@ a:hover {
     text-align: justify;
     padding-left:25px;
     padding-right:25px;
+    border: 1px solid red;
   }
 
   sup{
@@ -388,7 +402,12 @@ a:hover {
     color: red;
   }
   .closemodal{ 
-    color: red;
+    color:white;
+    background-color:red;
+    font-size:140%;
+    border:1px solid red; 
+    padding-left: 8px;
+    padding-right: 8px;
   }
 
 

@@ -3,7 +3,7 @@ import React from 'react';
 export default function LoArmonico() {
   return (
     <div className="page card ">
-      <h2 className="subcapitulo">3.3.Lo armonico y melódico</h2>
+      <h2 className="subcapitulo">3.3. Lo armonico y melódico</h2>
 
       <p className="parrafo">
       Desarrollar el sentido armónico implica una escucha conectada con el entorno, donde se puedan ir lentamente percibiendo relaciones entre sonidos. En un primer momento el análisis de esas relaciones se puede dar con elementos extra musicales, es decir, solo a manera de ejemplo un acorde mayor puede sonar o relacionarse con algo alegre y por el contrario un acorde de carácter menor puede ser relacionado con algo más “triste”. El proceso de caracterización e identificación de los diferentes acordes suele ser un proceso subjetivo, psicológico y emocional que cada estudiante desarrolla de manera intuitiva, antes de entrar a profundizar en otro tipo de escucha más analítica desde lo estructural de la composición de las triadas. 

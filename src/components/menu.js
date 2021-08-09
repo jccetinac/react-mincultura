@@ -75,7 +75,7 @@ export default function Menu() {
              <Link to="/4.4.quienesPuedenInvestigar">4.4. ¿Quiénes pueden investigar las pedagogías de las músicas de tradición oral?</Link>       
               </li>
              </ul>
-           <p><Link to="/5.Anexos69">5. Anexos	69</Link></p>
+           <p><Link to="/5.Anexos69">5. Anexos</Link></p>
            <p><Link to="/6.Bibliografia">6. Bibliografía</Link></p>
            
       </div>

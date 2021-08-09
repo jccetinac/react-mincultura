@@ -3,7 +3,7 @@ import React from 'react';
 export default function Corporalidad() {
   return (
     <div className="page card ">
-      <h2 className="subcapitulo">1.3.Corporalidad</h2>
+      <h2 className="subcapitulo">1.3. Corporalidad</h2>
 
       <p className="parrafo">
      Más allá de la multiplicidad de nociones sobre el cuerpo, en las músicas de tradición oral la corporalidad es parte fundamental del aprendizaje y de la vida cultural: la fuerza física desarrollada por aquellos que labran la tierra hace que el rasgueo de sus tiples sea fuerte y sonoramente diferente al de los intérpretes de las ciudades. El baile que acompaña la vida de los niños y niñas desde su primera infancia, se relaciona profundamente con un específico sentido del ritmo en los músicos del Chocó. Estos, entre muchos otros ejemplos, señalan la forma en que cuerpo y música no están disociados en las músicas de tradición oral, entre otras razones, porque en las comunidades orales (como en las demás) el cuerpo es el soporte mismo de la existencia y de la identidad:
