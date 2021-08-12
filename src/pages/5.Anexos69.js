@@ -162,7 +162,7 @@ export default function Anexos69() {
 
           <div class="row">
             <div class="col-sm-12 bg-danger">
-             Andina Centro-Oriente
+               Llanos
             </div>
           </div>
 
@@ -371,7 +371,7 @@ export default function Anexos69() {
 
           <div class="row">
             <div class="col-sm-9 col pt-2">
-             <p className="parrafo">
+             <p className="estrofaparrafo">
                <b>La puya.</b>
              </p>
              <p className="estrofaparrafo">

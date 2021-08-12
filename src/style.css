@@ -7,9 +7,9 @@ h1,h2,h3,h4,h5,p,i,b,ul,em
 }
 
 h6 {
-color: rgb(214, 42, 42);
-text-align: center;
-margin-top: 15px;
+ color: rgb(214, 42, 42);
+ text-align: center;
+ margin-top: 15px;
 }
 
 
@@ -308,6 +308,14 @@ margin-bottom:10px;
   margin: auto;
   margin-bottom: 22px;
 }
+.estrofaparrafo2{
+  font-size: 80%;
+  text-align: justify;
+  width: 80%;
+  display: block;
+  margin: auto;
+  
+}
 
 .letratabla5{
   text-align:left;
@@ -334,6 +342,12 @@ margin-bottom:10px;
   margin-bottom: 1px;
   color: black;
   border: rgb(238, 67, 67) 1px solid;
+  padding-bottom: 7px;  
+}
+
+.contenedortabla2 .col{
+  margin-bottom: 1px;
+  color: black;
   padding-bottom: 7px;
   
 }
@@ -409,5 +423,15 @@ a:hover {
     padding-left: 8px;
     padding-right: 8px;
   }
+
+  .imagenAnexos{
+    width: 100%;
+    max-width: 100%;
+    padding-top:20px;
+  }
+
+  .rojos{
+    color: red;
+    }
 
 

@@ -30,6 +30,7 @@ import ComoInvestigar from './pages/4.3.comoInvestigar';
 import QuienesPuedenInvestigar from './pages/4.4.quienesPuedenInvestigar';
 import Anexos69 from './pages/5.Anexos69';
 import Bibliografia from './pages/6.Bibliografia';
+import Anexos2 from './pages/5.Anexoos2';
 
 
 
@@ -41,6 +42,7 @@ import {
 } from 'react-router-dom';
 
 import './style.css';
+
 
 
 
@@ -99,6 +101,7 @@ export default function App() {
                 <Route exact path="/4.4.quienesPuedenInvestigar" component={QuienesPuedenInvestigar} />
                 <Route exact path="/5.Anexos69" component={Anexos69} />
                 <Route exact path="/6.Bibliografia" component={Bibliografia} />
+                <Route exact path="/5.Anexos2" component={Anexos2} />
                 
                 
 
