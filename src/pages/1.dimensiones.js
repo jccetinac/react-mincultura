@@ -5,7 +5,7 @@ export default function Dimensiones() {
 
   <div className="pagesubtitulos card ">
     <div className="portada1">
-      <div className="fondorojo"></div>
+      <div className="fondorojohome"></div>
      <h1 className="subtitulo">1. DIMENSIONES</h1>
     </div>
      
