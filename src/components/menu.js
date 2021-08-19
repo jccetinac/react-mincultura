@@ -77,7 +77,7 @@ export default function Menu() {
              </ul>
            <p><Link to="/5.Anexos69">5. Anexos</Link></p>
            <p><Link to="/6.Bibliografia">6. Bibliografía</Link></p>
-           <p><Link to="/Inicio">Inicio</Link></p>
+          
            
       </div>
   );

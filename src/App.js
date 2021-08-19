@@ -3,7 +3,7 @@ import Header from './components/Header';
 import Footer from './components/Footer';
 import Menu from './components/menu';
 import Home from './pages/home';
-import Inicio from './pages/Inicio';
+
 
 
 import Presentacion from './pages/Presentacion';
@@ -77,8 +77,7 @@ export default function App() {
             </div>
             <div className="col-md-9">
               <Switch>
-                <Router exact path="/" component={Home} />
-                <Router exact path="/Inicio" component={Inicio} />
+                <Route exact path="/" component={Home} />
                 <Route exact path="/presentacion" component={Presentacion} />
                 <Route exact path="/introduccion" component={Introduccion} />
                 <Route exact path="/Elementos" component={Elementos} />

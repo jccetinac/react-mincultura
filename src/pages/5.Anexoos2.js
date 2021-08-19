@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 export default function Anexos2() {
   return (
     <div className="pagesubtitulos card ">
-        <div className="portadaP">
+        <div className="portada5">
         <div className="fondorojo"></div>
          <h1 className="subtitulo">ANEXOS</h1>
         </div>
@@ -78,7 +78,7 @@ export default function Anexos2() {
             </div>
 
             <div class="col-sm-4 col pt-2 pb-2">
-              <img className="imagenAnexos" src="https://firebasestorage.googleapis.com/v0/b/mincultura-a4665.appspot.com/o/musicapp.jpg?alt=media&token=47562275-76f7-40be-954d-103919c01980">
+              <img className="imagenAnexos" src="https://firebasestorage.googleapis.com/v0/b/mincultura-a4665.appspot.com/o/pexels-amine-m'siouri-2108813.jpg?alt=media&token=01b57823-3f6a-4c84-a000-9ca775c3ee3b">
               </img>
             </div>
          </div>
@@ -128,7 +128,7 @@ export default function Anexos2() {
              </div>
 
              <div class="col-sm-4 col pt-2 pb-2">
-              <img className="imagenAnexos" src="https://firebasestorage.googleapis.com/v0/b/mincultura-a4665.appspot.com/o/musicapp.jpg?alt=media&token=47562275-76f7-40be-954d-103919c01980">
+              <img className="imagenAnexos" src="https://firebasestorage.googleapis.com/v0/b/mincultura-a4665.appspot.com/o/kid-1092701_1920.jpg?alt=media&token=574fd5cd-bd8e-41a2-9b0a-adfb719c0b8f">
               </img>
             </div>
             </div> 
@@ -186,7 +186,7 @@ export default function Anexos2() {
             </div>
 
             <div class="col-sm-4 col pt-2 pb-2">
-              <img className="imagenAnexos" src="https://firebasestorage.googleapis.com/v0/b/mincultura-a4665.appspot.com/o/musicapp.jpg?alt=media&token=47562275-76f7-40be-954d-103919c01980">
+              <img className="imagenAnexos" src="https://firebasestorage.googleapis.com/v0/b/mincultura-a4665.appspot.com/o/pexels-amine-m'siouri-2108813.jpg?alt=media&token=01b57823-3f6a-4c84-a000-9ca775c3ee3b">
               </img>
             </div>
           </div>
@@ -289,7 +289,7 @@ export default function Anexos2() {
 
 
              <div class="col-sm-4 col pt-2 pb-2">
-              <img className="imagenAnexos" src="https://firebasestorage.googleapis.com/v0/b/mincultura-a4665.appspot.com/o/musicapp.jpg?alt=media&token=47562275-76f7-40be-954d-103919c01980">
+              <img className="imagenAnexos" src="https://firebasestorage.googleapis.com/v0/b/mincultura-a4665.appspot.com/o/pexels-amine-m'siouri-2108813.jpg?alt=media&token=01b57823-3f6a-4c84-a000-9ca775c3ee3b">
               </img>
             </div>
           </div>
