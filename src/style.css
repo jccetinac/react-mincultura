@@ -144,7 +144,7 @@ h6 {
 
 .portadaHome{
   background-image: url("https://firebasestorage.googleapis.com/v0/b/mincultura-a4665.appspot.com/o/carnival-4890345_1920.jpg?alt=media&token=8e25d2e0-0872-480f-b387-501550bf2296");
-  height: 1170px;
+  height: 300vh;
   Width:100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -176,6 +176,22 @@ h6 {
   text-align: center;
 
 }
+
+.tituloHome {
+  z-index:10;
+  color:white;
+  font-size: 200%;
+  font-weight:bold;
+  width: 100%;
+  display: block;
+  margin: auto;
+  margin-top: 370px;
+  text-align: center;
+  position: absolute;
+  padding:80px;
+
+}
+
 
 
 .subtitulo {
@@ -226,6 +242,11 @@ h6 {
   text-align: center;
   margin-top: 0px;
   padding-bottom: 100px;
+}
+
+.pageHome {
+  height: 187vh;
+  Background-position: center;
 }
 
 .page a {
