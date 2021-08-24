@@ -31,7 +31,7 @@ import ComoInvestigar from './pages/4.3.comoInvestigar';
 import QuienesPuedenInvestigar from './pages/4.4.quienesPuedenInvestigar';
 import Anexos69 from './pages/5.Anexos69';
 import Bibliografia from './pages/6.Bibliografia';
-import Anexos2 from './pages/5.Anexoos2';
+import Anexos2 from './pages/5.Anexos2';
 
 
 
