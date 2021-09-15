@@ -7,6 +7,7 @@ export default function Bibliografia() {
       <div className="fondorojo"></div>
       <h1 className="subtitulo">6. BIBLIOGRAFÍA</h1>
       </div>
+      
       <p className="parrafo">
       Arango, A. M. (2009). "Oiga maestro...El que escribe gana". Entre el eurocentrismo y la legitimación de saberes musicales locales. En M. Pardo, Música y sociedad en Colombia. Traslaciones, legitimaciones e identificaciones. Bogotá: Editorial Universidad del Rosario.
       </p>
