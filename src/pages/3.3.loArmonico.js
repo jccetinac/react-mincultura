@@ -9,6 +9,10 @@ export default function LoArmonico() {
       Desarrollar el sentido armónico implica una escucha conectada con el entorno, donde se puedan ir lentamente percibiendo relaciones entre sonidos. En un primer momento el análisis de esas relaciones se puede dar con elementos extra musicales, es decir, solo a manera de ejemplo un acorde mayor puede sonar o relacionarse con algo alegre y por el contrario un acorde de carácter menor puede ser relacionado con algo más “triste”. El proceso de caracterización e identificación de los diferentes acordes suele ser un proceso subjetivo, psicológico y emocional que cada estudiante desarrolla de manera intuitiva, antes de entrar a profundizar en otro tipo de escucha más analítica desde lo estructural de la composición de las triadas. 
       </p>
 
+      <img className="imagenmini" 
+              src="https://firebasestorage.googleapis.com/v0/b/mincultura-a4665.appspot.com/o/3mini.png?alt=media&token=2076bcaa-3111-4229-8a74-2633c1ba9319">
+           </img>
+
       <p className="parrafo">
       Es importante iniciar el trabajo desde lo vocal entonando notas del acorde de tónica en tonalidad mayor, e ir armonizando cada grado del acorde con diferentes funciones armónicas de la tonalidad que contengan la nota. Se trata de utilizar el sonido en contexto acórdico y en todos los casos refiriéndose a progresiones propias de las músicas a trabajar. Un sonido en el contexto de la progresión del torbellino, del bunde, del rajaleña, del gaván, en fin. Para este ejercicio es importante tener un instrumento armónico acompañando el proceso. 
       </p>

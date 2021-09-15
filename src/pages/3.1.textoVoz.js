@@ -31,6 +31,10 @@ export default function TextoVoz() {
       Así mismo, se busca acercar a los estudiantes a lo musical, no a través de la escritura o el solfeo, sino desde la sonoridad y la rítmica presente en las coplas, en los juegos de palabras, en las retahílas y en las diversas manifestaciones de la tradición oral de las regiones en las que se encuentran las músicas a trabajar, o incluso, en la misma región donde se encuentra la escuela municipal de música, o aquella que está en la memoria de los estudiantes. 
       </p>
 
+      <img className="imagenmini" 
+              src="https://firebasestorage.googleapis.com/v0/b/mincultura-a4665.appspot.com/o/1mini.png?alt=media&token=cb0c0ef4-cf5b-4a7d-98c1-066923acafbc">
+           </img>
+
       <div class="contenedortabla">
           
           <div class="row">
