@@ -165,28 +165,24 @@ export default function Bibliografia() {
 
         <h2 className="subcapitulo">BIBLIOGRAFÍA WEB </h2>
 
-        <p className="parrafo">
-        BandolaLlanera. (2015, dic 5). Fernando Hidalgo García - Pajarillo. Disponible en: 
-        <a href="https://www.youtube.com/watch?v=eMOnG5dOt1g"
-         target="blank"> https://www.youtube.com/watch?v=eMOnG5dOt1g</a>(Visitado el 22 de mayo de 2021)
-        </p>
 
         <p className="parrafo">
         Briceño, J. (2009, abr 6). Gavan. Disponible en:
         <a href="https://www.youtube.com/watch?v=eCFxrL5A1nM" 
-        target="blank"> https://www.youtube.com/watch?v=eCFxrL5A1nM</a>(Visitado el 22 de mayo de 2021).
+        target="blank"> https://www.youtube.com/watch?v=eCFxrL5A1nM </a>(Visitado el 22 de mayo de 2021).
         </p>
+
+        <p className="parrafo">
+        Briceño, J (2013, sept 23). Seis corrio. Disponible en: 
+        <a href="https://www.youtube.com/watch?v=BGCbU_3HG_g" 
+        target="blank"> https://www.youtube.com/watch?v=BGCbU_3HG_g </a>(Visitado el 22 de mayo de 2021).
+        </p>
+
 
         <p className="parrafo">
           BuenasTareas.com (2015, sep 7). Trova dobletiada. Buenas tareas. Disponible en: 
           <a href="https://www.buenastareas.com/ensayos/Trova-Dobletiada/78157789.html "
           target="blank"> https://www.buenastareas.com/ensayos/Trova-Dobletiada/78157789.html </a>(Visitado el 22 de mayo de 2021)
-        </p>
-
-        <p className="parrafo">
-        Colombiarmonía. (2016, mar 16). Gaiteros de San Jacinto - Puya Puyará. Disponible en: 
-        <a href="https://www.youtube.com/watch?v=SsPdjWOPWCE "
-        target="blank"> https://www.youtube.com/watch?v=SsPdjWOPWCE </a>(Visitado el 22 de mayo de 2021).
         </p>
 
         <p className="parrafo">
@@ -201,6 +197,20 @@ export default function Bibliografia() {
         target="blank"> https://www.youtube.com/watch?v=8mFUUeoVNm0</a> (Visitado el 22 de mayo de 2021).
         </p>
 
+        
+        <p className="parrafo">
+        Fundación Cirpa. Chipola-Golpes del Joropo. Disponible en: 
+        <a href="https://www.youtube.com/watch?v=caOWHWgJUnw "
+        target="blank"> https://www.youtube.com/watch?v=caOWHWgJUnw </a> (Visitado el 13 de septiembre de 2021)
+        </p>
+
+        <p className="parrafo">
+        Galíndez, Teo. (2018, oct 3) Puerto Miranda. Disponible en: 
+        <a href="htttps://www.youtube.com/watch?v=eWk-kvQwyvA. "
+        target="blank"> htttps://www.youtube.com/watch?v=eWk-kvQwyvA. </a> (Visitado el 13 de septiembre de 2021)
+        </p>
+
+
         <p className="parrafo">
         Grupo Bahía. (2015, mar 25). San Antonio - Grupo Bahía. Disponible en: 
         <a href="https://www.youtube.com/watch?v=L7JDrUTobUg "
@@ -214,15 +224,15 @@ export default function Bibliografia() {
         </p>
 
         <p className="parrafo">
-        Malegria1988. (2012, ago 21). Los Gaiteros De San Jacinto -  Candelaria. Disponible en: 
-        <a href="https://www.youtube.com/watch?v=z3InYT_oa0U"
-        target="blank"> https://www.youtube.com/watch?v=z3InYT_oa0U</a> (Visitado el 22 de mayo de 2021).
+        Hernández Vásquez, Miguel. (2015, may 3). Candelaria. Disponible en:  
+        <a href="https://www.youtube.com/watch?v=2Po3J7BFC8U"
+        target="blank"> https://www.youtube.com/watch?v=2Po3J7BFC8U </a> (Visitado el 13 de septiembre de 2021).
         </p>
 
         <p className="parrafo">
-        Música de Venezuela. (2019, mar 23) Teo Galíndez - Puerto Miranda. Disponible en: 
-        <a href="https://www.youtube.com/watch?v=6SaAsY_IfGc"
-        target="blank"> https://www.youtube.com/watch?v=6SaAsY_IfGc</a> (Visitado el 22 de mayo de 2021).
+        Millo, Oscar. )2015, oct 23). Puya a corre` (puya). Disponible en:  
+        <a href="https://www.youtube.com/watch?v=BZXbfD8QlKg"
+        target="blank">https://www.youtube.com/watch?v=BZXbfD8QlKg </a> (Visitado el 13 de septiembre de 2021).
         </p>
 
         <p className="parrafo">
@@ -238,16 +248,19 @@ export default function Bibliografia() {
         </p>
 
         <p className="parrafo">
+        Valderrama, Cholo. (2020, jun 19). Pajarito. Disponible en:  
+        <a href="https://www.youtube.com/watch?v=To1FhNBAgZM "
+        target="blank"> https://www.youtube.com/watch?v=To1FhNBAgZM</a>  (Visitado el 13 de septiembre de 2021).
+
+        </p>
+
+        <p className="parrafo">
         Zora, D. (2016, mar 10). Décimas al campesino de Gabriel Segura. Disponible en:
         <a href="https://www.youtube.com/watch?v=ag86uErirVw"
         target="blank"> https://www.youtube.com/watch?v=ag86uErirVw</a> (Visitado el 22 de mayo de 2021).
         </p>
 
-        <p className="parrafo">
-        Tributo al Llano. (2017, feb 20). La Chipola - Joseito Romero|Musica Llanera.Disponible en: 
-        <a href="https://www.youtube.com/watch?v=O3OG_Gr46g0 "
-        target="blank"> https://www.youtube.com/watch?v=O3OG_Gr46g0</a> (Visitado el 22 de mayo de 2021).
-        </p>
+
 
 
 

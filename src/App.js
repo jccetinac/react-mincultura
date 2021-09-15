@@ -5,7 +5,7 @@ import Menu from './components/menu';
 import Home from './pages/home';
 
 
-
+import Creditos from './pages/creditos';
 import Presentacion from './pages/Presentacion';
 import Introduccion from './pages/Introduccion';
 import Elementos from './pages/Elementos';
@@ -65,6 +65,7 @@ import './style.css';
 
 
 
+
 export default function App() {
   return (
     <>
@@ -77,6 +78,7 @@ export default function App() {
             </div>
             <div className="col-md-9">
               <Switch>
+              <Route exact path="/creditos" component={Creditos} />
                 <Route exact path="/" component={Home} />
                 <Route exact path="/presentacion" component={Presentacion} />
                 <Route exact path="/introduccion" component={Introduccion} />

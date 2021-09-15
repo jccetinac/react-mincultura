@@ -7,7 +7,7 @@ export default function Menu() {
   return (
     <div className="card p-4 menu">
       
-     
+      <p><Link to="/creditos">Créditos</Link></p>
      <p><Link to="/presentacion">Presentación</Link></p>
      <p><Link to="/introduccion">Introducción</Link></p>
      <p>

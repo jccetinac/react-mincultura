@@ -209,7 +209,7 @@ export default function Anexos69() {
              </p>
              <p className="estrofaparrafo">
                 Pasaje tradicional con modulación de mayor a menor y con movimiento melódico armónico que permite el desarrollo melódico y armónico del estudiante. 
-                <a href="https://www.youtube.com/watch?v=6SaAsY_IfGc" target="blank"> https://www.youtube.com/watch?v=6SaAsY_IfGc</a>
+                <a href="https://www.youtube.com/watch?v=eWk-kvQwyvA" target="blank">https://www.youtube.com/watch?v=eWk-kvQwyvA</a>
              </p>
    
             </div>
@@ -226,7 +226,7 @@ export default function Anexos69() {
              </p>
              <p className="estrofaparrafo">
                Golpe tradicional de alto vuelo técnico y musical modulante 
-               <a href="https://www.youtube.com/watch?v=O3OG_Gr46g0" target="blank"> https://www.youtube.com/watch?v=O3OG_Gr46g0</a>
+               <a href="https://www.youtube.com/watch?v=caOWHWgJUnw" target="blank"> https://www.youtube.com/watch?v=caOWHWgJUnw</a>
              </p>
    
             </div>
@@ -244,7 +244,7 @@ export default function Anexos69() {
              </p>
              <p className="estrofaparrafo">
                Golpes tradicionales tocados en el sistema por derecho. Alta complejidad rítmico armónica.
-               <a href="https://www.youtube.com/watch?v=eMOnG5dOt1g " target="blank"> https://www.youtube.com/watch?v=eMOnG5dOt1g </a>
+               <a href="https://www.youtube.com/watch?v=To1FhNBAgZM " target="blank"> https://www.youtube.com/watch?v=To1FhNBAgZM</a>
              </p>
    
             </div>
@@ -333,7 +333,7 @@ export default function Anexos69() {
 
              <p className="estrofaparrafo">
                El porro de gaitas Candelaria, narra la historia de un amor pretendido por su autor Antonio (Toño) Fernández que no tuvo un final feliz. Esto sucedió en su tierra natal San Jacinto (Bolívar): 
-               <a href="https://www.youtube.com/watch?v=z3InYT_oa0U" target="blank"> https://www.youtube.com/watch?v=z3InYT_oa0U</a>
+               <a href="https://www.youtube.com/watch?v=2Po3J7BFC8U" target="blank"> https://www.youtube.com/watch?v=2Po3J7BFC8U</a>
              </p>
             </div>
 
@@ -380,7 +380,7 @@ export default function Anexos69() {
             
              <p className="estrofaparrafo">
                La composición musical llamada ‘Puya Puyará’ de los Gaiteros de San Jacinto es una muestra de este ritmo caribeño tocada con gaitas y tambores. En ella los músicos demuestran sus destrezas con los instrumentos que ejecutan; esto,  sumado al ambiente festivo de una rueda de gaitas, invita a bailar y lanzar gritos de alegría:                
-               <a href=" https://www.youtube.com/watch?v=SsPdjWOPWCE" target="blank">  https://www.youtube.com/watch?v=SsPdjWOPWCE</a>
+               <a href="https://www.youtube.com/watch?v=BZXbfD8QlKg" target="blank"> https://www.youtube.com/watch?v=BZXbfD8QlKg</a>
              </p>
             </div>
 
