@@ -119,7 +119,9 @@ export default function Introduccion() {
       Estas cartillas definieron rutas de abordaje a través de niveles<sup><a data-toggle="modal" data-target="#notapie1">1</a></sup> : ritmo percusivo, ritmo armónico, ritmo melódico e improvisatorio, enfocándose en algunas formas de estructuración de estas músicas, pero no en las características de las pedagogías de las mismas. En años posteriores, desde el área de música del Ministerio de Cultura, se han diseñado lineamientos de formación musical en los que se han recogido los aportes pedagógicos de diversas corrientes y procedencias. De esta manera, las cartillas y lineamientos anteriores, se han centrado en las músicas y sus formatos y han propuesto caminos para su abordaje.
       </p>
       <p className="parrafo">
-      A diferencia de los anteriores documentos, este lineamiento tiene como centro las <b>pedagogías de las músicas de tradición oral; </b> aunque encuentra asidero en las músicas mismas, <b>su énfasis son sus pedagogías</b>, es decir los modos en los que se apropian e intervienen las mismas, las formas de construcción de conocimiento musical. 
+         <span className="destacado-especial">    
+            A diferencia de los anteriores documentos, este lineamiento tiene como centro las pedagogías de las músicas de tradición oral; aunque encuentra asidero en las músicas mismas, <b>su énfasis son sus pedagogías</b>, es decir los modos en los que se apropian e intervienen las mismas, las formas de construcción de conocimiento musical. 
+         </span>
       </p>
       
       <p className="parrafo">
@@ -173,8 +175,8 @@ export default function Introduccion() {
       <p className="parrafo">
       En conjunto con este documento se espera resaltar el valor que tienen las pedagogías de las músicas de tradición oral en el desarrollo de la memoria, la capacidad creativa y el disfrute. En consonancia con María Eugenia Londoño, se entiende que la recuperación de las memorias musicales colectivas es parte fundamental de la reconstrucción del tejido social que ha sido deteriorado por la guerra en el país: 
       </p>
-     <em >
-     Colombia, violentada y desgarrada por la inequidad y la guerra, reclama una recuperación crítica de la memoria musical colectiva, capaz de orientar y fortalecer la acción oficial en diversos escenarios, memoria recreadora orientada a redireccionar las prácticas académicas reconocidas e institucionalizadas durante décadas. (Londoño, 2009, pág. 58)
+     <em  className="confondo">
+        Colombia, violentada y desgarrada por la inequidad y la guerra, reclama una recuperación crítica de la memoria musical colectiva, capaz de orientar y fortalecer la acción oficial en diversos escenarios, memoria recreadora orientada a redireccionar las prácticas académicas reconocidas e institucionalizadas durante décadas. (Londoño, 2009, pág. 58)
      </em>
 
      <p className="parrafo">
@@ -185,28 +187,28 @@ export default function Introduccion() {
     La construcción de este documento fue posible gracias al trabajo conjunto de representantes de algunas de las músicas de tradición oral, así como de personas cuyas experiencias los han llevado a escudriñar a profundidad el valor pedagógico arraigado en diferentes comunidades del país. La conversación y la reflexión desde el hacer, establecieron la ruta a través de la cual este documento tomó forma. De esta manera, el presente lineamiento se hizo posible gracias al afecto, dedicación e interés de:
     </p>
 
+     <p className="parrafo">
+       <span className="destacado-especial">Ana Iris Castillo, cantadora tradicional, codirectora del Grupo Tizón de la ciudad de Pasto. </span>Ganadora de la mejor canción inédita en el Festival de Música Petronio Álvarez 2018. Directora de la fundación Folclórica de Música Tumbos de Cualimán. Miembro del Grupo Gestor Regional del Plan Especial de Salvaguardia. Licenciada en Básica Primaria con énfasis Lengua Castellana y especialista en Pedagogía.
+     </p>
+
     <p className="parrafo">
-    Ana Iris Castillo, cantadora tradicional, codirectora del Grupo Tizón de la ciudad de Pasto. Ganadora de la mejor canción inédita en el Festival de Música Petronio Álvarez 2018. Directora de la fundación Folclórica de Música Tumbos de Cualimán. Miembro del Grupo Gestor Regional del Plan Especial de Salvaguardia. Licenciada en Básica Primaria con énfasis Lengua Castellana y especialista en Pedagogía.
+     <span className="destacado-especial">Cesar de Jesús Hernández Músico tradicional y cultor de los Montes de María. Músico tradicional de conjuntos gaiteros. </span>Ex director de la Casa de la Cultura. Investigador sobre los focos de música de gaitas en los Montes de María. Fundador del grupo Aires de los Montes de María en 1992. Maestro del proyecto Semilleros de Iniciación Musical de la Escuela de Música Lucho Bermúdez. Licenciado en educación básica con énfasis en lengua castellana e inglés. Especialista en Pedagogía. Técnico Laboral en Música Instrumental de Bellas Artes y Humanidades.
     </p>
 
     <p className="parrafo">
-    Cesar de Jesús Hernández Músico tradicional y cultor de los Montes de María. Músico tradicional de conjuntos gaiteros. Ex director de la Casa de la Cultura. Investigador sobre los focos de música de gaitas en los Montes de María. Fundador del grupo Aires de los Montes de María en 1992. Maestro del proyecto Semilleros de Iniciación Musical de la Escuela de Música Lucho Bermúdez. Licenciado en educación básica con énfasis en lengua castellana e inglés. Especialista en Pedagogía. Técnico Laboral en Música Instrumental de Bellas Artes y Humanidades.
+       <span className="destacado-especial">Efraín Franco: Integrante del grupo Canto al pueblo-Armadillo (1977-1984) dedicado a la recopilación, estudio e interpretación de músicas tradicionales. </span>Autor del Documento base de cartografía de músicas tradicionales del Eje Centro Oriente (2004) y coautor de “Viva quien toca” Cartilla de Iniciación Musical, Músicas Andinas del Centro-Oriente Colombiano (2008) con el Ministerio de Cultura. Director del Ensamble de Músicas Campesinas de la ASAB-Universidad Distrital Francisco José de Caldas desde 2008.  
     </p>
 
     <p className="parrafo">
-    Efraín Franco: Integrante del grupo Canto al pueblo-Armadillo (1977-1984) dedicado a la recopilación, estudio e interpretación de músicas tradicionales. Autor del Documento base de cartografía de músicas tradicionales del Eje Centro Oriente (2004) y coautor de “Viva quien toca” Cartilla de Iniciación Musical, Músicas Andinas del Centro-Oriente Colombiano (2008) con el Ministerio de Cultura. Director del Ensamble de Músicas Campesinas de la ASAB-Universidad Distrital Francisco José de Caldas desde 2008.  
+      <span className="destacado-especial">Gustavo Córdoba –Hijuelapo- es pintor, músico folclórico y gestor cultural. </span>Nació en el municipio de Campoalegre – Huila, fue director de la Casa de la Cultura de Campoalegre y Consejero departamental de cultura en los años 2.000 - 2004. Con coplas y canciones de su autoría, condensa el sentir del pueblo Campoalegruno y Huilense y promueve un movimiento de la música folclórica que representa las luchas y la visión del pueblo Huilense, que defiende su territorio, sus tradiciones culturales, la paz y la convivencia.
     </p>
 
     <p className="parrafo">
-    Gustavo Córdoba –Hijuelapo- es pintor, músico folclórico y gestor cultural. Nació en el municipio de Campoalegre – Huila, fue director de la Casa de la Cultura de Campoalegre y Consejero departamental de cultura en los años 2.000 - 2004. Con coplas y canciones de su autoría, condensa el sentir del pueblo Campoalegruno y Huilense y promueve un movimiento de la música folclórica que representa las luchas y la visión del pueblo Huilense, que defiende su territorio, sus tradiciones culturales, la paz y la convivencia.
-    </p>
-
-    <p className="parrafo">
-    Jhon Moreno: Nació en San Luís de Palenque, Casanare. Músico de la Universidad de los Andes. Entre otras labores, ha acompañado al Ministerio de Cultura en la formación de investigadores en música llanera para el eje del “Territorio Sonoro del Joropo” y ha coordinado el Plan Especial de Salvaguardia de Carácter Urgente de Cantos de Trabajo de Llano y el Plan Departamental de Música del Meta.
+      <span className="destacado-especial">Jhon Moreno: Nació en San Luís de Palenque, Casanare. Músico de la Universidad de los Andes. </span>Entre otras labores, ha acompañado al Ministerio de Cultura en la formación de investigadores en música llanera para el eje del “Territorio Sonoro del Joropo” y ha coordinado el Plan Especial de Salvaguardia de Carácter Urgente de Cantos de Trabajo de Llano y el Plan Departamental de Música del Meta.
     </p>
 
     <p className="parrafo"> 
-    Jorge Sossa: Músico, docente e investigador de las músicas populares y tradicionales. Director de la Escuela Musical Nueva Cultura. Miembro del Comité permanente del Movimiento de la Canción Infantil Latinoamericana y caribeña, MOCILyC Coordinador de la Red Colombiana de la Canción Infantil, RedCi, Realizador del programa radial Con alma de niños de UNRadio, emisora de la Universidad Nacional de Colombia.
+      <span className="destacado-especial"> Jorge Sossa: Músico, docente e investigador de las músicas populares y tradicionales. Director de la Escuela Musical Nueva Cultura. </span> Miembro del Comité permanente del Movimiento de la Canción Infantil Latinoamericana y caribeña, MOCILyC Coordinador de la Red Colombiana de la Canción Infantil, RedCi, Realizador del programa radial Con alma de niños de UNRadio, emisora de la Universidad Nacional de Colombia.
     </p>
 
     <p className="parrafo">

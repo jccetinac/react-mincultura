@@ -18,7 +18,7 @@ export default function LaCreacion() {
      Haciendo uso especialmente de analogías y metáforas, y descubriendo por medio de éstas, relaciones entre la belleza del paisaje, objetos, personas o costumbres, se establecen vínculos de diversos tipos para generar productos creativos  posiblemente nuevos, posiblemente bellos, dentro de la creación poética, y siempre expresados por medio de una melodía que se va entretejiendo con el texto, a medida que se afianza con la cadencia armónica de la música y, se va decantando en la mente del compositor.
      </p>
 
-     <em>
+     <em className="confondo">
      Es de acuerdo tal como estamos aquí nosotros, unidos, en una alumbrancita de la misma patrona de aquí en Casablanca [...], estuvo una gallina poniendo unos huevos -ríen todos- y las casitas son dos, pues, la una aquí en la cocina, y la otra ahí. Entonces cuando nosotros estábamos sentaos en el corredorcito cuando salió espantada la gallina. Y entonces a la hora que salió espantada la gallina le pusimos cuidao al... en el modo de que pitaba cuando ya salía de poner la gallinita...[...] Entón le cogimos fue el, el, el pito de la de la gallina. (Relato de don Laurentino Quiñones, citado por Miñana, C (Miñana, Relaciones intergeneracionales y aprendizaje musical en el sur de los Andes colombianos, 2009)
      </em>
 
@@ -46,40 +46,50 @@ export default function LaCreacion() {
          <u>En la trova:</u>
      </p>
 
-
+     <div class="contenedortabla">
+         <div class="row">
+            <div class="col-sm-12 col pt-2 pb-2" >
+               <p className="parrafo">
+                 <u>En la trova:</u>
+               </p>
+               
      <ul>
        <li>
-       Rimar con terminación en ar, on, eo, ando.
+         Rimar con terminación en ar, on, eo, ando.
        </li>
        <li>
-       En el tema describir los que está en una imagen.
+          En el tema describir los que está en una imagen.
        </li>
        <li>
-       Describir las características físicas o de vestido de un personaje dado.
+          Describir las características físicas o de vestido de un personaje dado.
        </li>
        <li>
-       Utilizar pie forzado (un verso fijo) en el cuarto verso de la cuarteta.
+          Utilizar pie forzado (un verso fijo) en el cuarto verso de la cuarteta.
        </li>
        <li>
-      	Dar una terminación obligada usando palabras que no pueden volver a usarse hasta quien, al repetir una palabra ya dicha, así esté bien rimada, queda eliminado.
+      	  Dar una terminación obligada usando palabras que no pueden volver a usarse hasta quien, al repetir una palabra ya dicha, así esté bien rimada, queda eliminado.
        </li>
        <li>
-       Trovar utilizando las diferentes modalidades de trova: paisa, campesina, dobleteada, cinco y seis, con esdrújulas, entre otros.
+          Trovar utilizando las diferentes modalidades de trova: paisa, campesina, dobleteada, cinco y seis, con esdrújulas, entre otros.
        </li>
      </ul>
      
      <p className="parrafo">
-      <u> Lo mismo puede suceder en el contrapunteo llanero:</u>
+       <u> Lo mismo puede suceder en el contrapunteo llanero:</u>
      </p>
 
      <ul>
        <li>
-       Hacerlo en un determinado golpe que pide el jurado: en guacharaca, en periquera, en zumba que zumba o incluso en golpes menos utilizados para este fin y quizá más complejos: Mamonales, San Rafael, Kirpa, Merecure, entre otros.
+          Hacerlo en un determinado golpe que pide el jurado: en guacharaca, en periquera, en zumba que zumba o incluso en golpes menos utilizados para este fin y quizá más complejos: Mamonales, San Rafael, Kirpa, Merecure, entre otros.
        </li>
        <li>
-       	Exigencia del verso coleao, es decir que un coplero debe iniciar su verso con el último verso dicho por su contrincante.
+         	Exigencia del verso coleao, es decir que un coplero debe iniciar su verso con el último verso dicho por su contrincante.
        </li>
        </ul>
+
+            </div>
+          </div>
+    </div>   
 
        <p className="parrafo">
        Todas estas habilidades suponen un desarrollo considerable del pensamiento relacional o analógico.

@@ -9,7 +9,7 @@ export default function Memoria() {
       La memoria es más que un recipiente de recuerdos. Para los diferentes grupos humanos la memoria colectiva es el sustento de las identidades y la historia de los pueblos. La memoria colectiva (siempre dinámica y cambiante), permite a las sociedades explicar su lugar en el mundo, sus transformaciones y sus propósitos futuros como colectivo. 
       </p>
       
-      <em>
+      <em className="confondo">
       Además de estar enraizada en lo afectivo y de ser colectiva, la memoria es acumulativa y es dinámica, por tanto siempre será incompleta, inacabada; como lo son la cultura y el conocimiento. No existe tradición sin memoria. Es tal la importancia de la memoria colectiva, que todas las sociedades, en distintas épocas y según su evolución, han empleado diferentes medios o vías para fijarla y transmitir su experiencia. Actualmente podemos diferenciar cuatro mecanismos de transmisión de la memoria: la oralidad asociada a la imitación, la escritura, la grabación audio-visual y la informática. (Londoño, 2009, pág. 53)
       </em>
 
@@ -45,7 +45,7 @@ export default function Memoria() {
      En este lineamiento, la memoria estará relacionada con dos aspectos adicionales. Por una parte, en asociación con la corporalidad, debe señalarse que la memoria no solo tiene como asidero “el cerebro”: la memoria es también corporal (memoria cenestésica<sup><a data-toggle="modal" data-target="#notapie3">3</a></sup> ) esto es, el cuerpo tiene la capacidad de memorizar movimientos, ritmos, sensaciones que hacen parte fundamental del proceso de formación y creación musical. 
     </p>
 
-    <em>
+    <em className="confondo">
     Cuando un estímulo sensible, una caricia, una palabra, una imagen visual o un sonido se produce en una situación o contexto emocional-afectivo determinado, se genera en nosotros una reacción psíquica cargada de sensaciones. Mediante la repetición o ausencia de tales estímulos vamos construyendo asociaciones y representaciones; y es allí́ donde emergen los recuerdos, la memoria. Así́, la cadena de sucesos que se repiten una y otra vez va configurando conductas sociales llenas de sentido, de significado; vamos haciendo costumbres, construyendo símbolos, lenguajes, rituales, celebraciones, manifestaciones artísticas... hechos de cultura. (Londoño, 2009, pág. 52)
     </em>
 
@@ -53,11 +53,15 @@ export default function Memoria() {
     Por otra parte, en medio de la guerra por la que ha atravesado el país, la memoria ha sido una herramienta de resistencia de las comunidades, lo que les ha permitido mantener sus identidades y culturas, convirtiéndose así en memoria patrimonial. A su vez, la música ha sido un reservorio de sus memorias: se ha hecho canción el relato sobre el conflicto, sus impactos, sobre los territorios que se han dejado atrás en el desplazamiento. Al ser un reservorio de estas memorias (culturales y del conflicto), las músicas adquieren un profundo sentido para sus practicantes. Por esta razón, en el presente lineamiento, la comprensión de aquello que “dicen” las músicas, es una entrada fundamental para la formación musical. No se trata solo de “hacer música”, sino de entender por qué la practican las comunidades, qué sentido le confieren, no solo en lo artístico, sino también su lugar en la historia y en la vida de los pueblos y comunidades del país. 
     </p>
 
+    <img className="imagenescontenido" 
+              src="https://firebasestorage.googleapis.com/v0/b/mincultura-a4665.appspot.com/o/3min.png?alt=media&token=41c44466-5ae5-429b-95d9-55c7b1e056db">
+           </img>
+
     <p className="parrafo">
     Lo anterior busca además visibilizar el riesgo en el que se encuentran las memorias musicales de aquellos “viejos” que, a punto de morir, se llevan consigo un acumulado de saberes que no han sido recopilados y, por tanto, podrían perderse.  Este lineamiento invita a acudir a estos sabedores, a conversar con ellos, a grabar sus canciones, cuentos y relatos, a generar una actitud de respeto hacia la memoria patrimonial encarnada en ellos para evitar así, la pérdida de sus conocimientos con miras a revitalizar los saberes asociados a las músicas de tradición oral.
     </p>
 
-    <em>
+    <em className="confondo">
     Pero, si se han ido perdiendo los espacios más íntimos de prácticas musicales locales como son la familia, las tertulias y reuniones musicales de amigos y vecinos, las fiestas patronales, los grupos artísticos empresariales y tantas otras prácticas otrora tradicionales; si la guerra y múltiples formas de violencia han diezmado y disgregado las comunidades, la pregunta a responder sería ¿cómo y porqué vías vamos a reencontrar nuestra propia historia humana y musical, es decir, nuestra memoria musical-cultural? ¿Cómo podrán hacerlo las nuevas generaciones? (Londoño, 2009, pág. 56)
     </em>
 

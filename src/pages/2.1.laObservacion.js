@@ -5,13 +5,17 @@ export default function LaObservacion() {
     <div className="page card ">
       <h2 className="subcapitulo">2.1. La observación:"pele el ojo"</h2>
      
-     <p className="parrafo">
-    En contextos tradicionales y comunitarios, la observación es una de las primeras formas de acercamiento al quehacer musical de los vecinos, amigos y familiares. Desde la <b>voluntad propia, el interés y el gusto,</b>  los niños observan las prácticas musicales cercanas, en <b>espacios festivos, cotidianos, familiares. </b>
+     <p className="destacados">
+        En contextos tradicionales y comunitarios, la observación es una de las primeras formas de acercamiento al quehacer musical de los vecinos, amigos y familiares. Desde la <b>voluntad propia, el interés y el gusto,</b>  los niños observan las prácticas musicales cercanas, en <b>espacios festivos, cotidianos, familiares. </b>
      </p>
 
      <p className="parrafo">
      Este primer acercamiento estimula la memoria auditiva, la construcción de instrumentos con objetos cercanos, el interés por la exploración sonora. En este sentido, la observación es entendida como un proceso fundamental en los inicios del aprendizaje musical. Este proceso se prolonga a lo largo del tiempo, complejizándose a la par con el desarrollo musical.
      </p>
+
+     <img className="imagenescontenido" 
+              src="https://firebasestorage.googleapis.com/v0/b/mincultura-a4665.appspot.com/o/4min.png?alt=media&token=47cc5b76-cbd7-408f-9431-f120a91c388b">
+           </img>
 
      <p className="parrafo">
      La observación se caracteriza por permitir enfocar la mirada, detallar en aspectos que causan interés o inquietud. Esta posibilidad permite captar detalles específicos de la técnica instrumental, la postura corporal, las formas de digitación, los ángulos de los brazos, la colocación de dedos, el ángulo de las falanges, el funcionamiento de un instrumento.

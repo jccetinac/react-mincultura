@@ -9,8 +9,8 @@ export default function Dimensiones() {
      <h1 className="subtitulo">1. DIMENSIONES</h1>
     </div>
      
-    <img className="imagenmin" src="https://firebasestorage.googleapis.com/v0/b/mincultura-a4665.appspot.com/o/WhatsApp%20Image%202021-08-05%20at%209.31.54%20AM%20(2).jpeg?alt=media&token=c2228b8c-b1e4-4fab-b476-d57c99d3f60e">
-    </img>
+    <p className="parrafo">
+Las dimensiones son aquellos aspectos que están presentes de manera constante en los procesos de aprendizaje, apropiación, enseñanza, práctica y creación de las músicas de tradición oral. Para el presente lineamiento, estas dimensiones serán consideradas como elementos que deben vincularse de manera transversal en los procesos pedagógicos inspirados en las músicas de tradición oral. </p>
     
 
     

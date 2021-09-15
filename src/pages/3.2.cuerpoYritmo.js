@@ -5,7 +5,7 @@ export default function CuerpoYritmo() {
     <div className="page card ">
       <h2 className="subcapitulo">3.2. Cuerpo,ritmo y movimiento</h2>
 
-      <p className="parrafo">
+      <p className="destacados">
        Cuando escuchamos música, tendemos a percibir afinidades entre el sonido y el movimiento de nuestro cuerpo. Según la teoría motora de la percepción, para percibir algo debemos simular activamente el movimiento asociado a las impresiones sensoriales que estamos tratando de procesar. Es decir, que cuando escuchamos música tendemos a simular mentalmente aquellos movimientos del cuerpo que se precisan para producir el sonido. Por tanto, nuestra experiencia de un sonido implica una imagen mental de un movimiento del cuerpo.  
        </p>
 
@@ -32,6 +32,10 @@ export default function CuerpoYritmo() {
        <em>
        El uso consciente de imágenes metafóricas contribuye a la construcción de conocimiento, en la medida en que posibilita que algo de naturaleza abstracta y desconocida pueda ser entendido desde un dominio de conocimiento más concreto y familiar. De allí que el uso del movimiento corporal, la pantomima y en general gestos y expresiones verbales alusivos a situaciones familiares contribuyan al entendimiento de aspectos concernientes con estructuraciones musicales (melódica, metrorrítmicas, armónicas, formales, dinámicas, texturales, articulatorias) y a técnicas de manejo corporal para la ejecución instrumental, incluyendo la voz cantada, y la danza (postura, respiración, manejo de mecanismos de la voz, biomecánica corporal) (Salazar Hakim, 2014, pág. 19)
        </em>
+
+       <img className="imagenescontenido" 
+              src="https://firebasestorage.googleapis.com/v0/b/mincultura-a4665.appspot.com/o/8min.png?alt=media&token=91b4c056-5f77-429f-b1cc-1757ba686f94">
+           </img>
 
        <p className="parrafo">
         Dado que las músicas de tradición oral se viven de manera asociada a unas danzas, los aprendices de estas músicas van incorporando los movimientos propios de las mismas de manera tal que aprendizaje musical y corporal se dan al mismo tiempo. De otro lado, los movimientos corporales de estas músicas, así como sus contenidos (letras, ritmos) están asociados al contexto, representando historias y animales, tal como sucede con el mapalé cuyo baile escenifica la representación del movimiento de un pez, o con la cumbia que tiene como propósito la conquista amorosa.

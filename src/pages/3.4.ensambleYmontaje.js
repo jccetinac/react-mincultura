@@ -5,7 +5,7 @@ export default function EnsambleYMontaje() {
     <div className="page card ">
       <h2 className="subcapitulo">3.4. Ensamble y montanje</h2>
 
-      <p className="parrafo">
+      <p className="destacados">
       En la música tradicional la participación y la creatividad están en estrecha relación con la práctica musical porque esta constituye una de las principales formas de participación en contextos artísticos, sociales y rituales. La música permite el poder ser a través de la sonoridad. Por tanto, la participación no debe pensarse solamente como el hacer música, componerla o tocarla, también se participa escuchándola, bailándola, participando de los rituales, de los parrandos, dejándose afectar por ella y expresándola de diversas maneras. Entonces, es necesario reiterar aquí que, mientras lo académico está asociado de manera fuerte con la escritura, lo oral está relacionado más con la participación y con los saberes asociados a las identidades que se expresan musicalmente. La participación es por tanto una de las características más importantes de la oralidad. No determina, no delimita o constriñe como lo hace el lenguaje escrito, por el contrario, libera y transforma, generando procesos creativos desde la práctica, la participación y la relación constante con el contexto y sus pares.  
       </p>
 
@@ -16,6 +16,11 @@ export default function EnsambleYMontaje() {
       <p className="parrafo">
       Dentro de los aspectos sociales se encuentran algunas razones por las cuales la dimensión educativa, en lo relativo a las músicas populares y tradicionales, encuentran poco eco dentro de la oferta y demanda actual del contexto social colombiano, incluso desde los aspectos investigativos. La mayor parte de esta producción didáctica y pedagógica tiene un carácter utilitario, en el sentido de que están orientadas a nutrir de material sonoro y de técnicas instrumentales a cada experiencia en una forma inmediata. Esto ha llevado a un cierto pragmatismo: se oye, se transcribe, se analiza, se produce un material didáctico para la próxima clase o semana, o el arreglo para ser montado en el grupo musical. Este inmediatismo deja para un “más adelante” que casi nunca llega, el estudio a fondo y a largo plazo de las músicas populares en forma un poco más integral y articulada (Miñana, Escuelas y Experiencias Pedagógicas de Música Popular, 1991). Esta necesidad de generar productos inmediatos, que padece el medio de producción, hace que los procesos participativos a la manera como se dan en las músicas tradicionales no se desarrollen de la manera como se han dado en los contextos de las comunidades de sabedores o en los lugares de origen de cada práctica. 
       </p>
+
+      
+    <img className="imagenescontenido" 
+              src="https://firebasestorage.googleapis.com/v0/b/mincultura-a4665.appspot.com/o/9min.png?alt=media&token=46f280e2-be15-4436-9e92-f71f8b2b33b5">
+           </img>
 
       <p className="parrafo">
       Para las músicas de tradición oral, la experiencia musical y de aprendizaje está asociada a la vida social. La vida comunitaria y cultural nutre a estas músicas aportando recursos desde los textos y poéticas, imágenes, circunstancias y fiestas. La inclusión de estos relatos en las músicas, hacen de éstas un repositorio de la memoria colectiva de un pueblo.  

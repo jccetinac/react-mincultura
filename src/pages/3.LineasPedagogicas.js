@@ -15,7 +15,7 @@ export default function LineasPedagogicas() {
       Inicialmente, presentaremos algunos momentos que se proponen como relevantes para la planeación de las estrategias pedagógicas y la apropiación musical.
       </p>
 
-      <ol>
+      <ol className="destacados">
         <li>
         Definir unas músicas concretas que desean trabajarse, indagar sobre su historia, contexto, poblaciones.
         </li>
@@ -29,6 +29,7 @@ export default function LineasPedagogicas() {
       	Acercar a los estudiantes a la música desde sus contextos por medio de materiales recopilados, a partir de las líneas propuestas a continuación.
         </li>
       </ol>
+
       
     </div>
   );

@@ -11,8 +11,8 @@ export default function LaImitacion() {
     </p>
 
     <p className="destacados">
-       Un amigo de mi papá hacía coplas, era fumigador y construyó un tambor con una caneca. Con la agrupación, salían a tocar en las fiestas del arroz para que les dieran plata. Yo también quería mi platica entonces me lancé a tocar carrasca. Yo tocaba y me daban moneditas. Uno va mirando, uno ve a la gente haciendo cosas y uno trata de imitar. 
-      (Hijuelapo)
+       <b>Un amigo de mi papá hacía coplas, era fumigador y construyó un tambor con una caneca. Con la agrupación, salían a tocar en las fiestas del arroz para que les dieran plata. Yo también quería mi platica entonces me lancé a tocar carrasca. Yo tocaba y me daban moneditas. Uno va mirando, uno ve a la gente haciendo cosas y uno trata de imitar. 
+      (Hijuelapo)</b>
      </p>
 
       <p className="parrafo">
@@ -38,6 +38,11 @@ export default function LaImitacion() {
       <p className="parrafo">
       Además de la observación, la imitación implica la escucha atenta y, de manera fundamental, de la acción práctica, pues en sí misma, la imitación no garantiza un resultado sonoro. Es necesario identificar los aspectos que deben cualificarse, para lo cual, se requiere un ejercicio de observación y escucha de su propia sonoridad y corporalidad. En este mismo sentido, se requiere el acompañamiento de un docente que identifique los aspectos a mejorar en la imitación, con el fin de ajustarlos, de precisarlos, de afianzarlos. 
       </p>
+
+      <img className="imagenescontenido" 
+              src="https://firebasestorage.googleapis.com/v0/b/mincultura-a4665.appspot.com/o/6min.png?alt=media&token=7c30553a-a77b-4bd8-858f-41e1d1ceebd2">
+           </img>
+
 
       <p className="parrafo">
       La imitación es mucho más que un momento inicial del proceso de aprendizaje. Ésta se prolonga a lo largo del tiempo ocurriendo que, a medida que los aprendices avanzan en su proceso, la imitación puede llegar a ser más compleja: de la mano de la escucha, entonces, se reconocen detalles más sutiles de una obra o pieza musical, se evidencian los gestos interpretativos que implican acentuaciones, y en general variaciones, acciones y operaciones que, en conjunto pueden ejecutarse con mayor facilidad. 

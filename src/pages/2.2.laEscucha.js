@@ -6,7 +6,7 @@ export default function LaEscucha() {
       <h2 className="subcapitulo">2.2. La escucha:"pare oreja"</h2>
      
 
-    <p className="parrafo">
+    <p className="destacados">
     El oído o actitud de escucha se forma desde las primeras etapas de la vida aun estando en el vientre materno. Posteriormente, en los contextos de músicas de tradición oral, se cuenta con unos espacios de sonoridad viva en los rituales, prácticas culturales y espacios cotidianos. La práctica de estas músicas se realiza generalmente en espacios abiertos que permiten su libre audición. 
     </p>
 
@@ -60,6 +60,11 @@ export default function LaEscucha() {
      <p className="parrafo">
      Un espacio social más amplio donde la escucha también se pone en juego aunada a lo corporal, lo vocal, lo instrumental y lo perceptivo, lo constituyen las festividades tradicionales, las correrías<sup><a data-toggle="modal" data-target="#notapie6">6</a></sup>, las alumbranzas <sup><a data-toggle="modal" data-target="#notapie7">7</a></sup>, las fiestas patronales y en general los diversos eventos donde y cuando las comunidades celebran con sus músicas sus tradiciones culturales. Se trata de una audición mucho más abierta y amplia que cuando se escucha a un adulto practicar sus instrumentos o al grupo de la vereda tocar sus repertorios. En estos eventos confluyen agrupaciones musicales, músicas amplificadas por equipos de sonido, ruidos callejeros, pitos, gritos; es decir, todo un jolgorio sonoro. Inmerso en ese entorno, invadido por profusión de sonoridades, desde su lugar de enunciación personal o musical, el oído continúa su experiencia formativa y su crecimiento. Valga la pena recordar que la participación en dichos encuentros integra en cada persona los roles de bailarín, músico y cantor que promueven y exigen las normas culturales.         
      </p>
+
+     <img className="imagenescontenido" 
+              src="https://firebasestorage.googleapis.com/v0/b/mincultura-a4665.appspot.com/o/5min.png?alt=media&token=3940eb21-841f-4bdf-b08e-4c5569ea0371">
+           </img>
+
 
      <p className="parrafo">
      En estas músicas el aprendiz cuenta con el formato musical completo de manera constante para realizar sus prácticas. En cada uno de estos ámbitos<sup><a data-toggle="modal" data-target="#notapie8">8</a></sup> la escucha juega un papel fundamental y se va desarrollando progresivamente. Es decir, es distinto escuchar los diferentes ámbitos y formas de estructuración de una música si se está marcando el ritmo en una guacharaca o si se está marcando el ritmo y la armonía en un tiple o llevando la melodía en un requinto, viajando sobre ritmo y armonía.

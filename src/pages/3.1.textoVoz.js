@@ -35,7 +35,8 @@ export default function TextoVoz() {
           
           <div class="row">
             <div class="col-sm-12 bg-danger  p-3 letratablatitulo" >
-            En la canción el Chirimóyilo y la Guayábula, de Jorge Velosa se presenta una forma de juego y creación a través de la palabra:            </div>
+            En la canción el Chirimóyilo y la Guayábula, de Jorge Velosa se presenta una forma de juego y creación a través de la palabra:           
+            </div>
           </div>
 
           <div class="row">
@@ -251,6 +252,11 @@ export default function TextoVoz() {
         <p className="parrafo">
         A continuación, se presentan algunas formas literarias tradicionales que se relacionan con formas de versificación musical. Se invita a comprender la estructura de estas formas para poder trabajarlas con los estudiantes de manera que puedan, en primer lugar, comprenderlas para luego usarlas creativamente.
         </p>
+
+        <img className="imagenescontenido" 
+              src="https://firebasestorage.googleapis.com/v0/b/mincultura-a4665.appspot.com/o/7min.png?alt=media&token=0ddd31af-a53d-477e-9bfc-f3e482375b80">
+           </img>
+
 
         <h6>Cuadro 2. Algunas formas literarias tradicionales con ejemplos.</h6>
 

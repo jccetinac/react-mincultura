@@ -9,6 +9,16 @@ export default function Oralidad() {
       Tal como lo señala su nombre, la oralidad es una de las vías privilegiadas para su conocimiento, apropiación, transmisión y creación de las músicas que aquí se abordan. La oralidad sin embargo, no solo está presente en la vida musical, sino que es parte fundamental de la vida cultural de las comunidades. Puede imaginarse la transmisión de los elementos verbales y, por extensión, de los elementos musicales como una larga cadena de conversaciones e intercambios colectivos. Así, el conjunto de conocimientos, técnicas, creencias y valores, se ha almacenado en la memoria humana y en algunas manifestaciones como canciones, recursos de la tradición oral (poemas, coplas, romances y relatos, entre tantos otros) así como en la simbología presente en las artes y manifestaciones plásticas de los pueblos. 
       </p>
 
+           <img className="imagenescontenido" 
+              src="https://firebasestorage.googleapis.com/v0/b/mincultura-a4665.appspot.com/o/1min.png?alt=media&token=31d117c8-2b03-4ac3-a3b3-fbe165ef58ca">
+           </img>
+
+
+
+           <img className="imagenescontenido" 
+              src="https://firebasestorage.googleapis.com/v0/b/mincultura-a4665.appspot.com/o/2min.png?alt=media&token=c9fff756-6ffc-4f58-b515-6d49cddc8847">
+           </img>
+
       <p className="parrafo">
       La oralidad es entonces la vía por la cual, desde el aprendizaje de la lengua materna, del habla cotidiana y de los recursos de la oralitura<sup><a data-toggle="modal" data-target="#notapie2">2</a></sup>, se transmiten memorias y saberes, pero también, se crean y recrean las culturas.  Debe señalarse que la oralidad no es equiparable a la escritura, aunque ambas estén presentes de manera paralela en las diferentes culturas. La oralidad tiene características particulares que definen la forma de pensamiento, comunicación y acción de las personas. Tal como ha sido señalado por algunos investigadores, las culturas orales tienen particularidades que inciden en la forma en que las personas aprenden y se relacionan. Así por ejemplo, se ha señalado que en estas culturas, se aprende:
       </p>
@@ -35,6 +45,10 @@ export default function Oralidad() {
       <p className="parrafo">
       Algunas de las particularidades de la oralidad señaladas por Sans (2001, p. 112), pueden ser útiles para pensar características de las músicas de tradición oral. En particular, haciendo referencia al repentismo, hablaremos de la acumulación y de la repetición. Así, diremos que las músicas de tradición oral son:
       </p>
+
+      <img className="imagenescontenido" 
+              src="https://firebasestorage.googleapis.com/v0/b/mincultura-a4665.appspot.com/o/WhatsApp%20Image%202021-09-14%20at%209.36.27%20PM.jpeg?alt=media&token=78bb96c0-5d55-4992-b0dc-7df83c6a59a8">
+           </img>
 
       <ul>
         <li>
