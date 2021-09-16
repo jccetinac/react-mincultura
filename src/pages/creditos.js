@@ -65,6 +65,12 @@ export default function Creditos() {
        Paola López
      </p>
      <p className="parrafoC1">
+          <span className="rojoC">EDITORIAL D’ARTAGNAN S.A.S</span>
+      </p>
+      <p className="parrafoC2">
+        Diseño, diagramación e ilustración
+     </p>
+     <p className="parrafoC1">
           <span className="rojoC">Dirección de Artes</span>
       </p>
       <p className="parrafoC1">
@@ -88,24 +94,6 @@ export default function Creditos() {
      <p className="parrafoC2">
         ... otros
      </p>
-     <p className="parrafoC1">
-          <span className="rojoC">EDITORIAL D’ARTAGNAN</span>
-      </p>
-      <p className="parrafoC2">
-        Diseño, diagramación e ilustración
-     </p>
-   
-
-
-
-
-
-
-
-
-
-
-
 
       <p className="parrafoC3">
           Material multimedia de distribución gratuita con fines didácticos y culturales. Queda estrictamente prohibida su reproducción total o parcial con ánimo de lucro, por cualquier sistema o método electrónico o impreso sin la autorización expresa para ello.
