@@ -40,7 +40,7 @@ export default function LaImitacion() {
       </p>
 
       <img className="imagenescontenido" 
-              src="https://firebasestorage.googleapis.com/v0/b/mincultura-a4665.appspot.com/o/6min.png?alt=media&token=7c30553a-a77b-4bd8-858f-41e1d1ceebd2">
+              src="https://firebasestorage.googleapis.com/v0/b/mincultura-a4665.appspot.com/o/7.%20Imitaci%C3%B3n.JPG?alt=media&token=a3baf014-d1cf-47a7-bb83-e7a836d63b00">
            </img>
 
 

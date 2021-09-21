@@ -31,10 +31,8 @@ export default function TextoVoz() {
       Así mismo, se busca acercar a los estudiantes a lo musical, no a través de la escritura o el solfeo, sino desde la sonoridad y la rítmica presente en las coplas, en los juegos de palabras, en las retahílas y en las diversas manifestaciones de la tradición oral de las regiones en las que se encuentran las músicas a trabajar, o incluso, en la misma región donde se encuentra la escuela municipal de música, o aquella que está en la memoria de los estudiantes. 
       </p>
 
-      <img className="imagenmini" 
-              src="https://firebasestorage.googleapis.com/v0/b/mincultura-a4665.appspot.com/o/1mini.png?alt=media&token=cb0c0ef4-cf5b-4a7d-98c1-066923acafbc">
-           </img>
-
+       <div class="imagenminicss imagenmini1"></div>
+          
       <div class="contenedortabla">
           
           <div class="row">
@@ -258,7 +256,7 @@ export default function TextoVoz() {
         </p>
 
         <img className="imagenescontenido" 
-              src="https://firebasestorage.googleapis.com/v0/b/mincultura-a4665.appspot.com/o/7min.png?alt=media&token=0ddd31af-a53d-477e-9bfc-f3e482375b80">
+              src="https://firebasestorage.googleapis.com/v0/b/mincultura-a4665.appspot.com/o/10.%20Texto%2C%20voz%20y%20canto.jpg?alt=media&token=b58fd597-1818-429d-b991-700985ba5634">
            </img>
 
 
@@ -266,14 +264,14 @@ export default function TextoVoz() {
 
     <div class="contenedortabla">
           
-          <div class="row">
+          <div class="row bg-danger">
             <div class="col-sm-2 col  pt-2" >
               <p className="letratablatitulo">
                 <b>FORMA LITERARIA</b>
               </p>
             </div>
 
-            <div class="col-sm-2 col  pt-2" >
+            <div class=" col-sm-2 col  pt-2">
               <p className="letratablatitulo">
                 <b>UNIDAD ESTRÓFICA</b>
               </p>
@@ -299,7 +297,7 @@ export default function TextoVoz() {
           </div>
 
 
-          <div class="row ">
+          <div className="row par">
             <div class="col-sm-2 col  pt-2" >
             <p className="letratabla5">
               Copla
@@ -333,7 +331,7 @@ export default function TextoVoz() {
           </div>
 
           
-        <div class="row">
+        <div class="row impar">
           <div class="col-sm-2 col  pt-2" >
             <p className="letratabla5">
               Redondilla
@@ -373,7 +371,7 @@ export default function TextoVoz() {
         </div>  
 
 
-        <div class="row">
+        <div class="row par">
           <div class="col-sm-2 col  pt-2" >
             <p className="letratabla5">
               Seguidilla
@@ -412,7 +410,7 @@ export default function TextoVoz() {
           </div>
         </div> 
 
-        <div class="row">
+        <div class="row impar">
           <div class="col-sm-2 col  pt-2" >
             <p className="letratabla5">
               Décima espinela
@@ -458,7 +456,7 @@ export default function TextoVoz() {
         </div> 
 
         
-        <div class="row">
+        <div class="row par">
           <div class="col-sm-2 col  pt-2" >
             <p className="letratabla5">   
             </p>
@@ -502,7 +500,7 @@ export default function TextoVoz() {
 
      <div class="contenedortabla">
           
-          <div class="row">
+          <div class="row bg-danger">
             <div class="col-sm-2 col  pt-2" >
               <p className="letratablatitulo">
                 <b>FORMA LITERARIA</b>
@@ -630,7 +628,7 @@ export default function TextoVoz() {
   
   <div class="contenedortabla">
           
-          <div class="row">
+          <div class="row bg-danger">
             <div class="col-sm-2 col  pt-2" >
               <p className="letratablatitulo">
                 <b>FORMA LITERARIA</b>
@@ -663,7 +661,7 @@ export default function TextoVoz() {
           </div>
 
 
-          <div class="row">
+          <div class="row par">
           <div class="col-sm-2 col  pt-2" >
             <p className="letratabla5">  
             Trova dobletiada 
@@ -709,7 +707,7 @@ export default function TextoVoz() {
         </div>  
 
 
-        <div class="row">
+        <div class="row impar">
           <div class="col-sm-2 col  pt-2" >
             <p className="letratabla5">  
               Trova campesina
@@ -763,7 +761,7 @@ export default function TextoVoz() {
 
         
 
-        <div class="row">
+        <div class="row par">
           <div class="col-sm-2 col  pt-2" >
             <p className="letratabla5">             
             </p>
@@ -798,7 +796,7 @@ export default function TextoVoz() {
            </div>
         </div> 
 
-        <div class="row">
+        <div class="row impar">
           <div class="col-sm-2 col  pt-2" >
             <p className="letratabla5"> 
              Letanías            

@@ -84,7 +84,7 @@ export default function Anexos2() {
          </div>
         </div> 
 
-
+        <hr></hr>
 
 
         <div class="contenedortabla2">
@@ -136,7 +136,7 @@ export default function Anexos2() {
 
 
 
-
+        <hr></hr>
         
         <div class="contenedortabla2">
          <div class="row">
@@ -193,7 +193,7 @@ export default function Anexos2() {
         </div>      
 
     
-
+        <hr></hr>
         
         <div class="contenedortabla2">
          <div class="row">
@@ -232,7 +232,8 @@ export default function Anexos2() {
             </div>
           </div>
         </div> 
-
+         
+         <hr></hr>
                    
         <div class="contenedortabla2">
          <div class="row">

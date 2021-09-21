@@ -34,7 +34,7 @@ export default function CuerpoYritmo() {
        </em>
 
        <img className="imagenescontenido" 
-              src="https://firebasestorage.googleapis.com/v0/b/mincultura-a4665.appspot.com/o/8min.png?alt=media&token=91b4c056-5f77-429f-b1cc-1757ba686f94">
+              src="https://firebasestorage.googleapis.com/v0/b/mincultura-a4665.appspot.com/o/11.%20Cuerpo%2C%20ritmo%20y%20movimiento.png?alt=media&token=c6552cc7-1468-4267-94a1-3a2c8e6cd1c8">
            </img>
 
        <p className="parrafo">
@@ -66,9 +66,7 @@ export default function CuerpoYritmo() {
           </li>
       </ol>
 
-      <img className="imagenmini" 
-              src="https://firebasestorage.googleapis.com/v0/b/mincultura-a4665.appspot.com/o/2mini.png?alt=media&token=e7a0289c-200e-4d1a-be0d-3395bf9c0e97">
-           </img>
+      <div class=" imagenminicss imagenmini2"></div>
 
       <p className="parrafo">
       En conjunto, no se trata de crear agrupaciones musicales que acompañen a los grupos de danza. Se trata, por el contrario, de que las escuelas municipales de música permitan a sus estudiantes vivir una experiencia completa en la que música, danza y cuerpo sean comprendidas como parte de un mismo sistema. Se busca con ello que, por una parte, la expresión musical sea enriquecida por una experiencia corporal y emocional, y se nutra del diálogo con la expresión corporal en la que danza y música se potencian mutuamente. Así entendidos, danza y música se conjugan para reavivar las expresiones artísticas y culturales del país, y no solo para ofrecer espectáculos. 

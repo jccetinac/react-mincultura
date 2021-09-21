@@ -9,10 +9,9 @@ export default function QuienesPuedenInvestigar() {
       <p className="parrafo">
       Como se ha mencionado anteriormente, todos los seres humanos tenemos una enorme capacidad investigativa. No necesitamos ser profesionales para investigar. En el anterior apartado se señalan algunos caminos para que los docentes y los estudiantes de las escuelas de música, emprendan indagaciones que se conecten con sus intereses e inquietudes, y puedan desarrollarse en sus propios contextos.
       </p>
+      
+      <div class="imagenminicss imagenmini4"></div>
 
-      <img className="imagenmini" 
-              src="https://firebasestorage.googleapis.com/v0/b/mincultura-a4665.appspot.com/o/4mini.png?alt=media&token=c36c0272-6690-4480-8856-f204a66f26fe">
-           </img>
 
       <p className="parrafo">
       Sin embargo, puede decirse que las escuelas municipales de música pueden contar con el apoyo de universidades, investigadores, practicantes y organizaciones que, de manera conjunta, acompañen, fortalezcan y sistematicen los procesos de investigación de las escuelas. En este sentido será de gran valor propiciar alianzas con universidades que a través de sus practicantes o de trabajos de grado de los estudiantes acompañen los procesos de investigación emprendidos, de acuerdo con las necesidades de las escuelas de música.

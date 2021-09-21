@@ -14,7 +14,7 @@ export default function LaObservacion() {
      </p>
 
      <img className="imagenescontenido" 
-              src="https://firebasestorage.googleapis.com/v0/b/mincultura-a4665.appspot.com/o/4min.png?alt=media&token=47cc5b76-cbd7-408f-9431-f120a91c388b">
+              src="https://firebasestorage.googleapis.com/v0/b/mincultura-a4665.appspot.com/o/5.%20Observaci%C3%B3n.jpeg?alt=media&token=47f74384-cf87-4ae0-946c-7024bd2c03b6">
            </img>
 
      <p className="parrafo">

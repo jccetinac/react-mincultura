@@ -10,13 +10,13 @@ export default function Oralidad() {
       </p>
 
            <img className="imagenescontenido" 
-              src="https://firebasestorage.googleapis.com/v0/b/mincultura-a4665.appspot.com/o/1min.png?alt=media&token=31d117c8-2b03-4ac3-a3b3-fbe165ef58ca">
+              src="https://firebasestorage.googleapis.com/v0/b/mincultura-a4665.appspot.com/o/1.%20Oralidad%201.jpg?alt=media&token=50cb93f2-c6ca-4cfc-830e-254518ce6295">
            </img>
 
 
 
            <img className="imagenescontenido" 
-              src="https://firebasestorage.googleapis.com/v0/b/mincultura-a4665.appspot.com/o/2min.png?alt=media&token=c9fff756-6ffc-4f58-b515-6d49cddc8847">
+              src="https://firebasestorage.googleapis.com/v0/b/mincultura-a4665.appspot.com/o/2.%20Oralidad%202.jpg?alt=media&token=5c358f4a-f24e-4ef8-94f0-ff79c5133a9d">
            </img>
 
       <p className="parrafo">

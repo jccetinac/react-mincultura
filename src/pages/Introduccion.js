@@ -42,68 +42,68 @@ export default function Introduccion() {
           <th>Territorios</th> 
           </tr>
 
-          <tr>
+          <tr className="par">
             <td>Músicas isleñas </td>
             <td>Calypso, schottis, soka y otros</td>
             <td>San Andrés y Providencia.</td>
           </tr>  
 
-          <tr>
+          <tr className="impar">
             <td>Músicas de acordeón y cuerdas </td>
             <td>Formatos de acordeón y guitarras con músicas de son, merengue, puya y paseo </td>
             <td>Guajira, Cesar y Magdalena.</td>
           </tr>  
 
-          <tr>
+          <tr className="par">
             <td>Músicas de pitos y tambores  </td>
             <td>Gaitas largas y corta, millo, baile cantao, tambora y bandas tipo pelayera que interpretan puya, bullerengue, porro, fandango y otros. </td>
             <td>Atlántico, Bolívar, Sucre y Córdoba.</td>
           </tr>  
 
-          <tr>
+          <tr className="impar">
             <td>Chirimías y cantos tradicionales  </td>
             <td>Porro chocoano, abozao, alabaos y otros cantos tradicionales.  </td>
             <td>Chocó.</td>
           </tr>
 
-          <tr>
+          <tr className="par">
             <td>Músicas de marimba y cantos tradicionales  </td>
             <td>Currulao, bunde, berejú, arrullos y otros.  </td>
             <td>Litoral Pacífico del Valle, Cauca y Nariño.</td>
           </tr>
 
-          <tr>
+          <tr className="impar">
             <td>Músicas andinas sur-occidente </td>
             <td>Formatos campesinos, bandas de flautas, andino sureño con músicas como sanjuanito, pasillo, tinku, y otros.  </td>
             <td>Cauca, Nariño y occidente del Putumayo.</td>
           </tr>
 
 
-          <tr>
+          <tr className="par">
             <td>Músicas andinas centro-sur </td>
             <td>Formato cucamba, tríos y duetos vocales que interpretan rajaleña, caña, san juanero, bambuco y otros. </td>
             <td>Huila y Tolima.</td>
           </tr>
 
-          <tr>
+          <tr className="impar">
             <td>Músicas andinas centro-oriente  </td>
             <td>Formato de torbellino, estudiantinas, tríos y prácticas vocales con músicas como rumba, carranga, bambuco, guabina y otros.  </td>
             <td>Norte de Santander, Santander, Boyacá́ y Cundinamarca.</td>
           </tr>
 
-          <tr>
+          <tr className="par">
             <td>Músicas andinas centro-occidente </td>
             <td>Formatos campesinos, estudiantinas y prácticas vocales que interpretan pasillo, bambuco, shotis y otros. </td>
             <td>Valle, Antioquia, Quindío, Risaralda y Caldas.</td>
           </tr>
 
-          <tr>
+          <tr className="impar">
             <td>Músicas llaneras </td>
             <td>Formato de arpa y bandola llanera con cuatro y capacho que interpretan joropo.</td>
             <td>Vichada, Arauca, Guaviare, Meta, Casanare y oriente de Cundinamarca y Boyacá.</td>
           </tr>
 
-          <tr>
+          <tr className="par">
             <td>Músicas de la Amazonía  </td>
             <td>Formatos diversos con músicas de frontera que interpretan músicas de Colombia y otros países.</td>
             <td>Caquetá, Amazonas, Putumayo, Guaviare, Vaupés y Guainía.5 </td>
