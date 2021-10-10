@@ -19,7 +19,7 @@ export default function EnsambleYMontaje() {
 
       
     <img className="imagenescontenido" 
-              src="https://firebasestorage.googleapis.com/v0/b/mincultura-a4665.appspot.com/o/12.%20Ensamble%20y%20montaje.png?alt=media&token=48b9603a-40d1-4164-bd27-4534c1c30d6f">
+              src="https://firebasestorage.googleapis.com/v0/b/mincultura-lineamientos.appspot.com/o/Painnt_211010090316.jpg?alt=media&token=b1533751-c69d-4bcd-8071-1e4a652ed42e">
            </img>
 
       <p className="parrafo">

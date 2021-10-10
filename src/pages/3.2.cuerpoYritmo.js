@@ -34,7 +34,7 @@ export default function CuerpoYritmo() {
        </em>
 
        <img className="imagenescontenido" 
-              src="https://firebasestorage.googleapis.com/v0/b/mincultura-a4665.appspot.com/o/11.%20Cuerpo%2C%20ritmo%20y%20movimiento.png?alt=media&token=c6552cc7-1468-4267-94a1-3a2c8e6cd1c8">
+              src="https://firebasestorage.googleapis.com/v0/b/mincultura-lineamientos.appspot.com/o/Painnt_211010090716.jpg?alt=media&token=6b7162f5-2732-43a9-98ce-0bfe1c9ef654">
            </img>
 
        <p className="parrafo">

@@ -54,7 +54,7 @@ export default function Memoria() {
     </p>
 
     <img className="imagenescontenido" 
-              src="https://firebasestorage.googleapis.com/v0/b/mincultura-a4665.appspot.com/o/3.%20Memoria.jpg?alt=media&token=6283250a-498f-4c10-96cb-6f5ade51d9ef">
+              src="https://firebasestorage.googleapis.com/v0/b/mincultura-lineamientos.appspot.com/o/Painnt_211010094149.jpg?alt=media&token=8eeb6c5c-fb5c-4936-908f-f244d69d02f3">
            </img>
 
     <p className="parrafo">

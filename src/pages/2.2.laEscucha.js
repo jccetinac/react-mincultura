@@ -62,7 +62,7 @@ export default function LaEscucha() {
      </p>
 
      <img className="imagenescontenido" 
-              src="https://firebasestorage.googleapis.com/v0/b/mincultura-a4665.appspot.com/o/6.%20Escucha.jpg?alt=media&token=5fd4d1c5-5dc6-4620-bc27-2f379a755034">
+              src="https://firebasestorage.googleapis.com/v0/b/mincultura-lineamientos.appspot.com/o/Painnt_211010091852.jpg?alt=media&token=5ed4354f-b457-4187-a9f6-bcd39ccd20b6">
            </img>
 
 

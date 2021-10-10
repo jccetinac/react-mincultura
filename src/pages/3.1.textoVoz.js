@@ -256,7 +256,7 @@ export default function TextoVoz() {
         </p>
 
         <img className="imagenescontenido" 
-              src="https://firebasestorage.googleapis.com/v0/b/mincultura-a4665.appspot.com/o/10.%20Texto%2C%20voz%20y%20canto.jpg?alt=media&token=b58fd597-1818-429d-b991-700985ba5634">
+              src="https://firebasestorage.googleapis.com/v0/b/mincultura-lineamientos.appspot.com/o/Painnt_211010091719.jpg?alt=media&token=cc9a94dd-cf47-4162-8e80-56b644e55b51">
            </img>
 
 
