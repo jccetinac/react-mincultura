@@ -12,6 +12,13 @@ h6 {
  margin-top: 15px;
 }
 
+.card {
+  background-color: #4d4d4d !important;
+}
+
+#root {
+  background-color: #3f3f3f !important;
+}
 
 
 /* IMAGENES*/
