@@ -73,6 +73,16 @@ h6 {
   margin-bottom: 45px;
 }
 
+.graficocontenido {
+  display: block;
+  width: 100%;
+  max-width: 450px;
+  margin: auto;
+  margin-top: 25px;
+  margin-bottom: 45px;
+}
+
+
 .imagenminicss{
   display: block;
   margin: auto;
@@ -84,19 +94,19 @@ h6 {
 }
 
 .imagenmini1{
-  background-image: url("https://firebasestorage.googleapis.com/v0/b/mincultura-a4665.appspot.com/o/1mini.png?alt=media&token=cb0c0ef4-cf5b-4a7d-98c1-066923acafbc");
+  background-image: url("https://firebasestorage.googleapis.com/v0/b/mincultura-lineamientos.appspot.com/o/mi1.jpeg?alt=media&token=d07053dc-1046-4a57-a318-7907b8be5529");
 }
 
 .imagenmini2{
-  background-image: url("https://firebasestorage.googleapis.com/v0/b/mincultura-a4665.appspot.com/o/2mini.png?alt=media&token=e7a0289c-200e-4d1a-be0d-3395bf9c0e97");
+  background-image: url("https://firebasestorage.googleapis.com/v0/b/mincultura-lineamientos.appspot.com/o/mi2.jpeg?alt=media&token=f3c5aa0d-8ae7-4fdb-b242-3196522611af");
 }
 
 .imagenmini3{
-  background-image: url("https://firebasestorage.googleapis.com/v0/b/mincultura-a4665.appspot.com/o/3mini.png?alt=media&token=2076bcaa-3111-4229-8a74-2633c1ba9319");
+  background-image: url("https://firebasestorage.googleapis.com/v0/b/mincultura-lineamientos.appspot.com/o/mi3.jpeg?alt=media&token=3af720bb-4673-4502-a4bd-ff6476bc4a07");
 }
 
 .imagenmini4{
-  background-image: url("https://firebasestorage.googleapis.com/v0/b/mincultura-a4665.appspot.com/o/4mini.png?alt=media&token=c36c0272-6690-4480-8856-f204a66f26fe");
+  background-image: url("https://firebasestorage.googleapis.com/v0/b/mincultura-lineamientos.appspot.com/o/mi44.jpeg?alt=media&token=c0f49684-2262-4156-ad64-0d05d1fec7bd");
 }
 
   

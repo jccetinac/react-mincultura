@@ -46,8 +46,8 @@ export default function Oralidad() {
       Algunas de las particularidades de la oralidad señaladas por Sans (2001, p. 112), pueden ser útiles para pensar características de las músicas de tradición oral. En particular, haciendo referencia al repentismo, hablaremos de la acumulación y de la repetición. Así, diremos que las músicas de tradición oral son:
       </p>
 
-      <img className="imagenescontenido" 
-              src="https://firebasestorage.googleapis.com/v0/b/mincultura-a4665.appspot.com/o/WhatsApp%20Image%202021-09-14%20at%209.36.27%20PM.jpeg?alt=media&token=78bb96c0-5d55-4992-b0dc-7df83c6a59a8">
+      <img className="graficocontenido" 
+              src="https://firebasestorage.googleapis.com/v0/b/mincultura-lineamientos.appspot.com/o/grafico2_Mesa%20de%20trabajo%201.png?alt=media&token=63b7b153-65c8-421c-9b69-4c882b8dbb01">
            </img>
 
       <ul>
