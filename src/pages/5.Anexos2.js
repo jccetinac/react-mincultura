@@ -78,7 +78,7 @@ export default function Anexos2() {
             </div>
 
             <div class="col-sm-4 col pt-2 pb-2">
-              <img className="imagenAnexos" src="https://firebasestorage.googleapis.com/v0/b/mincultura-a4665.appspot.com/o/WhatsApp%20Image%202021-09-13%20at%205.40.21%20PM%20(3).jpeg?alt=media&token=ca911b44-809e-40be-bfc3-3a7f68b60939">
+              <img className="imagenAnexos" src="https://firebasestorage.googleapis.com/v0/b/mincultura-lineamientos.appspot.com/o/sonido.png?alt=media&token=8aff81e3-fe30-42ab-a773-ab3df2fbae86">
               </img>
             </div>
          </div>
@@ -128,7 +128,7 @@ export default function Anexos2() {
              </div>
 
              <div class="col-sm-4 col pt-2 pb-2">
-              <img className="imagenAnexos" src="https://firebasestorage.googleapis.com/v0/b/mincultura-a4665.appspot.com/o/WhatsApp%20Image%202021-09-13%20at%205.40.21%20PM%20(3).jpeg?alt=media&token=ca911b44-809e-40be-bfc3-3a7f68b60939">
+              <img className="imagenAnexos" src="https://firebasestorage.googleapis.com/v0/b/mincultura-lineamientos.appspot.com/o/sonido.png?alt=media&token=8aff81e3-fe30-42ab-a773-ab3df2fbae86">
               </img>
             </div>
             </div> 
@@ -186,7 +186,7 @@ export default function Anexos2() {
             </div>
 
             <div class="col-sm-4 col pt-2 pb-2">
-              <img className="imagenAnexos" src="https://firebasestorage.googleapis.com/v0/b/mincultura-a4665.appspot.com/o/WhatsApp%20Image%202021-09-13%20at%205.40.21%20PM%20(3).jpeg?alt=media&token=ca911b44-809e-40be-bfc3-3a7f68b60939">
+              <img className="imagenAnexos" src="https://firebasestorage.googleapis.com/v0/b/mincultura-lineamientos.appspot.com/o/sonido.png?alt=media&token=8aff81e3-fe30-42ab-a773-ab3df2fbae86">
               </img>
             </div>
           </div>
@@ -227,7 +227,7 @@ export default function Anexos2() {
             </div>
 
                 <div class="col-sm-4 col pt-2 pb-2">
-              <img className="imagenAnexos" src="https://firebasestorage.googleapis.com/v0/b/mincultura-a4665.appspot.com/o/WhatsApp%20Image%202021-09-13%20at%205.40.21%20PM%20(3).jpeg?alt=media&token=ca911b44-809e-40be-bfc3-3a7f68b60939">
+              <img className="imagenAnexos" src="https://firebasestorage.googleapis.com/v0/b/mincultura-lineamientos.appspot.com/o/sonido.png?alt=media&token=8aff81e3-fe30-42ab-a773-ab3df2fbae86">
               </img>
             </div>
           </div>
@@ -295,7 +295,7 @@ export default function Anexos2() {
 
 
              <div class="col-sm-4 col pt-2 pb-2">
-              <img className="imagenAnexos" src="https://firebasestorage.googleapis.com/v0/b/mincultura-a4665.appspot.com/o/WhatsApp%20Image%202021-09-13%20at%205.40.21%20PM%20(3).jpeg?alt=media&token=ca911b44-809e-40be-bfc3-3a7f68b60939">
+              <img className="imagenAnexos" src="https://firebasestorage.googleapis.com/v0/b/mincultura-lineamientos.appspot.com/o/sonido.png?alt=media&token=8aff81e3-fe30-42ab-a773-ab3df2fbae86">
               </img>
             </div>
           </div>
