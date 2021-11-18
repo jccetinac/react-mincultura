@@ -209,7 +209,7 @@ h6 {
 
 .fondorojohome{
   z-index: 1;
-  background-color:rgba(168, 11, 11, 0);
+  background-color:rgba(132, 10, 247, 0);
   position: absolute;
   Width:100%; 
   height:100%;
@@ -252,7 +252,7 @@ h6 {
 
 .subtitulo {
   z-index:10;
-  color:white;
+  color:rgb(238, 235, 80);
   background-color: rgb(51 51 51 / 33%);
   font-size: 180%;
   font-weight:bold;
@@ -288,6 +288,10 @@ h6 {
   font-family: 'Roboto', sans-serif;
 }
 
+.parrafomini {
+  margin-bottom: -7vh;
+}
+  
 .page {
   padding-top: 100px;
   text-align: center;
@@ -506,6 +510,10 @@ a:hover {
   margin-top: 0px;
   background-color: #32313a;
   box-shadow: 0 8px 30px 10px #1c1c1c;
+  position: sticky;
+  top: 51px;
+  height: 95vh;
+  overflow-y: auto;
 }
 .menu a {
   color: white;
