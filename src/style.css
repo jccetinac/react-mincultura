@@ -7,7 +7,7 @@ h1,h2,h3,h4,h5,p,i,b,ul,em
 }
 
 h6 {
- color: rgb(214, 42, 42);
+ color: purple;
  text-align: center;
  margin-top: 15px;
 }
@@ -222,7 +222,7 @@ h6 {
 /* paginas*/
 
 .titulo{
-  color: red;
+  color: purple;
   font-size: 210%;
   width: 80%;
   display: block;
@@ -252,7 +252,7 @@ h6 {
 
 .subtitulo {
   z-index:10;
-  color:rgb(238, 235, 80);
+  color:white;
   background-color: rgb(51 51 51 / 33%);
   font-size: 180%;
   font-weight:bold;
@@ -263,12 +263,13 @@ h6 {
   text-align: center;
   position: absolute;
   padding:40px;
+  text-shadow: 2px 2px 3px rgba(0,0,0,0.93);
 }
 
 
 
 .subcapitulo{
-  color:rgb(243, 22, 22);
+  color:purple;
   font-size: 130%;
   width: 80%;
   display: block;
@@ -317,7 +318,7 @@ h6 {
 }
 
 .page a {
-  color: red;
+  color: purple;
   text-decoration: unset;
 }
 
@@ -345,7 +346,7 @@ em{
 }
 
 .confondo{
-  background-color: rgba(168, 11, 11, 0.322);
+  background-color: rgba(128, 0, 128, 0.322);
   color: white;
   width: 70%;
   text-align: justify;
@@ -363,7 +364,7 @@ margin-bottom:10px;
 
 .destacados{
   color: white;
-  border:solid 1px rgb(241, 69, 69);
+  border:solid 1px purple;
   width: 70%;
   text-align: justify;
   display: block;
@@ -397,25 +398,25 @@ margin-bottom:10px;
 }
 
 .tablamin .par {
-  background-color: rgba(238, 50, 50, 0.383);
+  background-color: rgba(128, 0, 128, 0.383);
 }
 .tablamin .impar {
-  background-color: rgba(248, 6, 6, 0.322);
+  background-color: rgba(128, 0, 128, 0.322);
 }
 
 .par{
-  background-color: rgba(238, 50, 50, 0.383);
+  background-color: rgba(128, 0, 128, 0.383);
 }
 
 .impar{
-  background-color: rgba(248, 6, 6, 0.322); 
+  background-color: rgba(128, 0, 128, 0.322); 
 }
 
 .tablamin th {
   border-collapse: collapse;
   border: 1px solid rgb(117, 115, 115);
   color: white;
-  background-color: rgb(214, 42, 42);
+  background-color: purple;
   text-align: center;
   padding: 15px;
 }
@@ -480,7 +481,7 @@ margin-bottom:10px;
 .contenedortabla .col{
   margin-bottom: 1px;
   color: white;
-  border:1px solid red;
+  border:1px solid purple;
   padding-bottom: 7px;  
 }
 
@@ -494,11 +495,14 @@ margin-bottom:10px;
 /*Menu*/
 
 a {
-  color: red;
+  color: purple;
   text-decoration: none;
 }
 a:hover {
   color: blueviolet;
+}
+.linkselected {
+  color: rgb(185, 32, 216) !important;
 }
 
 .subitems{
@@ -520,7 +524,7 @@ a:hover {
   text-decoration: unset;
 }
 .menu a:hover {
-  color: red;
+  color: purple;
 }
 
 .menu a:active {
@@ -528,7 +532,7 @@ a:hover {
 
 
 .menu li {
-  color: red;
+  color: purple;
   margin-bottom: 7px;
 }
 
@@ -547,23 +551,23 @@ a:hover {
     text-align: justify;
     padding-left:25px;
     padding-right:25px;
-    border: 1px solid red;
+    border: 1px solid purple;
   }
 
   sup{
-    color: red;
+    color: purple;
     cursor:pointer;
 
   }
 
   .numeromodal{
-    color: red;
+    color: purple;
   }
   .closemodal{ 
     color:white;
-    background-color:red;
+    background-color:purple;
     font-size:140%;
-    border:1px solid red; 
+    border:1px solid purple; 
     padding-left: 8px;
     padding-right: 8px;
   }
@@ -576,10 +580,10 @@ a:hover {
   }
 
   .rojos{
-    color: red;
+    color: purple;
     }
   .preguntas{
-    color: rgb(179, 40, 40);
+    color: purple;
   }
 
     body{
@@ -590,7 +594,7 @@ a:hover {
     /*CREDITOS*/
 
     .tituloC{
-      color: red;
+      color: purple;
       font-size: 170%;
       width: 80%;
       display: block;
@@ -624,7 +628,10 @@ a:hover {
     }
 
     .rojoC{
-      color: red;
+      color: purple;
+    }
+    .bg-danger{
+      background-color: purple !important;
     }
 
 
