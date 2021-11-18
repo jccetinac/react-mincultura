@@ -7,7 +7,7 @@ h1,h2,h3,h4,h5,p,i,b,ul,em
 }
 
 h6 {
- color: purple;
+ color: rgb(23, 183, 156);
  text-align: center;
  margin-top: 15px;
 }
@@ -222,7 +222,7 @@ h6 {
 /* paginas*/
 
 .titulo{
-  color: purple;
+  color: rgb(23, 183, 156);
   font-size: 210%;
   width: 80%;
   display: block;
@@ -269,7 +269,7 @@ h6 {
 
 
 .subcapitulo{
-  color:purple;
+  color:rgb(23, 183, 156);
   font-size: 130%;
   width: 80%;
   display: block;
@@ -318,7 +318,7 @@ h6 {
 }
 
 .page a {
-  color: purple;
+  color: rgb(23, 183, 156);
   text-decoration: unset;
 }
 
@@ -346,7 +346,7 @@ em{
 }
 
 .confondo{
-  background-color: rgba(128, 0, 128, 0.322);
+  background-color: rgba(23, 183, 156, 0.322);
   color: white;
   width: 70%;
   text-align: justify;
@@ -364,7 +364,7 @@ margin-bottom:10px;
 
 .destacados{
   color: white;
-  border:solid 1px purple;
+  border:solid 1px rgb(23, 183, 156);
   width: 70%;
   text-align: justify;
   display: block;
@@ -398,25 +398,25 @@ margin-bottom:10px;
 }
 
 .tablamin .par {
-  background-color: rgba(128, 0, 128, 0.383);
+  background-color: rgba(23, 183, 156, 0.4);
 }
 .tablamin .impar {
-  background-color: rgba(128, 0, 128, 0.322);
+  background-color: rgba(23, 183, 156, 0.2);
 }
 
 .par{
-  background-color: rgba(128, 0, 128, 0.383);
+  background-color: rgba(23, 183, 156, 0.4);
 }
 
 .impar{
-  background-color: rgba(128, 0, 128, 0.322); 
+  background-color: rgba(23, 183, 156, 0.2); 
 }
 
 .tablamin th {
   border-collapse: collapse;
   border: 1px solid rgb(117, 115, 115);
   color: white;
-  background-color: purple;
+  background-color: rgb(23, 183, 156);
   text-align: center;
   padding: 15px;
 }
@@ -481,7 +481,7 @@ margin-bottom:10px;
 .contenedortabla .col{
   margin-bottom: 1px;
   color: white;
-  border:1px solid purple;
+  border:1px solid rgb(23, 183, 156);
   padding-bottom: 7px;  
 }
 
@@ -495,14 +495,14 @@ margin-bottom:10px;
 /*Menu*/
 
 a {
-  color: purple;
+  color: rgb(23, 183, 156);
   text-decoration: none;
 }
 a:hover {
-  color: blueviolet;
+  color:rgb(23, 183, 156);
 }
 .linkselected {
-  color: rgb(185, 32, 216) !important;
+  color: rgb(23, 183, 156) !important;
 }
 
 .subitems{
@@ -524,7 +524,7 @@ a:hover {
   text-decoration: unset;
 }
 .menu a:hover {
-  color: purple;
+  color: rgb(23, 183, 156);
 }
 
 .menu a:active {
@@ -532,7 +532,7 @@ a:hover {
 
 
 .menu li {
-  color: purple;
+  color: rgb(23, 183, 156);
   margin-bottom: 7px;
 }
 
@@ -551,23 +551,23 @@ a:hover {
     text-align: justify;
     padding-left:25px;
     padding-right:25px;
-    border: 1px solid purple;
+    border: 1px solid rgb(23, 183, 156);
   }
 
   sup{
-    color: purple;
+    color: rgb(23, 183, 156);
     cursor:pointer;
 
   }
 
   .numeromodal{
-    color: purple;
+    color: rgb(23, 183, 156);
   }
   .closemodal{ 
     color:white;
-    background-color:purple;
+    background-color:rgb(23, 183, 156);
     font-size:140%;
-    border:1px solid purple; 
+    border:1px solid rgb(23, 183, 156); 
     padding-left: 8px;
     padding-right: 8px;
   }
@@ -580,10 +580,10 @@ a:hover {
   }
 
   .rojos{
-    color: purple;
+    color: rgb(23, 183, 156);
     }
   .preguntas{
-    color: purple;
+    color: rgb(23, 183, 156);
   }
 
     body{
@@ -594,7 +594,7 @@ a:hover {
     /*CREDITOS*/
 
     .tituloC{
-      color: purple;
+      color: rgb(23, 183, 156);
       font-size: 170%;
       width: 80%;
       display: block;
@@ -628,10 +628,31 @@ a:hover {
     }
 
     .rojoC{
-      color: purple;
+      color: rgb(23, 183, 156);
     }
     .bg-danger{
-      background-color: purple !important;
+      background-color: rgb(23, 183, 156) !important;
     }
 
+/*barra*/
+/* ===== Scrollbar CSS ===== */
+  /* Firefox */
+  * {
+    scrollbar-width: auto;
+    scrollbar-color: #17b79c #ffffff;
+  }
 
+  /* Chrome, Edge, and Safari */
+  *::-webkit-scrollbar {
+    width: 16px;
+  }
+
+  *::-webkit-scrollbar-track {
+    background: #ffffff;
+  }
+
+  *::-webkit-scrollbar-thumb {
+    background-color: #17b79c;
+    border-radius: 10px;
+    border: 3px solid #ffffff;
+  }
