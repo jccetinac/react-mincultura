@@ -26,10 +26,10 @@ export default function Creditos() {
           <span className="rojoC">Coordinación del proceso por parte del Ministerio de Cultura:</span>
       </p>
      <p className="parrafoC1">
-          Claudia Mejía 
+          Claudia Marina Mejía Garzón 
      </p>
      <p className="parrafoC2">
-          Liliana Flechas 
+          Liliana del pilar Flechas Rodríguez 
      </p>
      <p className="parrafoC1">
           <span className="rojoC">Coordinación del proceso y redacción del texto: </span>
@@ -44,25 +44,22 @@ export default function Creditos() {
         Ana Iris Castillo
       </p>
      <p className="parrafoC1">
-        Carlos Fernando Cardona
+        Carlos Fernando Acosta
      </p>
      <p className="parrafoC1">
         César de Jesús Hernández
      </p>
      <p className="parrafoC1">
-        Efraín Franco
+        Efrain Franco Arbeláez
      </p>
      <p className="parrafoC1">
         Gustavo Córdoba -Hijuelapo-
      </p>
      <p className="parrafoC1">
-        Jhon Moreno
+        Jhon Emerson Moreno Riaño
      </p>
      <p className="parrafoC1">
-        Jorge Sossa
-     </p>
-     <p className="parrafoC2">
-       Paola López
+        Jorge Sossa Santos
      </p>
      <p className="parrafoC1">
           <span className="rojoC">EDITORIAL D’ARTAGNAN S.A.S</span>

@@ -73,7 +73,7 @@ export default function App() {
       <div className="p-5 text-white">
         <Router>
           <div className="row">
-            <div className="col-md-3">
+            <div className="col-md-3 contenedor-menu">
               <Menu />
             </div>
             <div className="col-md-9">
