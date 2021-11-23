@@ -13,7 +13,7 @@ export default function Creditos() {
           <span className="rojoC">Viceministra de Creatividad y Economía Naranja - </span>Adriana Padilla Leal
       </p>
       <p className="parrafoC1">
-          <span className="rojoC">Directora de Artes(E) - </span>Angela Beltran
+          <span className="rojoC">Directora de Artes(E) - </span>Angela Marcela Beltran Pinzón
       </p>
       <p className="parrafoC1">
           <span className="rojoC">Coordinadora Área de música - </span>Susana Palacios David
