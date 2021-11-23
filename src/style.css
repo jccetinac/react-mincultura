@@ -512,7 +512,7 @@ a:hover {
   
 }
 
-.menu {
+#root .menu {
   margin-top: 0px;
   background-color: #32313a;
   box-shadow: 0 8px 30px 10px #1c1c1c;
@@ -632,7 +632,7 @@ a:hover {
     .rojoC{
       color: rgb(23, 183, 156);
     }
-    .bg-danger{
+    #root  .bg-danger{
       background-color: rgb(23, 183, 156) !important;
     }
 
@@ -641,7 +641,7 @@ a:hover {
   /* Firefox */
   * {
     scrollbar-width: auto;
-    scrollbar-color: #17b79c  rgb(32, 32, 32);
+    scrollbar-color: #167c6b  rgb(32, 32, 32);
   }
 
   /* Chrome, Edge, and Safari */
@@ -654,7 +654,7 @@ a:hover {
   }
 
   *::-webkit-scrollbar-thumb {
-    background-color: #17b79c;
+    background-color: #1c806f;
     border-radius: 10px;
     border: 0px solid rgb(32, 32, 32);
   }
