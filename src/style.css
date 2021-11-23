@@ -198,7 +198,7 @@ h6 {
 }
 
 .portadaHome{
-  background-image: url("https://firebasestorage.googleapis.com/v0/b/mincultura-lineamientos.appspot.com/o/fondo1.jpg?alt=media&token=b7e61e01-b001-4302-b004-15c3d15d0688");
+  background-image: url("https://firebasestorage.googleapis.com/v0/b/lineamientos-avanzado.appspot.com/o/OQCI901.png?alt=media&token=99d43037-48eb-423c-ab47-e7f19a4a4211");
   height: 80vh;
   Width:100%;
   background-position: center;
@@ -235,17 +235,17 @@ h6 {
 .tituloHome {
   z-index:10;
   color:white;
-  background-color: rgb(51 51 51 / 33%);
+  background-color:#24232340;
   font-size: 200%;
   font-weight:bold;
   width: 100%;
   display: block;
   margin: auto;
-  margin-top: 20%;
+  margin-top: 15%;
   text-align: center;
   position: absolute;
   padding:80px;
-
+  text-shadow: 5px 3px 10px black;
 }
 
 
@@ -311,11 +311,13 @@ h6 {
 }
 
 .pageHome {
-  height: 187vh;
+  height: 80vh;
   Background-position: center;
   background-color:#32313a;
   box-shadow: 0 8px 30px 10px #1c1c1c;
 }
+
+
 
 .page a {
   color: rgb(23, 183, 156);
@@ -510,7 +512,7 @@ a:hover {
   
 }
 
-.menu {
+#root .menu {
   margin-top: 0px;
   background-color: #32313a;
   box-shadow: 0 8px 30px 10px #1c1c1c;
@@ -630,7 +632,7 @@ a:hover {
     .rojoC{
       color: rgb(23, 183, 156);
     }
-    .bg-danger{
+    #root  .bg-danger{
       background-color: rgb(23, 183, 156) !important;
     }
 
@@ -639,7 +641,7 @@ a:hover {
   /* Firefox */
   * {
     scrollbar-width: auto;
-    scrollbar-color: #17b79c #ffffff;
+    scrollbar-color: #167c6b  rgb(32, 32, 32);
   }
 
   /* Chrome, Edge, and Safari */
@@ -648,11 +650,11 @@ a:hover {
   }
 
   *::-webkit-scrollbar-track {
-    background: #ffffff;
+    background:  rgb(32, 32, 32);
   }
 
   *::-webkit-scrollbar-thumb {
-    background-color: #17b79c;
+    background-color: #1c806f;
     border-radius: 10px;
-    border: 3px solid #ffffff;
+    border: 0px solid rgb(32, 32, 32);
   }

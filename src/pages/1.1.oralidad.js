@@ -47,7 +47,7 @@ export default function Oralidad() {
       </p>
 
       <img className="graficocontenido" 
-              src="https://firebasestorage.googleapis.com/v0/b/mincultura-lineamientos.appspot.com/o/grafico2_Mesa%20de%20trabajo%201.png?alt=media&token=63b7b153-65c8-421c-9b69-4c882b8dbb01">
+              src="https://firebasestorage.googleapis.com/v0/b/lineamientos-avanzado.appspot.com/o/grafico1.png?alt=media&token=7063db3a-2ec2-4466-acb1-fee808d431b6">
            </img>
 
       <ul>
