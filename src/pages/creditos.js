@@ -86,7 +86,7 @@ export default function Creditos() {
         Primera edición 2021
      </p>
      <p className="parrafoC1">
-        ISBN Versión Digital PDF: XXXXXXXXXXXX
+        ISBN Versión Digital PDF: 978-958-753-477-1
      </p>
      <p className="parrafoC2">
         ... otros
